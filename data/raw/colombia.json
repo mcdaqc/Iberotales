@@ -1,0 +1,211 @@
+[
+    {
+      "nombre": "La Llorona",
+      "pais": "Colombia",
+      "descripcion": "Un espíritu femenino que llora por sus hijos perdidos y aparece cerca de ríos y lagunas.",
+      "historia": "La Llorona es una mujer que, según la leyenda, ahogó a sus hijos en un arranque de locura o desesperación y luego se arrepintió profundamente. Desde entonces, su espíritu vaga por las orillas del agua, llorando y buscando a sus hijos. Se dice que escuchar su llanto presagia desgracias o la muerte de alguien cercano.",
+      "url_fuentes": [
+        "https://www.larepublica.co/ocio/mitos-y-leyendas-de-colombia-2993393"
+      ]
+    },
+    {
+      "nombre": "El Mohán",
+      "pais": "Colombia",
+      "descripcion": "Un ser legendario de la mitología colombiana, habitante de ríos y lagunas, con aspecto de hombre grande y pelo largo.",
+      "historia": "El Mohán es descrito como un hombre corpulento, de piel oscura y cabello largo que vive en ríos y lagunas, especialmente en la región del Magdalena. Es conocido por su fuerza y habilidad para atraer a los pescadores para castigarlos o proteger la naturaleza acuática. Se le atribuyen poderes mágicos y es temido por quienes navegan cerca de su territorio.",
+      "url_fuentes": [
+        "https://mitosyleyendasdecolombia.com/el-mohan/"
+      ]
+    },
+    {
+      "nombre": "El Patasola",
+      "pais": "Colombia",
+      "descripcion": "Un espíritu femenino con un solo pie, que habita la selva y atrae a los hombres para perderse o morir.",
+      "historia": "La Patasola es una mujer que fue castigada por sus malos actos y transformada en un ser aterrador con un solo pie. Se aparece en la selva para atraer a los hombres con su belleza, pero cuando se acercan, revela su verdadera forma para espantarlos o hacerles daño. Es una advertencia sobre el respeto a la naturaleza y la fidelidad.",
+      "url_fuentes": [
+        "https://mitosyleyendasdecolombia.com/la-patasola/"
+      ]
+    },
+    {
+      "nombre": "La Madre Monte",
+      "pais": "Colombia",
+      "descripcion": "Un espíritu protector de la naturaleza, que cuida los bosques y castiga a quienes los dañan.",
+      "historia": "La Madre Monte es una mujer que vive en los bosques y se encarga de proteger la flora y fauna. Se presenta como una mujer hermosa o una figura aterradora, dependiendo de su objetivo. Castiga a los cazadores furtivos, leñadores o cualquier persona que dañe la naturaleza, haciendo que se pierdan o enfermándose de forma misteriosa.",
+      "url_fuentes": [
+        "https://mitosyleyendasdecolombia.com/la-madre-monte/"
+      ]
+    },
+    {
+      "nombre": "El Hombre Caimán",
+      "pais": "Colombia",
+      "descripcion": "Una criatura mitad hombre, mitad caimán que habita en ríos y es temida por pescadores y navegantes.",
+      "historia": "El Hombre Caimán era un hombre que fue transformado en una criatura híbrida con cabeza y cuerpo de caimán y torso de hombre. Se dice que cazaba y atrapaba a los pescadores para devorarlos o arrastrarlos al fondo del río. Su leyenda es muy popular en la región del Magdalena y advierte sobre el respeto a los cuerpos de agua.",
+      "url_fuentes": [
+        "https://mitosyleyendasdecolombia.com/el-hombre-caiman/"
+      ]
+    },
+    {
+      "nombre": "El Sombrerón",
+      "pais": "Colombia",
+      "descripcion": "Un pequeño hombre que usa un sombrero grande y tiene el poder de hechizar a las mujeres jóvenes.",
+      "historia": "El Sombrerón es un ser travieso que ronda en las noches, especialmente en zonas rurales. Se dice que encanta a las mujeres jóvenes con su canto y guitarra, causando que se enamoren locamente o que pierdan el sueño. Se cree que para protegerse de él deben trenzarse el cabello o usar objetos de hierro.",
+      "url_fuentes": [
+        "https://mitosyleyendasdecolombia.com/el-sombreron/"
+      ]
+    },
+    {
+      "nombre": "La Tunda",
+      "pais": "Colombia",
+      "descripcion": "Un monstruo femenino que habita en la selva del Pacífico colombiano y captura a sus víctimas para alimentarse.",
+      "historia": "La Tunda es una mujer con la capacidad de transformarse en una persona conocida para atraer a sus víctimas. Tiene un pie de madera o deformado y un gran apetito. Se dice que atrae a quienes se internan en la selva para perderlos y alimentarse de ellos lentamente. Es un mito usado para advertir sobre los peligros del bosque.",
+      "url_fuentes": [
+        "https://mitosyleyendasdecolombia.com/la-tunda/"
+      ]
+    },
+    {
+      "nombre": "El Desuellamentes",
+      "pais": "Colombia",
+      "descripcion": "Un ser demoníaco que se dedica a extraer la piel y la mente de sus víctimas.",
+      "historia": "El Desuellamentes es un espectro oscuro y terrorífico que aparece en la noche para atacar a las personas, especialmente a quienes transitan solos. Se dice que despoja a sus víctimas de la piel y los deja sin mente, transformándolos en zombis o almas errantes. Es una representación del miedo a la muerte violenta y la pérdida de la identidad.",
+      "url_fuentes": [
+        "https://mitosyleyendasdecolombia.com/el-desuellamentes/"
+      ]
+    },
+    {
+      "nombre": "El Hojarasquín",
+      "pais": "Colombia",
+      "descripcion": "Un espíritu travieso que habita los bosques y se esconde entre las hojas secas.",
+      "historia": "El Hojarasquín es un ser pequeño y escurridizo que gusta de hacer bromas a los viajeros. Se dice que se mueve entre las hojas secas y crea ruidos para asustar o desorientar. Aunque no es peligroso, su presencia puede provocar miedo o confusión. Es una manifestación de la naturaleza viva y juguetona.",
+      "url_fuentes": [
+        "https://mitosyleyendasdecolombia.com/el-hojarasquin/"
+      ]
+    },
+    {
+      "nombre": "El Silbón",
+      "pais": "Colombia",
+      "descripcion": "Un espíritu errante que se escucha silbar en las noches, anunciando muerte o desgracia.",
+      "historia": "El Silbón es el alma de un joven que fue castigado por matar a su padre. Su espíritu vaga llevando un saco con los huesos de su padre y su silbido es un presagio fatal. Se cree que escuchar su silbido cerca de uno indica que la muerte o la mala suerte están próximas. Se dice que el silbido cambia de tono para confundir a quienes lo escuchan.",
+      "url_fuentes": [
+        "https://mitosyleyendasdecolombia.com/el-silbon/"
+      ]
+    },
+    {
+      "nombre": "El Guaca",
+      "pais": "Colombia",
+      "descripcion": "Un espíritu protector de los tesoros enterrados y sitios arqueológicos.",
+      "historia": "El Guaca es una entidad que cuida las riquezas y objetos antiguos enterrados, castigando a quienes intentan robarlos o profanarlos. Se aparece como un anciano o una sombra y puede provocar maldiciones o desgracias a los ladrones. Su mito refleja el respeto por la historia y el patrimonio cultural.",
+      "url_fuentes": [
+        "https://mitosyleyendasdecolombia.com/el-guaca/"
+      ]
+    },
+    {
+      "nombre": "El Hombre Culebra",
+      "pais": "Colombia",
+      "descripcion": "Una criatura mitad hombre y mitad serpiente que habita ríos y montañas.",
+      "historia": "El Hombre Culebra es un ser que puede adoptar forma humana o serpentina. Es protector de la naturaleza y castiga a quienes la dañan. Se le atribuyen poderes mágicos y se dice que puede desaparecer o aparecer a voluntad. Su leyenda es común en regiones amazónicas y andinas.",
+      "url_fuentes": [
+        "https://mitosyleyendasdecolombia.com/el-hombre-culebra/"
+      ]
+    },
+    {
+      "nombre": "La Loba",
+      "pais": "Colombia",
+      "descripcion": "Un espíritu femenino que se transforma en loba para proteger la selva y sus habitantes.",
+      "historia": "La Loba aparece como una mujer hermosa que puede convertirse en loba para cazar y defender el bosque. Es temida por los cazadores ilegales y respetada por quienes cuidan la naturaleza. Su historia representa la dualidad entre lo humano y lo animal, y la conexión con la tierra.",
+      "url_fuentes": [
+        "https://mitosyleyendasdecolombia.com/la-loba/"
+      ]
+    },
+    {
+      "nombre": "Bachué",
+      "pais": "Colombia",
+      "descripcion": "Diosa madre creadora de los muiscas, considerada la madre de la humanidad.",
+      "historia": "Según la mitología muisca, Bachué emergió de una cueva con un niño en brazos. De ella descendió toda la humanidad. Después de poblar la tierra, volvió al lago con su hijo y se convirtieron en serpientes para regresar a su origen.",
+      "url_fuentes": [
+        "https://mitosyleyendasdecolombia.com/bachue/"
+      ]
+    },
+    {
+      "nombre": "Chiminigagua",
+      "pais": "Colombia",
+      "descripcion": "Deidad creadora muisca, dios supremo que trajo la luz al mundo.",
+      "historia": "Chiminigagua es el dios creador que hizo brillar el sol y trajo luz a un mundo en oscuridad. Es el principio de la vida y el orden, y su luz permitió el nacimiento de todas las cosas.",
+      "url_fuentes": [
+        "https://mitosyleyendasdecolombia.com/chiminigagua/"
+      ]
+    },
+    {
+      "nombre": "Bochica",
+      "pais": "Colombia",
+      "descripcion": "Héroe civilizador muisca, maestro de la agricultura y las artes.",
+      "historia": "Bochica enseñó a los muiscas las reglas de convivencia, la agricultura y la construcción. Se dice que creó el valle de Bogotá y que, para salvar al pueblo de una gran inundación, golpeó la tierra con su bastón para que el agua se retirara.",
+      "url_fuentes": [
+        "https://mitosyleyendasdecolombia.com/bochica/"
+      ]
+    },
+    {
+      "nombre": "Nemqueteba",
+      "pais": "Colombia",
+      "descripcion": "Dios de los muertos en la mitología muisca.",
+      "historia": "Nemqueteba es el dios que guía las almas de los muertos hacia el más allá. Es considerado justo y protector de las almas, asegurando que cada espíritu encuentre su lugar en el mundo espiritual.",
+      "url_fuentes": [
+        "https://mitosyleyendasdecolombia.com/nemqueteba/"
+      ]
+    },
+    {
+      "nombre": "Furatena",
+      "pais": "Colombia",
+      "descripcion": "Diosa de la fertilidad y el amor entre los quimbayas.",
+      "historia": "Furatena es una figura sagrada para los indígenas quimbayas, vinculada a la abundancia y la protección de la cosecha. Se le rinde culto para garantizar buenas cosechas y la fertilidad de la tierra.",
+      "url_fuentes": [
+        "https://mitosyleyendasdecolombia.com/furatena/"
+      ]
+    },
+    {
+      "nombre": "Jukumari",
+      "pais": "Colombia",
+      "descripcion": "Espíritu animal de la cultura amazónica, representado como el oso andino.",
+      "historia": "El Jukumari es un oso sagrado para los pueblos amazónicos, considerado guardián del bosque y símbolo de fuerza. Se cree que su espíritu protege a la selva y a quienes la habitan.",
+      "url_fuentes": [
+        "https://mitosyleyendasdecolombia.com/jukumari/"
+      ]
+    },
+    {
+      "nombre": "Nencatacoa",
+      "pais": "Colombia",
+      "descripcion": "Dios muisca del arte, la música y la danza.",
+      "historia": "Nencatacoa es el dios que inspiraba a los muiscas en la creación artística y la celebración. Se le representaba con una piel de oso y se le asociaba con fiestas y ceremonias.",
+      "url_fuentes": [
+        "https://mitosyleyendasdecolombia.com/nencatacoa/"
+      ]
+    },
+    {
+      "nombre": "Guatavita",
+      "pais": "Colombia",
+      "descripcion": "Leyenda del lago sagrado muisca, fuente del mito de El Dorado.",
+      "historia": "En el lago Guatavita, los zipas (reyes) muiscas realizaban rituales donde se cubrían de polvo de oro y se sumergían en sus aguas para ofrecer tesoros a los dioses. Este mito inspiró la búsqueda europea del mítico Dorado.",
+      "url_fuentes": [
+        "https://mitosyleyendasdecolombia.com/guatavita/"
+      ]
+    },
+    {
+      "nombre": "El Dorado",
+      "pais": "Colombia",
+      "descripcion": "Leyenda indígena de un reino rico en oro y piedras preciosas.",
+      "historia": "El mito del Dorado surge de las ceremonias donde el jefe muisca se bañaba en oro. Esta leyenda llevó a exploradores europeos a buscar una ciudad llena de riquezas, que nunca encontraron. Es símbolo de riqueza y misterio.",
+      "url_fuentes": [
+        "https://mitosyleyendasdecolombia.com/eldorado/"
+      ]
+    },
+    {
+      "nombre": "Tundama",
+      "pais": "Colombia",
+      "descripcion": "Guerrero y cacique muisca asociado con la resistencia indígena.",
+      "historia": "Tundama fue un líder que resistió la conquista española en la región de Boyacá. Su leyenda habla de su valentía y lucha por defender su pueblo y sus costumbres ancestrales.",
+      "url_fuentes": [
+        "https://mitosyleyendasdecolombia.com/tundama/"
+      ]
+    }
+  ]
+  
+  

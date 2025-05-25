@@ -1,0 +1,227 @@
+[
+    {
+      "nombre": "Chonchón",
+      "pais": "Chile",
+      "descripcion": "Criatura alada de la mitología mapuche, representada como una cabeza humana con orejas que actúan como alas.",
+      "historia": "Según la leyenda, el Chonchón es la forma que adoptan los brujos o 'calcu' al desprender su cabeza del cuerpo y transformarse en esta criatura para realizar actos malignos. Su grito 'tué, tué' es considerado un presagio de muerte.",
+      "url_fuentes": ["https://es.wikipedia.org/wiki/Chonch%C3%B3n"]
+    },
+    {
+      "nombre": "Guallipén",
+      "pais": "Chile",
+      "descripcion": "Ser anfibio de la mitología mapuche con cuerpo de oveja y cabeza de ternero.",
+      "historia": "El Guallipén habita en las orillas de ríos y lagos. Se cree que su aparición o su berrido puede causar malformaciones en los recién nacidos y afectar la fertilidad de las mujeres que lo escuchan.",
+      "url_fuentes": ["https://es.wikipedia.org/wiki/Guallip%C3%A9n"]
+    },
+    {
+      "nombre": "Basilisco chilote",
+      "pais": "Chile",
+      "descripcion": "Criatura mitad gallo y mitad serpiente de la mitología chilota.",
+      "historia": "Nace de un huevo incubado por un gallo. Durante la noche, el basilisco se alimenta del aliento y la saliva de las personas dormidas, provocando enfermedades y la muerte.",
+      "url_fuentes": ["https://es.wikipedia.org/wiki/Basilisco_chilote"]
+    },
+    {
+      "nombre": "El Cuero",
+      "pais": "Chile",
+      "descripcion": "Criatura acuática similar a una manta raya, con ojos en los extremos y una gran boca ventosa en el centro.",
+      "historia": "Habita en ríos y lagos, donde ataca a animales y personas, envolviéndolos y absorbiendo sus fluidos hasta causarles la muerte.",
+      "url_fuentes": ["https://es.wikipedia.org/wiki/Cuero_(leyenda)"]
+    },
+    {
+      "nombre": "Colo Colo",
+      "pais": "Chile",
+      "descripcion": "Ser maligno con forma de rata o serpiente emplumada que habita en las casas.",
+      "historia": "Se alimenta de la saliva y la energía vital de las personas mientras duermen, provocando enfermedades y debilidad. Su presencia se asocia con ambientes insalubres y decadencia.",
+      "url_fuentes": ["https://es.wikipedia.org/wiki/Colo_Colo_(mitolog%C3%ADa)"]
+    },
+    {
+      "nombre": "Anchimallén",
+      "pais": "Chile",
+      "descripcion": "Espíritu luminoso de pequeño tamaño que aparece como una esfera de luz.",
+      "historia": "Considerado un mal augurio, su aparición anuncia desgracias o la muerte. Se le asocia con prácticas de brujería y fenómenos sobrenaturales.",
+      "url_fuentes": ["https://es.wikipedia.org/wiki/Anchimall%C3%A9n"]
+    },
+    {
+      "nombre": "Trauco",
+      "pais": "Chile",
+      "descripcion": "Enano de aspecto desagradable que habita en los bosques de Chiloé.",
+      "historia": "Posee una fuerza descomunal y se le atribuye la capacidad de seducir y embarazar a mujeres jóvenes, incluso contra su voluntad. Su presencia es temida en las zonas rurales.",
+      "url_fuentes": ["https://www.culturagenial.com/es/leyendas-de-chile/"]
+    },
+  {
+    "nombre": "Cuchivilu",
+    "pais": "Chile",
+    "descripcion": "Criatura marina híbrida, mitad cerdo y mitad serpiente, que habita en las costas de Chiloé.",
+    "historia": "El Cuchivilu es conocido por destruir corrales de pesca y contaminar las aguas, provocando enfermedades en quienes se bañan en ellas. Su gruñido es considerado un presagio de muerte.",
+    "url_fuentes": ["https://lamitologiachilena.fandom.com/es/wiki/Cuchivilu"]
+  },
+  {
+    "nombre": "Sumpall",
+    "pais": "Chile",
+    "descripcion": "Seres acuáticos de la mitología mapuche, similares a sirenas, que habitan ríos y lagos.",
+    "historia": "Los Sumpall pueden ser benévolos o vengativos. Se dice que fecundan a mujeres que se bañan solas y protegen los cuerpos de agua de quienes los contaminan.",
+    "url_fuentes": ["https://es.wikipedia.org/wiki/Sumpall"]
+  },
+  {
+    "nombre": "Piuchén",
+    "pais": "Chile",
+    "descripcion": "Criatura cambiante de la mitología mapuche, asociada con la succión de sangre.",
+    "historia": "El Piuchén puede adoptar diversas formas, como serpiente voladora o murciélago, y se alimenta de la sangre de animales y personas, causando enfermedades y muerte.",
+    "url_fuentes": ["https://es.wikipedia.org/wiki/Piuch%C3%A9n"]
+  },
+  {
+    "nombre": "Pincoya",
+    "pais": "Chile",
+    "descripcion": "Espíritu femenino del mar en la mitología chilota, símbolo de fertilidad y abundancia.",
+    "historia": "La Pincoya danza en las playas para indicar la abundancia o escasez de pesca. Su presencia es considerada un buen augurio para los pescadores.",
+    "url_fuentes": ["https://es.wikipedia.org/wiki/Pincoya"]
+  },
+  {
+    "nombre": "Caballo Marino Chilote",
+    "pais": "Chile",
+    "descripcion": "Criatura marina con forma de caballo, utilizada por brujos para llegar al Caleuche.",
+    "historia": "Invisible para la mayoría, este ser es montado por brujos para alcanzar el barco fantasma Caleuche, respetando las leyes mágicas del mar impuestas por Millalobo.",
+    "url_fuentes": ["https://es.wikipedia.org/wiki/Caballo_marino_chilote"]
+  },
+  {
+    "nombre": "Carcancho",
+    "pais": "Chile",
+    "descripcion": "Ser peludo que habita en zonas nevadas, conocido por su andar incansable.",
+    "historia": "El Carcancho se alimenta de tubérculos y deja enormes huellas en la nieve. Aunque muchos lo han seguido, nadie ha logrado alcanzarlo.",
+    "url_fuentes": ["https://www.mondo-libero.eu/personajes_mitologia_chilena_1.htm"]
+  },
+  {
+    "nombre": "Chihued",
+    "pais": "Chile",
+    "descripcion": "Brujo transformado en ave negra cuyo canto anuncia la muerte.",
+    "historia": "El Chihued es un ave del tamaño de un zorzal con un canto áspero. Su presencia es temida, ya que se cree que su canto predice la muerte de quien lo escucha.",
+    "url_fuentes": ["https://www.mondo-libero.eu/personajes_mitologia_chilena_1.htm"]
+  },
+  {
+    "nombre": "Cuchivilu",
+    "pais": "Chile",
+    "descripcion": "Criatura marina híbrida, mitad cerdo y mitad serpiente, que habita en las costas de Chiloé.",
+    "historia": "El Cuchivilu es conocido por destruir corrales de pesca y contaminar las aguas, provocando enfermedades en quienes se bañan en ellas. Su gruñido es considerado un presagio de muerte.",
+    "url_fuentes": ["https://lamitologiachilena.fandom.com/es/wiki/Cuchivilu"]
+  },
+  {
+    "nombre": "Sumpall",
+    "pais": "Chile",
+    "descripcion": "Seres acuáticos de la mitología mapuche, similares a sirenas, que habitan ríos y lagos.",
+    "historia": "Los Sumpall pueden ser benévolos o vengativos. Se dice que fecundan a mujeres que se bañan solas y protegen los cuerpos de agua de quienes los contaminan.",
+    "url_fuentes": ["https://es.wikipedia.org/wiki/Sumpall"]
+  },
+  {
+    "nombre": "Piuchén",
+    "pais": "Chile",
+    "descripcion": "Criatura cambiante de la mitología mapuche, asociada con la succión de sangre.",
+    "historia": "El Piuchén puede adoptar diversas formas, como serpiente voladora o murciélago, y se alimenta de la sangre de animales y personas, causando enfermedades y muerte.",
+    "url_fuentes": ["https://es.wikipedia.org/wiki/Piuch%C3%A9n"]
+  },
+  {
+    "nombre": "Pincoya",
+    "pais": "Chile",
+    "descripcion": "Espíritu femenino del mar en la mitología chilota, símbolo de fertilidad y abundancia.",
+    "historia": "La Pincoya danza en las playas para indicar la abundancia o escasez de pesca. Su presencia es considerada un buen augurio para los pescadores.",
+    "url_fuentes": ["https://es.wikipedia.org/wiki/Pincoya"]
+  },
+  {
+    "nombre": "Caballo Marino Chilote",
+    "pais": "Chile",
+    "descripcion": "Criatura marina con forma de caballo, utilizada por brujos para llegar al Caleuche.",
+    "historia": "Invisible para la mayoría, este ser es montado por brujos para alcanzar el barco fantasma Caleuche, respetando las leyes mágicas del mar impuestas por Millalobo.",
+    "url_fuentes": ["https://es.wikipedia.org/wiki/Caballo_marino_chilote"]
+  },
+  {
+    "nombre": "Carcancho",
+    "pais": "Chile",
+    "descripcion": "Ser peludo que habita en zonas nevadas, conocido por su andar incansable.",
+    "historia": "El Carcancho se alimenta de tubérculos y deja enormes huellas en la nieve. Aunque muchos lo han seguido, nadie ha logrado alcanzarlo.",
+    "url_fuentes": ["https://www.mondo-libero.eu/personajes_mitologia_chilena_1.htm"]
+  },
+  {
+    "nombre": "Chihued",
+    "pais": "Chile",
+    "descripcion": "Brujo transformado en ave negra cuyo canto anuncia la muerte.",
+    "historia": "El Chihued es un ave del tamaño de un zorzal con un canto áspero. Su presencia es temida, ya que se cree que su canto predice la muerte de quien lo escucha.",
+    "url_fuentes": ["https://www.mondo-libero.eu/personajes_mitologia_chilena_1.htm"]
+  },
+  {
+    "nombre": "Ngenechén",
+    "pais": "Chile",
+    "descripcion": "Ser supremo en la religión mapuche, considerado el creador y protector de la humanidad.",
+    "historia": "Ngenechén, también conocido como Guenechén o Ngünechen, es la deidad principal en la cosmovisión mapuche. Representa la fuerza positiva del universo, encargada de mantener el equilibrio y la armonía. Su culto es central en la espiritualidad mapuche.",
+    "url_fuentes": ["https://es.wikipedia.org/wiki/Ngenech%C3%A9n"]
+  },
+  {
+    "nombre": "Ngen-ko",
+    "pais": "Chile",
+    "descripcion": "Espíritu dueño de las aguas en la mitología mapuche.",
+    "historia": "Los Ngen-ko son espíritus que habitan en cuerpos de agua como ríos, lagos y manantiales. Son responsables de cuidar y proteger las aguas, asegurando su pureza y flujo continuo. Se les rinde respeto y se les hacen ofrendas para mantener su favor.",
+    "url_fuentes": ["https://es.wikipedia.org/wiki/Ngen-ko"]
+  },
+  {
+    "nombre": "Ngen-mapu",
+    "pais": "Chile",
+    "descripcion": "Espíritu guardián de la tierra en la mitología mapuche.",
+    "historia": "El Ngen-mapu es el espíritu que protege la tierra y su fertilidad. Se le invoca para asegurar buenas cosechas y se le agradece por los frutos que la tierra ofrece. Es fundamental en las prácticas agrícolas y ceremoniales mapuches.",
+    "url_fuentes": ["https://es.wikipedia.org/wiki/Ngen"]
+  },
+  {
+    "nombre": "Ngen-winkul",
+    "pais": "Chile",
+    "descripcion": "Espíritu protector de los cerros y volcanes en la mitología mapuche.",
+    "historia": "El Ngen-winkul habita en los cerros y volcanes, considerados lugares sagrados. Protege estos espacios y a quienes viven en sus cercanías. Se le respeta y se le hacen ofrendas para evitar desastres naturales y asegurar su protección.",
+    "url_fuentes": ["https://es.wikipedia.org/wiki/Ngen"]
+  },
+  {
+    "nombre": "Ngen-kütral",
+    "pais": "Chile",
+    "descripcion": "Espíritu del fuego en la mitología mapuche.",
+    "historia": "El Ngen-kütral es el espíritu que habita en el fuego, elemento esencial en la vida cotidiana y ceremonial mapuche. Se le considera una fuerza poderosa que puede ser tanto benéfica como destructiva, por lo que se le trata con respeto y reverencia.",
+    "url_fuentes": ["https://es.wikipedia.org/wiki/Ngen"]
+  },
+  {
+    "nombre": "Ngen-kürüf",
+    "pais": "Chile",
+    "descripcion": "Espíritu del viento en la mitología mapuche.",
+    "historia": "El Ngen-kürüf es el espíritu que controla los vientos. Su presencia se manifiesta en las brisas y tempestades. Se le considera un mensajero de los dioses y su comportamiento puede interpretarse como señales o presagios.",
+    "url_fuentes": ["https://es.wikipedia.org/wiki/Ngen"]
+  },
+  {
+    "nombre": "Ngen-mawida",
+    "pais": "Chile",
+    "descripcion": "Espíritu del bosque nativo en la mitología mapuche.",
+    "historia": "El Ngen-mawida protege los bosques y la vida que en ellos habita. Se le honra para asegurar la salud y abundancia de la flora y fauna. La tala o daño al bosque sin su permiso puede traer consecuencias negativas.",
+    "url_fuentes": ["https://es.wikipedia.org/wiki/Ngen"]
+  },
+  {
+    "nombre": "Ngen-kulliñ",
+    "pais": "Chile",
+    "descripcion": "Espíritu de los animales en la mitología mapuche.",
+    "historia": "El Ngen-kulliñ es el protector de los animales, tanto salvajes como domesticados. Se le agradece por la caza y se le pide permiso antes de tomar la vida de un animal, reconociendo su rol en el equilibrio natural.",
+    "url_fuentes": ["https://es.wikipedia.org/wiki/Ngen"]
+  },
+  {
+    "nombre": "Ngen-lawen",
+    "pais": "Chile",
+    "descripcion": "Espíritu de las hierbas medicinales en la mitología mapuche.",
+    "historia": "El Ngen-lawen cuida las plantas medicinales y su conocimiento. Los machi, o curanderos mapuches, se comunican con este espíritu para obtener sabiduría sobre el uso de las hierbas en la sanación.",
+    "url_fuentes": ["https://es.wikipedia.org/wiki/Ngen"]
+  },
+  {
+    "nombre": "Ngen-kura",
+    "pais": "Chile",
+    "descripcion": "Espíritu de las piedras en la mitología mapuche.",
+    "historia": "El Ngen-kura habita en las piedras y formaciones rocosas. Algunas piedras son consideradas sagradas y se les atribuyen poderes especiales. Se les respeta y se les puede hacer ofrendas para obtener su favor.",
+    "url_fuentes": ["https://es.wikipedia.org/wiki/Ngen"]
+  },
+  {
+    "nombre": "Ngen-rëpü",
+    "pais": "Chile",
+    "descripcion": "Espíritu de los caminos en la mitología mapuche.",
+    "historia": "El Ngen-rëpü protege los senderos y caminos naturales. Se le invoca para asegurar viajes seguros y se le agradece al emprender o concluir un trayecto. Su presencia garantiza el orden y la conexión entre diferentes lugares.",
+    "url_fuentes": ["https://es.wikipedia.org/wiki/Ngen"]
+  }
+]
+  
