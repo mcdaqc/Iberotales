@@ -1,0 +1,182 @@
+[
+    {
+      "nombre": "El Gallo de Barcelos",
+      "pais": "Portugal",
+      "descripcion": "Símbolo nacional portugués que representa la justicia y la buena suerte.",
+      "historia": "Un peregrino gallego fue acusado injustamente de robo en Barcelos. Antes de ser ahorcado, pidió ver al juez y señaló un gallo asado en la mesa, diciendo que cantaría para probar su inocencia. Milagrosamente, el gallo cantó y el peregrino fue liberado.",
+      "url_fuentes": [
+        "https://es.wikipedia.org/wiki/Leyenda_del_Gallo_de_Barcelos"
+      ]
+    },
+    {
+      "nombre": "La Serpiente de Fonte Fría",
+      "pais": "Portugal",
+      "descripcion": "Serpiente gigante que aterrorizaba la región de Trás-os-Montes.",
+      "historia": "Una enorme serpiente vivía en la Fonte Fría, en Trás-os-Montes, y aterrorizaba a los habitantes. Un valiente caballero llamado Don Duarte luchó contra ella y logró matarla, liberando así a la región de su amenaza.",
+      "url_fuentes": [
+        "https://www.sociedadiberista.org/5-leyendas-de-portugal/"
+      ]
+    },
+    {
+      "nombre": "La Fundación de Lisboa por Ulises",
+      "pais": "Portugal",
+      "descripcion": "Mito que atribuye la fundación de Lisboa al héroe griego Ulises.",
+      "historia": "Según la leyenda, Ulises fundó la ciudad de Lisboa durante su viaje de regreso a Ítaca. Se enamoró de la diosa Ofiusa, pero la abandonó para continuar su viaje. Ofiusa, despechada, creó las siete colinas de Lisboa con su magia.",
+      "url_fuentes": [
+        "https://www.sociedadiberista.org/5-leyendas-de-portugal/"
+      ]
+    },
+    {
+      "nombre": "La Boca del Infierno",
+      "pais": "Portugal",
+      "descripcion": "Formación rocosa en Cascais asociada a una leyenda de amor y traición.",
+      "historia": "Un mago malvado encerró a una joven en una torre. Ella se enamoró de su guardián y huyeron juntos. El mago, furioso, lanzó un hechizo que abrió la tierra y los tragó, creando la formación conocida como la Boca del Infierno.",
+      "url_fuentes": [
+        "https://www.sociedadiberista.org/5-leyendas-de-portugal/"
+      ]
+    },
+    {
+      "nombre": "La Leyenda de las Siete Ciudades",
+      "pais": "Portugal",
+      "descripcion": "Historia de siete obispos que fundaron siete ciudades en una isla mítica.",
+      "historia": "Durante la invasión musulmana, siete obispos huyeron y fundaron siete ciudades en una isla paradisíaca en el Atlántico. Estas ciudades prosperaron en aislamiento, y la leyenda ha perdurado como símbolo de esperanza y resistencia.",
+      "url_fuentes": [
+        "https://go2lisbon.pt/es/blog/legends-of-portugal-3-enchanting-stories-to-discover/"
+      ]
+    },
+    {
+      "nombre": "La Princesa Peralta",
+      "pais": "Portugal",
+      "descripcion": "Trágica historia de amor entre una princesa mora y un príncipe cristiano.",
+      "historia": "La princesa Peralta se enamoró de un príncipe cristiano. Su amor fue prohibido, y al intentar huir juntos, fueron capturados y enterrados vivos en una cueva cerca del río Tajo.",
+      "url_fuentes": [
+        "https://losmitosyleyendas.com/mitos-y-leyendas-de-portugal/"
+      ]
+    },
+    {
+      "nombre": "El Encantamiento de Moura Salúquia",
+      "pais": "Portugal",
+      "descripcion": "Leyenda de una mujer mora que se convirtió en espíritu tras una traición.",
+      "historia": "Moura Salúquia era una princesa mora que, tras ser traicionada por su prometido, se arrojó desde una torre. Su espíritu quedó encantado en la fuente cercana, apareciendo como una bella mujer que seduce a los hombres.",
+      "url_fuentes": [
+        "https://losmitosyleyendas.com/mitos-y-leyendas-de-portugal/"
+      ]
+    },
+    {
+      "nombre": "El Hombre Verde",
+      "pais": "Portugal",
+      "descripcion": "Figura mítica que representa la conexión entre lo humano y lo natural.",
+      "historia": "El Hombre Verde es una figura con rostro cubierto de hojas y ramas. Se cree que es un espíritu de la naturaleza que protege los bosques y simboliza la renovación y el renacimiento.",
+      "url_fuentes": [
+        "https://losmitosyleyendas.com/mitos-y-leyendas-de-portugal/"
+      ]
+    },
+    {
+      "nombre": "El Marialva",
+      "pais": "Portugal",
+      "descripcion": "Espíritu protector de los agricultores en la región del Alentejo.",
+      "historia": "El Marialva es un espíritu que protege a los agricultores y sus cultivos. Se dice que, si se le muestra respeto, proporciona cosechas abundantes y prosperidad.",
+      "url_fuentes": [
+        "https://losmitosyleyendas.com/mitos-y-leyendas-de-portugal/"
+      ]
+    },
+    {
+      "nombre": "La Leyenda del Amor de Pedro e Inês",
+      "pais": "Portugal",
+      "descripcion": "Historia de amor trágica entre el príncipe Pedro e Inês de Castro.",
+      "historia": "Pedro e Inês vivieron un amor prohibido. Inês fue asesinada por orden del rey. Tras convertirse en rey, Pedro vengó su muerte y la coronó como reina después de muerta.",
+      "url_fuentes": [
+        "https://go2lisbon.pt/es/blog/legends-of-portugal-3-enchanting-stories-to-discover/"
+      ]
+    },
+  {
+    "nombre": "El Lagarto de Penha de França",
+    "pais": "Portugal",
+    "descripcion": "Criatura mítica que habitaba en la colina de Penha de França en Lisboa.",
+    "historia": "Se cuenta que un enorme lagarto aterrorizaba a los habitantes de Lisboa desde su guarida en la colina de Penha de França. Un valiente caballero logró derrotarlo, y en agradecimiento, se erigió una iglesia en el lugar donde cayó la bestia.",
+    "url_fuentes": [
+      "https://www.hotelroma.pt/es/blog/cuatro-leyendas-de-lisboa-para-descubrir/"
+    ]
+  },
+  {
+    "nombre": "La Leyenda de San Vicente",
+    "pais": "Portugal",
+    "descripcion": "Historia del patrón de Lisboa y su conexión con la ciudad.",
+    "historia": "San Vicente fue martirizado y su cuerpo fue custodiado por cuervos. Cuando sus restos fueron trasladados a Lisboa, los cuervos acompañaron la caravana, protegiéndola durante todo el trayecto. Desde entonces, los cuervos son símbolo de la ciudad.",
+    "url_fuentes": [
+      "https://www.hotelroma.pt/es/blog/cuatro-leyendas-de-lisboa-para-descubrir/"
+    ]
+  },
+  {
+    "nombre": "La Leyenda de Martim Moniz",
+    "pais": "Portugal",
+    "descripcion": "Acto heroico durante la conquista de Lisboa en el siglo XII.",
+    "historia": "Durante el asedio a Lisboa, Martim Moniz vio una puerta medio abierta en las murallas. Se lanzó y atrapó la puerta con su cuerpo, permitiendo que las tropas cristianas entraran y conquistaran la ciudad. Murió aplastado, pero su sacrificio fue crucial.",
+    "url_fuentes": [
+      "https://www.hotelroma.pt/es/blog/cuatro-leyendas-de-lisboa-para-descubrir/"
+    ]
+  },
+  {
+    "nombre": "La Leyenda de D. Sebastião",
+    "pais": "Portugal",
+    "descripcion": "Mito sobre el joven rey desaparecido en la batalla de Alcazarquivir.",
+    "historia": "El rey D. Sebastião desapareció en 1578 durante una batalla en Marruecos. Su cuerpo nunca fue encontrado, y nació la creencia de que regresaría en un día de niebla para salvar a Portugal. Este mito dio origen al movimiento del sebastianismo.",
+    "url_fuentes": [
+      "https://hambredeviaje.blogspot.com/2017/01/mitos-y-leyendas-de-portugal.html"
+    ]
+  },
+  {
+    "nombre": "La Moura Encantada",
+    "pais": "Portugal",
+    "descripcion": "Espíritu femenino que guarda tesoros y aparece en noches especiales.",
+    "historia": "Las Mouras Encantadas son mujeres mágicas que protegen tesoros escondidos. Se aparecen en noches de San Juan o en momentos especiales, ofreciendo riquezas a quienes logren romper su hechizo mediante pruebas de valentía y pureza.",
+    "url_fuentes": [
+      "https://www.theportugalnews.com/es/noticias/2024-11-24/monstruos-y-mitologia-portugueses/93742"
+    ]
+  },
+  {
+    "nombre": "El Bicho-Papão",
+    "pais": "Portugal",
+    "descripcion": "Criatura usada para asustar a los niños desobedientes.",
+    "historia": "El Bicho-Papão es una figura mítica que se esconde en armarios o debajo de las camas, esperando atrapar a los niños que no obedecen o se portan mal. Es similar al 'hombre del saco' en otras culturas.",
+    "url_fuentes": [
+      "https://www.theportugalnews.com/es/noticias/2024-11-24/monstruos-y-mitologia-portugueses/93742"
+    ]
+  },
+  {
+    "nombre": "Las Siete Ciudades",
+    "pais": "Portugal",
+    "descripcion": "Historia de una princesa y un pastor que lloraron lagos de diferentes colores.",
+    "historia": "Una princesa y un pastor se enamoraron, pero su amor fue prohibido. Al despedirse, lloraron tanto que formaron dos lagos: uno azul, por los ojos de la princesa, y otro verde, por los del pastor. Estos lagos existen en las Azores.",
+    "url_fuentes": [
+      "https://www.superprof.es/blog/leyendas-portuguesas/"
+    ]
+  },
+  {
+    "nombre": "La Princesa Santa Joana",
+    "pais": "Portugal",
+    "descripcion": "Historia de una princesa que renunció al trono por la vida religiosa.",
+    "historia": "La princesa Santa Joana, hija del rey Afonso V, renunció a su derecho al trono para dedicarse a la vida religiosa en el convento de Jesús en Aveiro. Es venerada por su piedad y humildad.",
+    "url_fuentes": [
+      "https://www.livingtours.com/es/blog/mejores-leyendas-portuguesas.html"
+    ]
+  },
+  {
+    "nombre": "El Pez Milagroso",
+    "pais": "Portugal",
+    "descripcion": "Historia de un pescador que capturó un pez que era una princesa encantada.",
+    "historia": "Un pescador atrapó un pez que se transformó en una princesa. Ella le pidió que no revelara su identidad. Al romper su promesa, la princesa desapareció, dejando al pescador solo y arrepentido.",
+    "url_fuentes": [
+      "https://go2lisbon.pt/es/blog/legends-of-portugal-3-enchanting-stories-to-discover/"
+    ]
+  },
+  {
+    "nombre": "La Cueva da Moeda",
+    "pais": "Portugal",
+    "descripcion": "Historia sobre un hombre rico y monedas perdidas en una cueva.",
+    "historia": "Un hombre rico escondió su fortuna en una cueva para protegerla. Al intentar recuperarla, quedó atrapado y murió. Se dice que su espíritu aún guarda las monedas, y la cueva lleva su nombre.",
+    "url_fuentes": [
+      "https://www.huffingtonpost.es/life/viajes/el-destino-magico-lejano-espana-descubrieron-dos-cazadores-accidente.html"
+    ]
+  }
+]

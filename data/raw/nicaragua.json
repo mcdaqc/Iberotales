@@ -1,0 +1,182 @@
+[
+    {
+      "nombre": "El Cadejo",
+      "pais": "Nicaragua",
+      "descripcion": "Criatura sobrenatural que aparece como un perro fantasmal, protegiendo o castigando a los viajeros nocturnos.",
+      "historia": "El Cadejo es una figura legendaria que se manifiesta como un perro grande y peludo. Hay dos versiones: el cadejo blanco, que protege a los caminantes, y el cadejo negro, que los ataca. Se cree que aparece en caminos solitarios durante la noche.",
+      "url_fuentes": [
+        "https://www.visitanicaragua.com/5-mitos-y-leyendas-nicaraguenses/"
+      ]
+    },
+    {
+      "nombre": "La Carreta Nagua",
+      "pais": "Nicaragua",
+      "descripcion": "Carreta fantasmal que recorre las calles por la noche, anunciando la muerte.",
+      "historia": "La Carreta Nagua es una leyenda que describe una carreta sin bueyes que se desplaza por las calles emitiendo un sonido lúgubre. Se dice que su aparición es un presagio de muerte para quienes la escuchan.",
+      "url_fuentes": [
+        "https://www.visitanicaragua.com/5-mitos-y-leyendas-nicaraguenses/"
+      ]
+    },
+    {
+      "nombre": "La Mocuana",
+      "pais": "Nicaragua",
+      "descripcion": "Espíritu de una mujer indígena que aparece en los caminos para extraviar a los hombres.",
+      "historia": "La Mocuana es el alma en pena de una mujer indígena que fue traicionada por un conquistador español. Se aparece en los caminos solitarios, atrayendo a los hombres con su belleza para luego perderlos en el monte.",
+      "url_fuentes": [
+        "https://www.visitanicaragua.com/5-mitos-y-leyendas-nicaraguenses/"
+      ]
+    },
+    {
+      "nombre": "La Cegua",
+      "pais": "Nicaragua",
+      "descripcion": "Mujer hermosa que se transforma en una criatura espantosa para castigar a los hombres infieles.",
+      "historia": "La Cegua se presenta como una mujer de gran belleza que seduce a los hombres en los caminos. Al acercarse, su rostro se transforma en una calavera de caballo, causando terror y locura en sus víctimas.",
+      "url_fuentes": [
+        "https://www.visitanicaragua.com/5-mitos-y-leyendas-nicaraguenses/"
+      ]
+    },
+    {
+      "nombre": "El Jinete sin Cabeza",
+      "pais": "Nicaragua",
+      "descripcion": "Fantasma de un hombre decapitado que cabalga por las noches buscando su cabeza.",
+      "historia": "El Jinete sin Cabeza es una aparición espectral que recorre los caminos rurales montado en un caballo negro. Se dice que es el alma de un hombre que fue decapitado y que busca su cabeza perdida.",
+      "url_fuentes": [
+        "https://www.visitanicaragua.com/5-mitos-y-leyendas-nicaraguenses/"
+      ]
+    },
+    {
+      "nombre": "La Taconuda",
+      "pais": "Nicaragua",
+      "descripcion": "Mujer alta y elegante que aparece en los cafetales para enloquecer a los hombres.",
+      "historia": "La Taconuda es una figura femenina de gran estatura que se presenta vestida con ropa elegante y tacones altos. Se aparece en los cafetales y caminos solitarios, atrayendo a los hombres y dejándolos en estado de confusión o locura.",
+      "url_fuentes": [
+        "https://poetasfamososdenicaragua.wordpress.com/leyendas-de-nicaragua/"
+      ]
+    },
+    {
+      "nombre": "La Llorona",
+      "pais": "Nicaragua",
+      "descripcion": "Espíritu de una mujer que llora por la pérdida de sus hijos, vagando por ríos y quebradas.",
+      "historia": "La Llorona es una mujer que, tras perder a sus hijos, vaga por las noches llorando y buscándolos. Su lamento es un presagio de desgracia, y se dice que aparece cerca de cuerpos de agua.",
+      "url_fuentes": [
+        "https://poetasfamososdenicaragua.wordpress.com/leyendas-de-nicaragua/"
+      ]
+    },
+    {
+      "nombre": "El Guácimo Renco",
+      "pais": "Nicaragua",
+      "descripcion": "Árbol encantado que se mueve y cambia de lugar para confundir a los viajeros.",
+      "historia": "El Guácimo Renco es un árbol que, según la leyenda, tiene la capacidad de moverse y cambiar de lugar durante la noche. Los viajeros que se guían por él pueden perderse, ya que el árbol los desorienta intencionalmente.",
+      "url_fuentes": [
+        "https://poetasfamososdenicaragua.wordpress.com/leyendas-de-nicaragua/"
+      ]
+    },
+    {
+      "nombre": "La Mona Bruja",
+      "pais": "Nicaragua",
+      "descripcion": "Bruja que se transforma en mono para espiar y causar daño a las personas.",
+      "historia": "La Mona Bruja es una mujer que practica la brujería y tiene la capacidad de transformarse en mono. Se dice que espía a las personas desde los árboles y les causa enfermedades o desgracias.",
+      "url_fuentes": [
+        "https://poetasfamososdenicaragua.wordpress.com/leyendas-de-nicaragua/"
+      ]
+    },
+    {
+      "nombre": "El Cacique Diriangén",
+      "pais": "Nicaragua",
+      "descripcion": "Líder indígena que resistió la conquista española y se convirtió en leyenda.",
+      "historia": "Diriangén fue un cacique indígena que lideró la resistencia contra los conquistadores españoles. Según la leyenda, murió al caer de un cerro intentando convertirse en el dios Sol, y su espíritu protege a su pueblo.",
+      "url_fuentes": [
+        "https://es.scribd.com/document/400338734/Mitos-Nicaraguense"
+      ]
+    },
+  {
+    "nombre": "La Princesa Xincatl y la Laguna de Tiscapa",
+    "pais": "Nicaragua",
+    "descripcion": "Leyenda chorotega sobre una princesa que trasladó su laguna natal al cráter de Tiscapa.",
+    "historia": "La princesa Xincatl, hija de un cacique chorotega, se enamoró del príncipe Nahoa. Para no separarse de su tierra, utilizó un hechizo que encapsuló su laguna en una concha de huevo. Al llegar a Managua, la concha cayó en el cráter de Tiscapa, formando la laguna que hoy conocemos.",
+    "url_fuentes": [
+      "https://www.tortillaconsal.com/bitacora/node/5379"
+    ]
+  },
+  {
+    "nombre": "El Punche de Oro",
+    "pais": "Nicaragua",
+    "descripcion": "Cangrejo dorado que protege los tesoros ancestrales de Sutiaba.",
+    "historia": "Tras ser ejecutado por los colonizadores, el cacique Adiac se transformó en un punche de oro con ojos de diamante. Durante la Semana Santa, emerge desde Poneloya hasta Sutiaba para vigilar los tesoros de su pueblo.",
+    "url_fuentes": [
+      "https://www.tortillaconsal.com/bitacora/node/5379"
+    ]
+  },
+  {
+    "nombre": "Liwa Mairen",
+    "pais": "Nicaragua",
+    "descripcion": "Sirena de la Costa Caribe que atrae a los hombres infieles hacia su perdición.",
+    "historia": "Liwa Mairen es una figura mítica de la Costa Caribe Norte. Se aparece en ríos y mares como una mujer de cabellera larga y belleza cautivadora. Seduce a hombres infieles y los lleva a las profundidades del agua, donde encuentran su destino fatal.",
+    "url_fuentes": [
+      "https://www.tortillaconsal.com/bitacora/node/5379"
+    ]
+  },
+  {
+    "nombre": "El Sisimique",
+    "pais": "Nicaragua",
+    "descripcion": "Criatura selvática con pies al revés que rapta mujeres.",
+    "historia": "El Sisimique es un ser de gran tamaño y cuerpo cubierto de pelo, similar a un mono. Habita en las selvas y se caracteriza por tener los pies al revés, lo que dificulta seguir su rastro. Se dice que rapta mujeres para llevarlas a su guarida.",
+    "url_fuentes": [
+      "https://www.tortillaconsal.com/bitacora/node/5379"
+    ]
+  },
+  {
+    "nombre": "Tomatuteta",
+    "pais": "Nicaragua",
+    "descripcion": "Espíritu de una mujer despreciada que asfixia a los hombres con su pecho.",
+    "historia": "Tomatuteta era una joven de Los Cedros despreciada por su apariencia. Tras su muerte, su espíritu aparece en los caminos ofreciendo su pecho a los hombres, quienes, al aceptarlo, son asfixiados hasta quedar moribundos.",
+    "url_fuentes": [
+      "https://www.tortillaconsal.com/bitacora/node/5379"
+    ]
+  },
+  {
+    "nombre": "La Mona Bruja",
+    "pais": "Nicaragua",
+    "descripcion": "Bruja que se transforma en mono para causar daño.",
+    "historia": "Según la leyenda chorotega, algunas mujeres practicaban rituales para transformarse en monos gigantes. Estas 'monas' se desplazaban por los árboles emitiendo carcajadas y alaridos, atacando a quienes les habían hecho daño.",
+    "url_fuentes": [
+      "https://es.wikipedia.org/wiki/Mona_(leyenda)"
+    ]
+  },
+  {
+    "nombre": "La Chancha Bruja",
+    "pais": "Nicaragua",
+    "descripcion": "Mujer que se transforma en cerda gigante para vengarse.",
+    "historia": "En Monimbó, se cree que algunas mujeres, por celos o despecho, realizaban rituales para convertirse en chanchas negras de gran tamaño. Estas criaturas recorrían las calles gruñendo y atacando a sus víctimas.",
+    "url_fuentes": [
+      "https://larutapanamericana.blogspot.com/2011/07/mas-leyendas-nicaraguenses.html"
+    ]
+  },
+  {
+    "nombre": "La Cegua",
+    "pais": "Nicaragua",
+    "descripcion": "Mujer hermosa que se transforma en criatura espantosa para castigar a los hombres infieles.",
+    "historia": "La Cegua se presenta como una mujer de gran belleza que seduce a los hombres en los caminos. Al acercarse, su rostro se transforma en una calavera de caballo, causando terror y locura en sus víctimas.",
+    "url_fuentes": [
+      "https://es.wikipedia.org/wiki/Siguanaba"
+    ]
+  },
+  {
+    "nombre": "La Mocuana",
+    "pais": "Nicaragua",
+    "descripcion": "Espíritu de una mujer indígena traicionada que busca venganza.",
+    "historia": "La Mocuana era la hija de un cacique que fue engañada por un conquistador español. Tras ser traicionada y encerrada en una cueva, perdió la razón y desde entonces vaga por los cerros y ríos buscando venganza.",
+    "url_fuentes": [
+      "https://es.wikipedia.org/wiki/Mocuana"
+    ]
+  },
+  {
+    "nombre": "El Barco Negro del Gran Lago",
+    "pais": "Nicaragua",
+    "descripcion": "Embarcación fantasmal que navega eternamente el lago Cocibolca.",
+    "historia": "Se cuenta que un velero del siglo XVI, maldito por su tripulación, navega sin rumbo por el lago Cocibolca. Los pescadores que lo ven afirman que la tripulación pregunta por Granada o San Carlos, pero nadie se atreve a responder.",
+    "url_fuentes": [
+      "https://denicaragua.digital/leyendas-de-nicaragua/"
+    ]
+  }
+]

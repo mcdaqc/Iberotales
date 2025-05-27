@@ -1,0 +1,335 @@
+[
+    {
+      "nombre": "Yúcahu",
+      "pais": "Puerto Rico",
+      "descripcion": "Dios supremo taíno, asociado con la yuca y la agricultura.",
+      "historia": "Yúcahu era el principal dios de los taínos, representando la fertilidad y la agricultura. Se le atribuía la creación de la yuca, alimento básico de los taínos, y era venerado como protector de los cultivos y la vida.",
+      "url_fuentes": [
+        "https://enciclopediapr.org/content/los-tainos-mitologia-y-creencias-religiosas/"
+      ]
+    },
+    {
+      "nombre": "Atabey",
+      "pais": "Puerto Rico",
+      "descripcion": "Diosa madre taína, asociada con las aguas y la fertilidad.",
+      "historia": "Atabey era la diosa madre de los taínos, representando las aguas dulces, la fertilidad y la maternidad. Era madre de Yúcahu y se le rendía culto como fuente de vida y protectora de las mujeres embarazadas.",
+      "url_fuentes": [
+        "https://historiaborincana.com/?p=4174"
+      ]
+    },
+    {
+      "nombre": "Guabancex",
+      "pais": "Puerto Rico",
+      "descripcion": "Diosa taína de las tormentas y los huracanes.",
+      "historia": "Guabancex era la deidad taína que personificaba las tormentas y los huracanes. Se creía que, cuando se enfurecía, desataba vientos y lluvias destructivas, siendo temida y respetada por los taínos.",
+      "url_fuentes": [
+        "https://es.wikipedia.org/wiki/Guabancex"
+      ]
+    },
+    {
+      "nombre": "Guataubá",
+      "pais": "Puerto Rico",
+      "descripcion": "Mensajero de los dioses taínos, anunciador de tormentas.",
+      "historia": "Guataubá era el heraldo de Guabancex, encargado de anunciar la llegada de tormentas mediante truenos y relámpagos. Su aparición era señal de que una tempestad se aproximaba.",
+      "url_fuentes": [
+        "https://es.wikipedia.org/wiki/Guabancex"
+      ]
+    },
+    {
+      "nombre": "Coatrisquie",
+      "pais": "Puerto Rico",
+      "descripcion": "Deidad taína asociada con las inundaciones.",
+      "historia": "Coatrisquie era una deidad taína que acompañaba a Guabancex, encargada de desatar las aguas torrenciales durante las tormentas, causando inundaciones y destrucción.",
+      "url_fuentes": [
+        "https://es.wikipedia.org/wiki/Guabancex"
+      ]
+    },
+    {
+      "nombre": "Boinayel",
+      "pais": "Puerto Rico",
+      "descripcion": "Dios taíno de la lluvia.",
+      "historia": "Boinayel era el dios taíno que traía la lluvia necesaria para los cultivos. Se le veneraba para asegurar buenas cosechas y se le ofrecían rituales durante las sequías.",
+      "url_fuentes": [
+        "https://es.wikipedia.org/wiki/Jobobaba"
+      ]
+    },
+    {
+      "nombre": "Marohu",
+      "pais": "Puerto Rico",
+      "descripcion": "Dios taíno del buen tiempo y el sol.",
+      "historia": "Marohu era el dios taíno asociado con el buen clima y el sol. Se le invocaba para obtener días soleados y propicios para la agricultura y la vida diaria.",
+      "url_fuentes": [
+        "https://es.wikipedia.org/wiki/Jobobaba"
+      ]
+    },
+    {
+      "nombre": "Guanina y Sotomayor",
+      "pais": "Puerto Rico",
+      "descripcion": "Leyenda taína de amor y tragedia entre una princesa taína y un conquistador español.",
+      "historia": "Guanina, princesa taína, se enamoró del conquistador español Don Cristóbal de Sotomayor. Su amor fue prohibido y terminó en tragedia cuando Sotomayor fue asesinado por los taínos y Guanina se quitó la vida por amor.",
+      "url_fuentes": [
+        "https://mitosyleyendasdeamericalatina.blogspot.com/2013/06/leyenda-taina-de-guanina-y-sotomayor.html"
+      ]
+    },
+    {
+      "nombre": "La Ciguapa",
+      "pais": "Puerto Rico",
+      "descripcion": "Criatura mítica femenina con pies al revés que seduce a los hombres.",
+      "historia": "La Ciguapa es una criatura mítica descrita como una mujer hermosa con pies al revés, que vaga por los bosques seduciendo a los hombres y llevándolos a su perdición.",
+      "url_fuentes": [
+        "https://es.wikipedia.org/wiki/Ciguapa"
+      ]
+    },
+    {
+      "nombre": "El Pozo de Jacinto",
+      "pais": "Puerto Rico",
+      "descripcion": "Leyenda sobre un joven arrastrado al mar junto a su vaca.",
+      "historia": "Jacinto era un joven que, al intentar rescatar a su vaca cerca de un pozo en Isabela, fue arrastrado al mar. Se dice que si se grita su nombre cerca del pozo, el mar responde con furia.",
+      "url_fuentes": [
+        "https://whatsuprincon.com/es/legends/"
+      ]
+    },
+    {
+      "nombre": "La Gárgola de Barceloneta",
+      "pais": "Puerto Rico",
+      "descripcion": "Criatura alada que aterrorizó a los residentes de Barceloneta.",
+      "historia": "A principios de los 2000, los residentes de Barceloneta reportaron avistamientos de una criatura alada con ojos rojos que atacaba al ganado, generando temor y diversas teorías sobre su origen.",
+      "url_fuentes": [
+        "https://whatsuprincon.com/es/legends/"
+      ]
+    },
+    {
+      "nombre": "La Llorona de Coamo",
+      "pais": "Puerto Rico",
+      "descripcion": "Espíritu de una mujer que llora por su hijo perdido.",
+      "historia": "En Coamo, se cuenta la leyenda de una mujer que, tras perder a su hijo, vaga llorando por las noches. Su lamento es considerado un presagio de mala suerte.",
+      "url_fuentes": [
+        "https://whatsuprincon.com/es/legends/"
+      ]
+    },
+    {
+      "nombre": "Juan Bobo",
+      "pais": "Puerto Rico",
+      "descripcion": "Personaje folklórico ingenuo y gracioso.",
+      "historia": "Juan Bobo es un personaje tradicional de las historias puertorriqueñas, conocido por su ingenuidad y ocurrencias cómicas que, a menudo, contienen enseñanzas morales.",
+      "url_fuentes": [
+        "https://whatsuprincon.com/es/legends/"
+      ]
+    },
+    {
+      "nombre": "La Capilla del Cristo",
+      "pais": "Puerto Rico",
+      "descripcion": "Capilla construida en el lugar donde un jinete fue salvado milagrosamente.",
+      "historia": "En San Juan, un jinete que cayó por un precipicio fue salvado milagrosamente. En agradecimiento, se construyó la Capilla del Cristo en el lugar del suceso.",
+      "url_fuentes": [
+        "https://exoviajes.com/mitos-leyendas-y-supersticiones-folklore-de-puerto-rico/"
+      ]
+    },
+    {
+      "nombre": "Jobobaba",
+      "pais": "Puerto Rico",
+      "descripcion": "Cueva sagrada de donde salieron el Sol y la Luna según la mitología taína.",
+      "historia": "Jobobaba es una cueva sagrada en la mitología taína, de la cual emergieron el Sol y la Luna. Era un lugar de gran importancia espiritual para los taínos.",
+      "url_fuentes": [
+        "https://es.wikipedia.org/wiki/Jobobaba"
+      ]
+    },
+    {
+      "nombre": "Zemis",
+      "pais": "Puerto Rico",
+      "descripcion": "Ídolos taínos que representaban deidades y espíritus ancestrales.",
+      "historia": "Los zemis eran figuras talladas por los taínos que representaban deidades y espíritus ancestrales. Eran utilizados en rituales y considerados objetos sagrados.",
+      "url_fuentes": [
+        "https://enciclopediapr.org/content/los-tainos-mitologia-y-creencias-religiosas/"
+      ]
+    },
+    {
+      "nombre": "Anacacuya",
+      "pais": "Puerto Rico",
+      "descripcion": "Deidad taína asociada con las estrellas.",
+      "historia": "Anacacuya era una deidad taína relacionada con las estrellas y el cielo nocturno. Se le atribuía el control de los astros y su influencia en la vida cotidiana.",
+      "url_fuentes": [
+        "https://tiboko.com/wp-content/uploads/2023/07/Canto-al-Cemi.pdf"
+      ]
+    },
+    {
+      "nombre": "Bayamanaco",
+      "pais": "Puerto Rico",
+      "descripcion": "Dios taíno del fuego y la sabiduría.",
+      "historia": "Bayamanaco era el dios taíno del fuego, la sabiduría y el conocimiento. Se le consideraba el maestro de los behiques (chamanes) y protector de las artes curativas.",
+      "url_fuentes": [
+        "https://pueblosoriginarios.com/centro/antillas/taino/cosmologia.html"
+      ]
+    },
+  {
+    "nombre": "Yaya",
+    "pais": "Puerto Rico",
+    "descripcion": "Ser supremo y creador en la mitología taína.",
+    "historia": "Yaya es considerado el dios principal en la mitología taína, el creador del universo y de todas las cosas. Su historia incluye la creación del mar a partir del cuerpo de su hijo Yayael.",
+    "url_fuentes": [
+      "https://pueblosoriginarios.com/centro/antillas/taino/cosmologia.html"
+    ]
+  },
+  {
+    "nombre": "Yayael",
+    "pais": "Puerto Rico",
+    "descripcion": "Hijo de Yaya, cuyo cuerpo dio origen al mar.",
+    "historia": "Yayael, hijo de Yaya, intentó usurpar el poder de su padre y fue desterrado. Tras su muerte, su cuerpo fue colocado en una calabaza, de la cual emergieron peces y agua, creando el mar.",
+    "url_fuentes": [
+      "https://pueblosoriginarios.com/centro/antillas/taino/cosmologia.html"
+    ]
+  },
+  {
+    "nombre": "Itiba Cahubaba",
+    "pais": "Puerto Rico",
+    "descripcion": "Madre de los cuatrillizos, símbolo de la fertilidad.",
+    "historia": "Itiba Cahubaba murió al dar a luz a cuatro hijos, quienes se convirtieron en figuras importantes en la mitología taína, asociados con la creación y la cultura.",
+    "url_fuentes": [
+      "https://pueblosoriginarios.com/centro/antillas/taino/cosmologia.html"
+    ]
+  },
+  {
+    "nombre": "Deminan Caracaracol",
+    "pais": "Puerto Rico",
+    "descripcion": "Uno de los cuatrillizos, protagonista en varios mitos.",
+    "historia": "Deminan Caracaracol, junto a sus hermanos, robó objetos sagrados y fue castigado por los dioses. Su historia explica la creación de ciertos elementos culturales y naturales.",
+    "url_fuentes": [
+      "https://www.academia.edu/40680444/Mitolog%C3%ADa_de_los_Ta%C3%ADnos_de_Puerto_Rico"
+    ]
+  },
+  {
+    "nombre": "Maquetaurie Guayaba",
+    "pais": "Puerto Rico",
+    "descripcion": "Dios de los muertos en la mitología taína.",
+    "historia": "Maquetaurie Guayaba gobernaba el Coaybay, el mundo de los muertos. Los taínos creían que las almas de los difuntos viajaban a su reino después de la muerte.",
+    "url_fuentes": [
+      "https://pueblosoriginarios.com/centro/antillas/taino/cosmologia.html"
+    ]
+  },
+  {
+    "nombre": "Opiyelguobirán",
+    "pais": "Puerto Rico",
+    "descripcion": "Guardián del mundo de los muertos, con forma canina.",
+    "historia": "Opiyelguobirán era un espíritu en forma de perro que custodiaba la entrada al Coaybay, asegurando que las almas no regresaran al mundo de los vivos.",
+    "url_fuentes": [
+      "https://pueblosoriginarios.com/centro/antillas/taino/cosmologia.html"
+    ]
+  },
+  {
+    "nombre": "Baibrama",
+    "pais": "Puerto Rico",
+    "descripcion": "Dios de la yuca y el pan de casabe.",
+    "historia": "Baibrama era el dios encargado de proteger la yuca, alimento principal de los taínos, y el pan de casabe, derivado de esta raíz.",
+    "url_fuentes": [
+      "https://www.academia.edu/40680444/Mitolog%C3%ADa_de_los_Ta%C3%ADnos_de_Puerto_Rico"
+    ]
+  },
+  {
+    "nombre": "Macocael",
+    "pais": "Puerto Rico",
+    "descripcion": "Guardián de la cueva de los ancestros taínos.",
+    "historia": "Macocael, cuyo nombre significa 'el sin párpados', era el vigilante de la cueva de Cacibajagua, de donde salieron los primeros taínos. Fue convertido en piedra por desobedecer su deber.",
+    "url_fuentes": [
+      "https://es.wikipedia.org/wiki/Macocael"
+    ]
+  },
+  {
+    "nombre": "Cacibajagua",
+    "pais": "Puerto Rico",
+    "descripcion": "Cueva sagrada, lugar de origen de los taínos.",
+    "historia": "Según la mitología taína, los primeros humanos emergieron de la cueva de Cacibajagua, simbolizando el nacimiento de la humanidad.",
+    "url_fuentes": [
+      "https://es.slideshare.net/Mr_M5/la-mitologa-y-la-religin-tana"
+    ]
+  },
+  {
+    "nombre": "Maboya",
+    "pais": "Puerto Rico",
+    "descripcion": "Espíritus malignos causantes de enfermedades y desgracias.",
+    "historia": "Los maboyas eran entidades nocturnas que traían enfermedades y desgracias. Se creía que podían adoptar diversas formas para atormentar a los humanos.",
+    "url_fuentes": [
+      "https://es.wikipedia.org/wiki/Maboya"
+    ]
+  },
+  {
+    "nombre": "El Niño de Caliche",
+    "pais": "Puerto Rico",
+    "descripcion": "Leyenda de un niño que llora eternamente en una cueva.",
+    "historia": "En Ciales, se cuenta la historia de un niño que fue dejado por su madre en una cueva y, al no regresar ella, el niño lloró hasta convertirse en manantial. Su llanto aún se escucha en la cueva.",
+    "url_fuentes": [
+      "https://data.fs.usda.gov/research/pubs/iitf/ja_iitf_2007_dominguez005.pdf"
+    ]
+  },
+  {
+    "nombre": "Coaybay",
+    "pais": "Puerto Rico",
+    "descripcion": "Mundo subterráneo donde habitan los muertos.",
+    "historia": "Coaybay es el lugar al que van las almas de los difuntos. Gobernado por Maquetaurie Guayaba, es un reino oscuro y silencioso.",
+    "url_fuentes": [
+      "https://pueblosoriginarios.com/centro/antillas/taino/cosmologia.html"
+    ]
+  },
+  {
+    "nombre": "Caorao",
+    "pais": "Puerto Rico",
+    "descripcion": "Deidad asociada con las tormentas.",
+    "historia": "Caorao era una deidad que provocaba tormentas tocando un instrumento de caracol marino, anunciando desastres naturales.",
+    "url_fuentes": [
+      "https://en.wikipedia.org/wiki/Guabancex"
+    ]
+  },
+  {
+    "nombre": "Caguana",
+    "pais": "Puerto Rico",
+    "descripcion": "Centro ceremonial y espiritual taíno.",
+    "historia": "Caguana era un importante centro ceremonial donde se realizaban rituales y se rendía culto a los dioses taínos. Es considerado un lugar sagrado.",
+    "url_fuentes": [
+      "https://historiaborincana.com/?p=4174"
+    ]
+  },
+  {
+    "nombre": "Guayama",
+    "pais": "Puerto Rico",
+    "descripcion": "Cacique legendario conocido por su sabiduría.",
+    "historia": "Guayama fue un cacique respetado por su sabiduría y liderazgo. Su nombre perdura en la ciudad que lleva su nombre.",
+    "url_fuentes": [
+      "https://historiaborincana.com/?p=4174"
+    ]
+  },
+  {
+    "nombre": "Yukiyú",
+    "pais": "Puerto Rico",
+    "descripcion": "Nombre alternativo de Yúcahu, dios de la yuca.",
+    "historia": "Yukiyú es otra denominación de Yúcahu, el dios taíno de la yuca y la agricultura, protector de los cultivos y de la vida.",
+    "url_fuentes": [
+      "https://enciclopediapr.org/content/los-tainos-mitologia-y-creencias-religiosas/"
+    ]
+  },
+  {
+    "nombre": "Guarionex",
+    "pais": "Puerto Rico",
+    "descripcion": "Cacique taíno que lideró la resistencia contra los españoles.",
+    "historia": "Guarionex fue un cacique taíno que, tras la muerte de su padre, lideró la resistencia contra los colonizadores españoles, siendo capturado y deportado.",
+    "url_fuentes": [
+      "https://es.wikipedia.org/wiki/Guarionex"
+    ]
+  },
+  {
+    "nombre": "Aumatex",
+    "pais": "Puerto Rico",
+    "descripcion": "Cacique mítico asociado con los vientos.",
+    "historia": "Aumatex era un cacique legendario que tenía dominio sobre los vientos, siendo una figura importante en las historias relacionadas con las tormentas.",
+    "url_fuentes": [
+      "https://en.wikipedia.org/wiki/Guabancex"
+    ]
+  },
+  {
+    "nombre": "Guayaba",
+    "pais": "Puerto Rico",
+    "descripcion": "Deidad del inframundo y los muertos.",
+    "historia": "Guayaba es otra forma de referirse a Maquetaurie Guayaba, el dios que gobierna el Coaybay, el mundo de los muertos en la mitología taína.",
+    "url_fuentes": [
+      "https://pueblosoriginarios.com/centro/antillas/taino/cosmologia.html"
+    ]
+  }
+]

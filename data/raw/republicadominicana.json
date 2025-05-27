@@ -1,0 +1,224 @@
+[
+  {
+    "nombre": "La Ciguapa",
+    "pais": "República Dominicana",
+    "descripcion": "Mujer de belleza enigmática con pies al revés, que habita en los montes.",
+    "historia": "La Ciguapa es una criatura femenina de piel morena y largos cabellos que cubren su cuerpo. Se caracteriza por tener los pies orientados hacia atrás, lo que dificulta seguir su rastro. Se dice que aparece en las noches, seduce a los hombres y los lleva al bosque, donde desaparecen sin dejar rastro.",
+    "url_fuentes": [
+      "https://es.wikipedia.org/wiki/Ciguapa",
+      "https://losmitosyleyendas.com/leyenda-de-la-ciguapa-republica-dominicana/"
+    ]
+  },
+  {
+    "nombre": "Las Marimantas",
+    "pais": "República Dominicana",
+    "descripcion": "Seres envueltos en sábanas que asustan a los niños desobedientes.",
+    "historia": "Las Marimantas son figuras indefinidas que, cubiertas con sábanas, salen por las noches a recoger a los niños malcriados para asustarlos o llevárselos. Se cree que, tras ser atrapados, los padres pueden pedir su devolución, y desde entonces, los niños se portarán bien.",
+    "url_fuentes": [
+      "https://rdelpaiscaribeno.blogspot.com/2016/10/mitos-y-leyendas.html",
+      "https://orgullososdominicanos.blogspot.com/2014/07/mitos-y-leyendas-de-la-republica.html"
+    ]
+  },
+  {
+    "nombre": "Los Biembienes",
+    "pais": "República Dominicana",
+    "descripcion": "Seres salvajes y deformes que habitan en las montañas.",
+    "historia": "Los Biembienes son descritos como pequeños hombres de aspecto feo y deforme que viven en las montañas de Bahoruco. Se dice que salen de noche en busca de alimentos y que, al igual que la Ciguapa, dejan huellas al revés para evitar ser rastreados.",
+    "url_fuentes": [
+      "https://rdelpaiscaribeno.blogspot.com/2016/10/mitos-y-leyendas.html",
+      "https://todoporelarterd.com/leyendas-y-mitos-de-la-republica-dominicana/"
+    ]
+  },
+  {
+    "nombre": "El Bacá",
+    "pais": "República Dominicana",
+    "descripcion": "Criatura demoníaca creada mediante brujería para conceder bienes materiales.",
+    "historia": "El Bacá es un ser demoníaco que puede adoptar diversas formas, como animales o muñecos de trapo. Se crea a través de pactos de brujería y concede bienes materiales a su poseedor, a cambio de sacrificios, incluso de familiares. Es originario de San Juan de la Maguana.",
+    "url_fuentes": [
+      "https://es.wikipedia.org/wiki/Bac%C3%A1",
+      "https://culturayarterepdom.blogspot.com/2022/03/mitos-leyendas-y-creencias-dominicanas.html"
+    ]
+  },
+  {
+    "nombre": "El Galipote",
+    "pais": "República Dominicana",
+    "descripcion": "Hombre que puede transformarse en animal u objeto inanimado.",
+    "historia": "El Galipote es una figura del folclore dominicano que representa a un hombre con la capacidad de transformarse en animales o incluso en objetos como troncos o piedras. Se le atribuyen poderes mágicos y se le considera peligroso, ya que puede causar extravíos o espantar a los viajeros nocturnos.",
+    "url_fuentes": [
+      "https://frontera25.net/mitos-y-leyendas-dominicanas/"
+    ]
+  },
+  {
+    "nombre": "Las Jupías",
+    "pais": "República Dominicana",
+    "descripcion": "Espíritus de personas fallecidas que vagan por lugares específicos.",
+    "historia": "Las Jupías son almas de personas que no encontraron descanso tras la muerte. Se manifiestan como presencias frías o susurros en lugares específicos, y pueden ser benévolas o malévolas, dependiendo de las circunstancias de su muerte.",
+    "url_fuentes": [
+      "https://puebloantiguo.com/leyenda-las-jupias-republica-dominicana/",
+      "https://culturayarterepdom.blogspot.com/2022/03/mitos-leyendas-y-creencias-dominicanas.html"
+    ]
+  },
+  {
+    "nombre": "Las Brujas",
+    "pais": "República Dominicana",
+    "descripcion": "Seres nocturnos que se transforman en aves y succionan la sangre de los niños.",
+    "historia": "En la tradición dominicana, las brujas son mujeres que se quitan la piel para volar en forma de aves durante la noche. Se dice que succionan la sangre de los niños a través del ombligo o el dedo gordo del pie, utilizando herramientas como el pecíolo de una hoja de higuereta.",
+    "url_fuentes": [
+      "https://www.mi-rd.com/Interes/Leyendas/brujas.htm"
+    ]
+  },
+  {
+    "nombre": "El Comegente",
+    "pais": "República Dominicana",
+    "descripcion": "Ser legendario que devora personas y deambula por los caminos.",
+    "historia": "El Comegente es una figura legendaria que se dice deambula por los caminos, devorando a quienes encuentra. Se cuenta que un campesino logró atraparlo utilizando un 'bejuco de brujas' y lo llevó a la capital, donde fue ejecutado.",
+    "url_fuentes": [
+      "https://frontera25.net/mitos-y-leyendas-dominicanas/"
+    ]
+  },
+  {
+    "nombre": "El Chupacabra",
+    "pais": "República Dominicana",
+    "descripcion": "Criatura que chupa la sangre del ganado y, según algunas versiones, de humanos.",
+    "historia": "El Chupacabra es una bestia legendaria que se alimenta de la sangre de animales, especialmente cabras y ovejas. Se le describe con ojos brillantes, colmillos y garras, y se dice que también puede atacar a humanos mientras duermen.",
+    "url_fuentes": [
+      "https://culturayarterepdom.blogspot.com/2022/03/mitos-leyendas-y-creencias-dominicanas.html"
+    ]
+  },
+  {
+    "nombre": "Las Nimitas",
+    "pais": "República Dominicana",
+    "descripcion": "Luciérnagas que representan el alma de los difuntos.",
+    "historia": "Las Nimitas son luciérnagas que, según la creencia popular, son las almas de los difuntos que salen por las noches a cuidar a sus seres queridos, especialmente a los niños. Su nombre proviene de 'animita', es decir, ánima pequeña.",
+    "url_fuentes": [
+      "https://orgullososdominicanos.blogspot.com/2014/07/mitos-y-leyendas-de-la-republica.html"
+    ]
+  },
+  {
+    "nombre": "Papa Legba",
+    "pais": "República Dominicana",
+    "descripcion": "Deidad que actúa como intermediario entre los humanos y los loas.",
+    "historia": "Papa Legba es una deidad del vudú que sirve como intermediario entre los humanos y los loas (espíritus). Se le representa como un anciano con muleta o bastón, y se le asocia con las encrucijadas y la comunicación.",
+    "url_fuentes": [
+      "https://es.wikipedia.org/wiki/Papa_Legba"
+    ]
+  },
+  {
+    "nombre": "El Lugaru",
+    "pais": "República Dominicana",
+    "descripcion": "Hombre que se transforma en perro mediante poderes mágicos.",
+    "historia": "El Lugaru es una variante del Galipote que se transforma específicamente en perro. El término proviene del francés 'loup-garou', que designa al hombre lobo. Se le atribuyen comportamientos malévolos y se le teme en las zonas rurales.",
+    "url_fuentes": [
+      "https://frontera25.net/mitos-y-leyendas-dominicanas/"
+    ]
+  },
+  {
+    "nombre": "La Reina de las Américas",
+    "pais": "República Dominicana",
+    "descripcion": "Espíritu de una novia que aparece en la Avenida de las Américas.",
+    "historia": "La leyenda cuenta que una reina de belleza, Natalia Coss, falleció junto a su prometido en un accidente automovilístico camino a su luna de miel. Desde entonces, se reporta la aparición de una misteriosa mujer vestida de novia en la Avenida de las Américas.",
+    "url_fuentes": [
+      "https://todoporelarterd.com/leyendas-y-mitos-de-la-republica-dominicana/"
+    ]
+  },
+  {
+    "nombre": "El Lago Enriquillo",
+    "pais": "República Dominicana",
+    "descripcion": "Lugar asociado con apariciones y fenómenos paranormales.",
+    "historia": "Se dice que quienes se hospedan cerca del Lago Enriquillo experimentan pesadillas y fenómenos extraños, como la aparición de un animal parecido a un becerro que entra y sale del agua, y figuras vestidas de blanco que desaparecen al acercarse.",
+    "url_fuentes": [
+      "https://todoporelarterd.com/leyendas-y-mitos-de-la-republica-dominicana/"
+    ]
+  },
+  {
+    "nombre": "El Agua de Mayo",
+    "pais": "República Dominicana",
+    "descripcion": "Agua considerada mágica y utilizada para purificación.",
+    "historia": "La primera agua de lluvia de mayo es considerada mágica. Se cree que recogerla y aplicarla en el rostro puede purificar y rejuvenecer, además de servir como protección y remedio para problemas de salud. Esta creencia se mantiene especialmente viva en las zonas rurales de la República Dominicana.",
+    "url_fuentes": [
+      "https://culturayarterepdom.blogspot.com/2022/03/mitos-leyendas-y-creencias-dominicanas.html"
+    ]
+  },
+  {
+    "nombre": "El Hombre del Sombrero",
+    "pais": "República Dominicana",
+    "descripcion": "Espíritu errante vestido de negro y con sombrero, que persigue mujeres.",
+    "historia": "El Hombre del Sombrero es una figura fantasmal vestida de negro que aparece en caminos solitarios. Se cree que persigue principalmente a mujeres jóvenes y las embruja, causándoles desmayos o enfermedades misteriosas. Algunos creen que es el espíritu de un antiguo brujo o alma en pena.",
+    "url_fuentes": [
+      "https://mitosyleyendascriollas.blogspot.com/2015/10/el-hombre-del-sombrero.html",
+      "https://todoporelarterd.com/leyendas-y-mitos-de-la-republica-dominicana/"
+    ]
+  },
+  {
+    "nombre": "El Culebrón",
+    "pais": "República Dominicana",
+    "descripcion": "Serpiente gigante con poderes mágicos, guardiana de tesoros ocultos.",
+    "historia": "El Culebrón es una serpiente de gran tamaño que habita en cavernas o montes y protege tesoros ocultos. Se dice que puede hablar y que, si se le atrapa, puede conceder deseos, pero también puede maldecir a quien lo traicione o dañe su guarida.",
+    "url_fuentes": [
+      "https://rdelpaiscaribeno.blogspot.com/2016/10/mitos-y-leyendas.html"
+    ]
+  },
+  {
+    "nombre": "El Jinete Sin Cabeza",
+    "pais": "República Dominicana",
+    "descripcion": "Fantasma que cabalga sin cabeza en caminos solitarios por las noches.",
+    "historia": "En la zona del Cibao y otras regiones del país, se cuenta la leyenda de un jinete sin cabeza que recorre caminos oscuros montado en un caballo negro. Se cree que es el alma de un soldado decapitado que aún busca venganza o redención.",
+    "url_fuentes": [
+      "https://todoporelarterd.com/leyendas-y-mitos-de-la-republica-dominicana/"
+    ]
+  },
+  {
+    "nombre": "El Perro Negro del Mal",
+    "pais": "República Dominicana",
+    "descripcion": "Gran perro negro con ojos de fuego que anuncia muerte o desgracia.",
+    "historia": "Este perro espectral aparece en caminos rurales o cerca de casas donde pronto ocurrirá una desgracia. Tiene ojos rojos como fuego y emite un olor a azufre. Algunos creen que es una manifestación del diablo o de una maldición antigua.",
+    "url_fuentes": [
+      "https://culturayarterepdom.blogspot.com/2022/03/mitos-leyendas-y-creencias-dominicanas.html"
+    ]
+  },
+  {
+    "nombre": "El Enano del Tambor",
+    "pais": "República Dominicana",
+    "descripcion": "Pequeña criatura que aparece en celebraciones para tocar tambores mágicos.",
+    "historia": "Se cuenta que en algunas festividades patronales, aparece un enano que toca tambores con gran destreza. Aquellos que lo siguen pueden perderse en el monte o en otra dimensión si no logran regresar antes del amanecer.",
+    "url_fuentes": [
+      "https://frontera25.net/mitos-y-leyendas-dominicanas/"
+    ]
+  },
+  {
+    "nombre": "La Mujer de Blanco",
+    "pais": "República Dominicana",
+    "descripcion": "Fantasma de una mujer vestida de blanco que vaga por los caminos.",
+    "historia": "La Mujer de Blanco es un espíritu errante que aparece en caminos o cerca de ríos, llorando por la pérdida de sus hijos. Se cree que murió trágicamente, y su alma no ha encontrado paz. Muchos aseguran haberla visto de noche pidiendo ayuda o lanzando alaridos desgarradores.",
+    "url_fuentes": [
+      "https://todoporelarterd.com/leyendas-y-mitos-de-la-republica-dominicana/"
+    ]
+  },
+  {
+    "nombre": "La Mano Peluda",
+    "pais": "República Dominicana",
+    "descripcion": "Mano fantasma que aparece debajo de las camas para atrapar a los niños.",
+    "historia": "La leyenda de la Mano Peluda es usada para asustar a los niños que no quieren dormir. Se dice que esta mano aparece por las noches desde debajo de la cama, intentando atrapar a los desobedientes. Aunque su origen es incierto, es común en muchas casas del interior.",
+    "url_fuentes": [
+      "https://rdelpaiscaribeno.blogspot.com/2016/10/mitos-y-leyendas.html"
+    ]
+  },
+  {
+    "nombre": "La Vieja de la Bolsa",
+    "pais": "República Dominicana",
+    "descripcion": "Anciana que lleva una bolsa para llevarse a los niños malcriados.",
+    "historia": "La Vieja de la Bolsa es una figura del folclore popular usada para disciplinar a los niños. Se dice que es una anciana fea y encorvada que camina con una bolsa grande, en la que mete a los niños que se portan mal para llevárselos lejos y nunca devolverlos.",
+    "url_fuentes": [
+      "https://orgullososdominicanos.blogspot.com/2014/07/mitos-y-leyendas-de-la-republica.html"
+    ]
+  },
+  {
+    "nombre": "La Llorona Dominicana",
+    "pais": "República Dominicana",
+    "descripcion": "Espíritu que llora desconsoladamente por la pérdida de sus hijos.",
+    "historia": "Aunque originaria de México, en República Dominicana también existe una versión de la Llorona. En zonas como el sur profundo se habla de una mujer que llora de noche cerca de los ríos, buscando a sus hijos, a quienes habría asesinado en un arranque de locura.",
+    "url_fuentes": [
+      "https://frontera25.net/mitos-y-leyendas-dominicanas/"
+    ]
+  }
+]

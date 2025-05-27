@@ -1,0 +1,182 @@
+[
+    {
+      "nombre": "La Luz Mala",
+      "pais": "Uruguay",
+      "descripcion": "Fenómeno luminoso que aparece en campos y zonas rurales durante la noche.",
+      "historia": "La Luz Mala es una aparición nocturna de una luz brillante que flota a poca altura del suelo. Se cree que es el espíritu de un difunto que no recibió sepultura cristiana. Ante un encuentro, se recomienda decir una oración y morder la vaina del cuchillo.",
+      "url_fuentes": [
+        "https://es.wikipedia.org/wiki/Luz_mala"
+      ]
+    },
+    {
+      "nombre": "El Negrito del Pastoreo",
+      "pais": "Uruguay",
+      "descripcion": "Espíritu de un niño esclavo que ayuda a encontrar objetos perdidos.",
+      "historia": "El Negrito del Pastoreo era un niño esclavo que murió tras ser castigado por su patrón. Desde entonces, su espíritu se aparece pastoreando animales y ayuda a encontrar objetos perdidos a quienes le encienden una vela a la Virgen María.",
+      "url_fuentes": [
+        "https://es.wikipedia.org/wiki/Negrito_pastor"
+      ]
+    },
+    {
+      "nombre": "La Monja Sin Cabeza",
+      "pais": "Uruguay",
+      "descripcion": "Fantasma de una monja que se aparece en un antiguo colegio de Montevideo.",
+      "historia": "Una monja se suicidó en el Colegio y Liceo de Nuestra Señora de la Misericordia tras una pena de amor. Su espíritu sin cabeza se aparece por los pasillos del colegio mientras el piano del salón de actos empieza a tocar solo.",
+      "url_fuentes": [
+        "https://es.wikipedia.org/wiki/Sacerdote_sin_cabeza"
+      ]
+    },
+    {
+      "nombre": "El Negro Mama",
+      "pais": "Uruguay",
+      "descripcion": "Espíritu de un esclavo africano que protege a los animales y desfavorecidos.",
+      "historia": "El Negro Mama fue un esclavo africano que escapó y se refugió en los montes uruguayos. Tras su muerte, su espíritu recorre los montes protegiendo a los animales y a los más desfavorecidos, siempre acompañado de un gran perro negro.",
+      "url_fuentes": [
+        "https://turismoenuruguay.net/historia-y-cultura/leyendas-uruguayas-mas-populares-recorrido-sus-mitos-tradiciones/"
+      ]
+    },
+    {
+      "nombre": "El Lobizón",
+      "pais": "Uruguay",
+      "descripcion": "Hombre lobo que se transforma en las noches de luna llena.",
+      "historia": "El Lobizón es el séptimo hijo varón de una familia que se transforma en hombre lobo las noches de luna llena. Esta leyenda mezcla creencias indígenas y europeas y ha sido objeto de verdadero temor en épocas pasadas.",
+      "url_fuentes": [
+        "https://turismoenuruguay.net/historia-y-cultura/leyendas-uruguayas-mas-populares-recorrido-sus-mitos-tradiciones/"
+      ]
+    },
+    {
+      "nombre": "El Yasy Yateré",
+      "pais": "Uruguay",
+      "descripcion": "Ser mítico que hipnotiza a los niños y los lleva al bosque.",
+      "historia": "El Yasy Yateré es descrito como un niño rubio y pequeño que lleva una varita mágica. Tiene la capacidad de hipnotizar a los niños y llevarlos a su escondite en el bosque, donde los mantiene cautivos durante un tiempo antes de devolverlos.",
+      "url_fuentes": [
+        "https://www.yelouruguay.com/leyendas-y-mitos-uruguayos-descubre-historias-fascinantes-que-perduran/"
+      ]
+    },
+    {
+      "nombre": "El Pombero",
+      "pais": "Uruguay",
+      "descripcion": "Criatura mítica que protege la fauna y la flora del monte.",
+      "historia": "El Pombero se manifiesta en forma de un pequeño hombre peludo con pies al revés. Se dice que protege la fauna y la flora del monte y que castiga a quienes dañan la naturaleza.",
+      "url_fuentes": [
+        "https://venceya.com/las-7-leyendas-mas-populares-de-uruguay/"
+      ]
+    },
+    {
+      "nombre": "La Venganza de la Viuda",
+      "pais": "Uruguay",
+      "descripcion": "Espíritu de una mujer que vuelve del más allá para vengarse.",
+      "historia": "La leyenda relata la historia de una mujer que vuelve del más allá para vengarse de quienes le hicieron daño en vida. Su espíritu se aparece en las noches, causando temor entre los habitantes.",
+      "url_fuentes": [
+        "https://venceya.com/las-7-leyendas-mas-populares-de-uruguay/"
+      ]
+    },
+    {
+      "nombre": "El Ñandú Barriga Blanca",
+      "pais": "Uruguay",
+      "descripcion": "Criatura mítica con cuerpo de ñandú y barriga blanca que asusta a quienes se cruzan en su camino.",
+      "historia": "El Ñandú Barriga Blanca es una criatura mítica que aparece en los campos uruguayos. Se dice que asusta a quienes se cruzan en su camino, causando temor entre los habitantes rurales.",
+      "url_fuentes": [
+        "https://venceya.com/las-7-leyendas-mas-populares-de-uruguay/"
+      ]
+    },
+    {
+      "nombre": "El Familiar",
+      "pais": "Uruguay",
+      "descripcion": "Ser maligno que se materializa como un gato negro y acompaña a brujas y hechiceros.",
+      "historia": "El Familiar es un ser maligno que se materializa como un gato negro. Acompaña a brujas y hechiceros en sus acciones maléficas, causando temor entre la población.",
+      "url_fuentes": [
+        "https://venceya.com/las-7-leyendas-mas-populares-de-uruguay/"
+      ]
+    },
+  {
+    "nombre": "La Leyenda del Ceibo",
+    "pais": "Uruguay",
+    "descripcion": "Historia de la flor nacional de Uruguay y su origen mítico.",
+    "historia": "Anahí, una joven indígena guaraní, fue capturada por los conquistadores españoles. Al intentar escapar, fue condenada a morir en la hoguera. Mientras las llamas la consumían, su cuerpo se transformó en un árbol de ceibo, cuyas flores rojas simbolizan su valentía y amor por la libertad.",
+    "url_fuentes": [
+      "https://jardinbotanico.montevideo.gub.uy/node/10/coleccion/cuentos-y-leyendas-de-nuestra-flora-nativa"
+    ]
+  },
+  {
+    "nombre": "La Leyenda del Churrinche",
+    "pais": "Uruguay",
+    "descripcion": "Relato indígena sobre la transformación de un guerrero en un ave.",
+    "historia": "Un valiente guerrero charrúa, herido de muerte en batalla, pidió a los dioses que le permitieran seguir protegiendo a su pueblo. Fue transformado en un pájaro rojo, el churrinche, que desde entonces vigila los cielos del Uruguay.",
+    "url_fuentes": [
+      "https://pmb.parlamento.gub.uy/pmb/opac_css/index.php?id=13758&l_typdoc=a&lvl=categ_see&nb_per_page_custom=30&nbr_lignes=30&page=1"
+    ]
+  },
+  {
+    "nombre": "La Leyenda de las Dos Lagunas",
+    "pais": "Uruguay",
+    "descripcion": "Historia que explica la formación de dos lagunas idénticas.",
+    "historia": "Dos hermanos, enamorados de la misma mujer, se enfrentaron en un duelo mortal. Al morir, sus lágrimas formaron dos lagunas idénticas, conocidas como las Lagunas de las Maletas, en el departamento de Tacuarembó.",
+    "url_fuentes": [
+      "https://tucuentofavorito.com/las-dos-lagunas-leyenda-de-uruguay-sobre-los-celos/"
+    ]
+  },
+  {
+    "nombre": "La Leyenda del Cerro Largo",
+    "pais": "Uruguay",
+    "descripcion": "Origen mítico del cerro más alto del departamento homónimo.",
+    "historia": "Una joven charrúa fue asesinada por su cacique al enamorarse de un soldado español. La tierra la cubrió y, al amanecer, en su lugar se elevó un cerro con la forma de su cuerpo, dando origen al Cerro Largo.",
+    "url_fuentes": [
+      "https://es.slideshare.net/slideshow/leyendas-uruguayas/4766894"
+    ]
+  },
+  {
+    "nombre": "La Leyenda de Clarita",
+    "pais": "Uruguay",
+    "descripcion": "Fantasma que habita el Museo Blanes de Montevideo.",
+    "historia": "Clara García de Zúñiga, antigua dueña de la casona que hoy es el Museo Blanes, falleció en circunstancias trágicas. Desde entonces, su espíritu, conocido como 'Clarita', se manifiesta en el edificio, especialmente al atardecer.",
+    "url_fuentes": [
+      "https://conocer365.uy/halloween-historias-terror-uruguay/"
+    ]
+  },
+  {
+    "nombre": "La Leyenda de Guidaí",
+    "pais": "Uruguay",
+    "descripcion": "Mito sobre el origen de la yerba mate.",
+    "historia": "Guidaí, una joven indígena, ofreció su vida a los dioses para salvar a su pueblo de una sequía. Como recompensa, los dioses transformaron su cuerpo en la planta de yerba mate, símbolo de amistad y unión.",
+    "url_fuentes": [
+      "https://www.reddit.com/r/uruguay/comments/gihrln/mitolog%C3%ADa_uruguaya/"
+    ]
+  },
+  {
+    "nombre": "La Leyenda del Paso de la Cruz",
+    "pais": "Uruguay",
+    "descripcion": "Historia de un gaucho y su encuentro con lo sobrenatural.",
+    "historia": "Un gaucho incrédulo desafió las creencias populares y decidió pasar la noche en el Paso de la Cruz. Durante la madrugada, fue testigo de apariciones y fenómenos inexplicables que lo hicieron cambiar su visión del mundo espiritual.",
+    "url_fuentes": [
+      "https://www.lifeder.com/leyendas-de-uruguay/"
+    ]
+  },
+  {
+    "nombre": "El Gualicho",
+    "pais": "Uruguay",
+    "descripcion": "Espíritu maligno que causa desgracias y enfermedades.",
+    "historia": "El Gualicho es un ente maligno que, según la creencia popular, puede ser invocado para causar daño a enemigos. Se manifiesta en forma de maldiciones, enfermedades o accidentes inexplicables.",
+    "url_fuentes": [
+      "https://es.wikipedia.org/wiki/Categor%C3%ADa%3ALeyendas_de_Uruguay"
+    ]
+  },
+  {
+    "nombre": "La Leyenda del Yaguareté Soñador",
+    "pais": "Uruguay",
+    "descripcion": "Relato sobre un yaguareté que protegía la selva y sus habitantes.",
+    "historia": "Un yaguareté, conocido por su sabiduría y bondad, protegía la selva y a sus habitantes. Tras su muerte, su espíritu sigue velando por el equilibrio de la naturaleza y castigando a quienes la dañan.",
+    "url_fuentes": [
+      "https://pmb.parlamento.gub.uy/pmb/opac_css/index.php?id=122571&lvl=categ_see"
+    ]
+  },
+  {
+    "nombre": "La Leyenda del Baño de la India",
+    "pais": "Uruguay",
+    "descripcion": "Historia de una joven indígena y su trágico destino.",
+    "historia": "Una joven india, perseguida por soldados españoles, se arrojó a una cascada para evitar ser capturada. Desde entonces, el lugar es conocido como el 'Baño de la India', y se dice que su espíritu aún habita las aguas.",
+    "url_fuentes": [
+      "https://www.todouruguay.net/tag/leyendas-indigenas/"
+    ]
+  }
+]
