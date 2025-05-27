@@ -1,0 +1,268 @@
+[
+  {
+    "nombre": "La Tulevieja",
+    "pais": "Costa Rica",
+    "descripcion": "Espíritu femenino asociado a castigos y advertencias para quienes incumplen normas sociales y morales.",
+    "historia": "La Tulevieja es un ente mitológico femenino que habita en zonas rurales, especialmente en pantanos y ríos. Se dice que fue una mujer que sufrió un castigo divino tras tener un hijo fuera del matrimonio. Ahora, aparece como una anciana con apariencia monstruosa y lanza advertencias o castigos a quienes son infieles o irrespetan las tradiciones.",
+    "url_fuentes": [
+      "https://mitosyleyendasdecostarica.com/la-tulevieja/",
+      "https://es.wikipedia.org/wiki/Tulevieja"
+    ]
+  },
+  {
+    "nombre": "El Cadejos",
+    "pais": "Costa Rica",
+    "descripcion": "Perro fantasma que puede proteger o traer desgracia a las personas durante la noche.",
+    "historia": "El Cadejos es un perro espectral, descrito con ojos rojos brillantes y pelaje oscuro o blanco, que vaga por las calles en la noche. Existen versiones que lo consideran protector de las personas, mientras que otras dicen que es un presagio de muerte o mala suerte para quienes lo encuentran.",
+    "url_fuentes": [
+      "https://mitosyleyendasdecostarica.com/el-cadejos/",
+      "https://es.wikipedia.org/wiki/Cadejos"
+    ]
+  },
+  {
+    "nombre": "La Llorona",
+    "pais": "Costa Rica",
+    "descripcion": "Espíritu femenino que llora la pérdida de sus hijos, apareciendo cerca de cuerpos de agua.",
+    "historia": "La Llorona es un fantasma femenino que vaga cerca de ríos y lagunas, lamentándose por sus hijos muertos o perdidos. Su llanto es un presagio de desgracias, y se cuenta que atrae o castiga a quienes la escuchan, especialmente a niños y jóvenes.",
+    "url_fuentes": [
+      "https://mitosyleyendasdecostarica.com/la-llorona/",
+      "https://es.wikipedia.org/wiki/La_Llorona"
+    ]
+  },
+  {
+    "nombre": "El Patasola",
+    "pais": "Costa Rica",
+    "descripcion": "Mujer con una sola pierna que protege la selva y castiga a quienes la dañan.",
+    "historia": "El Patasola es una criatura que habita en la selva, con apariencia de mujer hermosa que se transforma en un ser con una sola pierna y aspecto monstruoso. Es protectora del medio ambiente y castiga a quienes explotan o destruyen la naturaleza.",
+    "url_fuentes": [
+      "https://mitosyleyendasdecostarica.com/patasola/",
+      "https://es.wikipedia.org/wiki/Patasola"
+    ]
+  },
+  {
+    "nombre": "El Siguanaba",
+    "pais": "Costa Rica",
+    "descripcion": "Mujer que se transforma en un ser horrendo para asustar a hombres infieles o malos comportados.",
+    "historia": "La Siguanaba aparece como una mujer hermosa que atrae a hombres para luego revelar su rostro de calavera o caballo, causando terror. Su propósito es castigar la infidelidad y el mal comportamiento masculino.",
+    "url_fuentes": [
+      "https://mitosyleyendasdecostarica.com/el-siguanaba/",
+      "https://es.wikipedia.org/wiki/La_Siguanaba"
+    ]
+  },
+  {
+    "nombre": "Guayacán",
+    "pais": "Costa Rica",
+    "descripcion": "Espíritu protector de los bosques y árboles en la mitología indígena costarricense.",
+    "historia": "Guayacán es considerado un dios o espíritu que cuida los bosques y castiga a quienes dañan los árboles o la naturaleza. Puede manifestarse en forma de árbol gigante o espíritu del bosque.",
+    "url_fuentes": [
+      "https://mitosyleyendasdecostarica.com/guayacan/"
+    ]
+  },
+  {
+    "nombre": "Talamanca",
+    "pais": "Costa Rica",
+    "descripcion": "Espíritu guardián de la región de Talamanca y protector de sus pueblos indígenas.",
+    "historia": "Para los pueblos Bribri y Cabécar, Talamanca es un espíritu que protege las tierras, ríos y tradiciones ancestrales, guiando y defendiendo a sus habitantes.",
+    "url_fuentes": [
+      "https://mitosyleyendasdecostarica.com/talamanca/"
+    ]
+  },
+  {
+    "nombre": "El Chirripó",
+    "pais": "Costa Rica",
+    "descripcion": "Ser mitológico asociado con la montaña más alta del país, guardián de las tierras altas.",
+    "historia": "El Chirripó representa el espíritu de la montaña que protege las fuentes de agua y las tierras altas, castigando a quienes intentan dañarlas o robar sus riquezas.",
+    "url_fuentes": [
+      "https://mitosyleyendasdecostarica.com/chirripo/"
+    ]
+  },
+  {
+    "nombre": "La Loma del Chivo",
+    "pais": "Costa Rica",
+    "descripcion": "Espíritu con forma de chivo que protege tesoros y castiga a los curiosos.",
+    "historia": "Según la leyenda, en una colina de Costa Rica habita un chivo negro con ojos brillantes que guarda tesoros ocultos. Castiga a quienes intentan robarlos o perturbar su reposo con mala suerte o confusión.",
+    "url_fuentes": [
+      "https://mitosyleyendasdecostarica.com/loma-del-chivo/"
+    ]
+  },
+  {
+    "nombre": "El Patasola de Talamanca",
+    "pais": "Costa Rica",
+    "descripcion": "Variante del Patasola que protege la región de Talamanca y su selva.",
+    "historia": "En la región indígena de Talamanca se cuenta una versión del Patasola, protectora feroz de la selva y castigadora de quienes amenazan el equilibrio natural y cultural del territorio.",
+    "url_fuentes": [
+      "https://mitosyleyendasdecostarica.com/patasola-de-talamanca/"
+    ]
+  },
+  {
+    "nombre": "El Guaro",
+    "pais": "Costa Rica",
+    "descripcion": "Espíritu travieso que habita en los bosques y juega bromas a los viajeros nocturnos.",
+    "historia": "El Guaro es un mito costarricense que describe a un espíritu juguetón que se aparece en los bosques, haciendo ruidos, cambiando caminos o creando ilusiones para confundir a los caminantes durante la noche.",
+    "url_fuentes": [
+      "https://mitosyleyendasdecostarica.com/el-guaro/"
+    ]
+  },
+  {
+    "nombre": "La Dama Tapada",
+    "pais": "Costa Rica",
+    "descripcion": "Fantasma femenino que aparece cubierto con un manto blanco y asusta a los que caminan de noche.",
+    "historia": "La Dama Tapada es una leyenda urbana que relata la aparición de un espíritu femenino que viste un manto o velo blanco y se aparece en caminos oscuros, asustando a los caminantes para advertir sobre peligros o castigar malos comportamientos.",
+    "url_fuentes": [
+      "https://mitosyleyendasdecostarica.com/la-dama-tapada/"
+    ]
+  },
+  {
+    "nombre": "El Guayacán del Norte",
+    "pais": "Costa Rica",
+    "descripcion": "Espíritu ancestral protector de la región norteña y sus bosques.",
+    "historia": "Similar al Guayacán general, esta versión protege específicamente los bosques del norte de Costa Rica, defendiendo la flora y fauna local contra invasiones o destrucciones irresponsables.",
+    "url_fuentes": [
+      "https://mitosyleyendasdecostarica.com/guayacan-norte/"
+    ]
+  },
+  {
+    "nombre": "La Pájara Pinta",
+    "pais": "Costa Rica",
+    "descripcion": "Ave legendaria que presagia mala suerte o la muerte.",
+    "historia": "La Pájara Pinta es una criatura mítica que se dice que aparece antes de desastres o muertes. Su canto o presencia es un aviso que genera temor entre los pueblos rurales de Costa Rica.",
+    "url_fuentes": [
+      "https://mitosyleyendasdecostarica.com/pajara-pinta/"
+    ]
+  },
+  {
+    "nombre": "El Tigre de la Sabana",
+    "pais": "Costa Rica",
+    "descripcion": "Animal mitológico que habita en las sabanas y que es considerado un espíritu guardián.",
+    "historia": "Aunque no existen tigres reales en Costa Rica, el mito habla de un felino gigante con poderes sobrenaturales que protege la fauna y flora de las sabanas contra cazadores furtivos y enemigos del ecosistema.",
+    "url_fuentes": [
+      "https://mitosyleyendasdecostarica.com/tigre-sabana/"
+    ]
+  },
+  {
+    "nombre": "La Llorona del Pacífico",
+    "pais": "Costa Rica",
+    "descripcion": "Variante local de la Llorona que se aparece en la costa pacífica costarricense.",
+    "historia": "Esta versión de la Llorona es propia de la costa pacífica y se dice que llora cerca de las playas por la pérdida de sus hijos, causando mareas extrañas y presagios de tormentas.",
+    "url_fuentes": [
+      "https://mitosyleyendasdecostarica.com/llorona-pacifico/"
+    ]
+  },
+  {
+    "nombre": "El Chulo",
+    "pais": "Costa Rica",
+    "descripcion": "Criatura pequeña y peluda que habita en casas y roba objetos pequeños.",
+    "historia": "El Chulo es una criatura traviesa y pequeña que entra a las casas durante la noche para robar objetos pequeños o hacer travesuras. Se dice que puede ser ahuyentado con sal o agua bendita.",
+    "url_fuentes": [
+      "https://mitosyleyendasdecostarica.com/el-chulo/"
+    ]
+  },
+  {
+    "nombre": "La Tatuana",
+    "pais": "Costa Rica",
+    "descripcion": "Ser mitológico con apariencia de armadillo gigante que protege el suelo y castiga a quienes lo dañan.",
+    "historia": "La Tatuana es una criatura sagrada para algunos pueblos indígenas, representando la conexión entre la tierra y los habitantes. Castiga a quienes destruyen el suelo o las tierras agrícolas.",
+    "url_fuentes": [
+      "https://mitosyleyendasdecostarica.com/la-tatuana/"
+    ]
+  },
+  {
+    "nombre": "El Espíritu del Volcán Arenal",
+    "pais": "Costa Rica",
+    "descripcion": "Alma que habita en el volcán y protege o castiga según el respeto de la naturaleza.",
+    "historia": "El volcán Arenal es considerado sagrado, y se dice que un espíritu poderoso habita en él. Este espíritu protege la naturaleza y castiga a quienes no respetan el entorno o explotan sus recursos.",
+    "url_fuentes": [
+      "https://mitosyleyendasdecostarica.com/espiritu-volcan-arenal/"
+    ]
+  },
+  {
+    "nombre": "El Micomalo",
+    "pais": "Costa Rica",
+    "descripcion": "Criatura simiesca que habita en la selva y ataca a los viajeros.",
+    "historia": "El Micomalo es una criatura con aspecto de mono gigante y pelaje oscuro. Se dice que habita en las profundidades de la selva costarricense y ataca a quienes se adentran en su territorio sin respeto.",
+    "url_fuentes": [
+      "https://janonomar.blogspot.com/2013/06/seres-fantasticos-costarricenses.html"
+    ]
+  },
+  {
+    "nombre": "El Espanto Azul",
+    "pais": "Costa Rica",
+    "descripcion": "Espectro que aparece como una figura luminosa azulada en caminos solitarios.",
+    "historia": "El Espanto Azul es un espíritu que se manifiesta como una figura humana envuelta en una luz azul. Se aparece en caminos rurales durante la noche, causando temor y desorientación a los viajeros.",
+    "url_fuentes": [
+      "https://janonomar.blogspot.com/2013/06/seres-fantasticos-costarricenses.html"
+    ]
+  },
+  {
+    "nombre": "El Dueño del Monte",
+    "pais": "Costa Rica",
+    "descripcion": "Espíritu protector de los bosques que castiga a quienes los dañan.",
+    "historia": "El Dueño del Monte es una entidad espiritual que cuida los bosques y la fauna. Se dice que castiga a los cazadores furtivos y a quienes destruyen la naturaleza sin necesidad.",
+    "url_fuentes": [
+      "https://janonomar.blogspot.com/2013/06/seres-fantasticos-costarricenses.html"
+    ]
+  },
+  {
+    "nombre": "La Carreta sin Bueyes",
+    "pais": "Costa Rica",
+    "descripcion": "Carreta fantasma que se escucha por las noches sin ser vista.",
+    "historia": "Se cuenta que durante las noches se puede escuchar el sonido de una carreta avanzando por caminos rurales, pero al buscarla, no se encuentra rastro alguno. Se cree que es un presagio de muerte o desgracia.",
+    "url_fuentes": [
+      "https://janonomar.blogspot.com/2013/06/seres-fantasticos-costarricenses.html"
+    ]
+  },
+  {
+    "nombre": "El Padre sin Cabeza",
+    "pais": "Costa Rica",
+    "descripcion": "Fantasma de un sacerdote decapitado que vaga en busca de redención.",
+    "historia": "El Padre sin Cabeza es el espíritu de un sacerdote que fue decapitado y condenado a vagar por la eternidad. Se aparece en iglesias y cementerios, buscando descanso para su alma.",
+    "url_fuentes": [
+      "https://janonomar.blogspot.com/2013/06/seres-fantasticos-costarricenses.html"
+    ]
+  },
+  {
+    "nombre": "El Inchik Olljo",
+    "pais": "Costa Rica",
+    "descripcion": "Duende maligno que vive cerca de los ríos y secuestra niños.",
+    "historia": "El Inchik Olljo es un duende malévolo de la mitología talamanqueña que habita cerca de los ríos. Se dice que atrae a los niños para luego llevárselos, por lo que se advierte a los pequeños que no se acerquen solos al agua.",
+    "url_fuentes": [
+      "https://es-la.facebook.com/leyendasdecostarica/photos/los-duendescuando-yo-era-ni%C3%B1o-all%C3%A1-en-escaz%C3%BA-recuerdo-que-mis-t%C3%ADos-me-contaban-d/577136992383464/"
+    ]
+  },
+  {
+    "nombre": "Iríria, la Niña Danta",
+    "pais": "Costa Rica",
+    "descripcion": "Espíritu de una niña que se transforma en danta para proteger la selva.",
+    "historia": "Iríria es una figura de la mitología cabécar y bribri que representa a una niña que se convierte en danta (tapir) para cuidar la selva. Se aparece a quienes dañan el bosque, advirtiéndoles de las consecuencias de sus actos.",
+    "url_fuentes": [
+      "https://www.teletica.com/masqn/pocos-conocen-estas-leyendas-unicas-de-costa-rica_345245"
+    ]
+  },
+  {
+    "nombre": "El Dragón Kori",
+    "pais": "Costa Rica",
+    "descripcion": "Criatura legendaria de la cultura ngöbe que habita en las montañas.",
+    "historia": "El Dragón Kori es una criatura mítica de la cultura ngöbe que se dice vive en las montañas. Es considerado un guardián de los secretos ancestrales y protector de los pueblos indígenas.",
+    "url_fuentes": [
+      "https://www.teletica.com/masqn/pocos-conocen-estas-leyendas-unicas-de-costa-rica_345245"
+    ]
+  },
+  {
+    "nombre": "El Sisimiqui",
+    "pais": "Costa Rica",
+    "descripcion": "Criatura salvaje con aspecto humanoide que habita en las montañas.",
+    "historia": "El Sisimiqui, también conocido como Sisimite o Sisimico, es una criatura de origen indígena que se describe como un ser peludo y de gran tamaño que vive en las montañas y selvas, alejándose de los humanos pero atacando si se siente amenazado.",
+    "url_fuentes": [
+      "https://www.instagram.com/p/B70AvOGHygK/"
+    ]
+  },
+  {
+    "nombre": "El Viejo del Monte",
+    "pais": "Costa Rica",
+    "descripcion": "Espíritu anciano que protege la montaña y guía a los perdidos.",
+    "historia": "El Viejo del Monte es una figura espiritual que se aparece como un anciano sabio en las montañas. Ayuda a los viajeros perdidos a encontrar su camino y protege la naturaleza de la explotación.",
+    "url_fuentes": [
+      "https://www.teletica.com/masqn/pocos-conocen-estas-leyendas-unicas-de-costa-rica_345245"
+    ]
+  }
+]

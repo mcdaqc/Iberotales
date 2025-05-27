@@ -205,7 +205,25 @@
       "url_fuentes": [
         "https://mitosyleyendasdecolombia.com/tundama/"
       ]
-    }
+    },
+    {
+        "nombre": "El Hombre Lobo de la Sierra Nevada",
+        "pais": "Colombia",
+        "descripcion": "Leyenda indígena sobre un hombre que se transforma en lobo durante las noches.",
+        "historia": "En la Sierra Nevada de Santa Marta, los pueblos indígenas cuentan historias sobre un hombre que por maldición o pacto se convierte en lobo. Esta criatura sale por las noches para cazar, causando temor en las comunidades cercanas. Se cree que sólo puede ser curado si alguien rompe la maldición con rituales específicos.",
+        "url_fuentes": [
+          "https://mitosyleyendasdecolombia.com/hombre-lobo-sierra-nevada/"
+        ]
+      },
+      {
+        "nombre": "El Diablo de Patillal",
+        "pais": "Colombia",
+        "descripcion": "Figura demoníaca que acecha en la región de la Guajira y causa miedo a los pobladores.",
+        "historia": "El Diablo de Patillal es un mito popular que narra la aparición de un ente maligno que se aparece en noches oscuras, asustando a la gente y produciendo desgracias. Se dice que tiene poderes sobrenaturales y que sólo se le puede ahuyentar con rezos y rituales ancestrales.",
+        "url_fuentes": [
+          "https://mitosyleyendasdecolombia.com/diablo-patillal/"
+        ]
+      }
   ]
   
   
