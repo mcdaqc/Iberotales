@@ -1,95 +1,106 @@
 [
-    {
-      "nombre": "El Gallo de Barcelos",
-      "pais": "Portugal",
-      "descripcion": "Símbolo nacional portugués que representa la justicia y la buena suerte.",
-      "historia": "Un peregrino gallego fue acusado injustamente de robo en Barcelos. Antes de ser ahorcado, pidió ver al juez y señaló un gallo asado en la mesa, diciendo que cantaría para probar su inocencia. Milagrosamente, el gallo cantó y el peregrino fue liberado.",
-      "url_fuentes": [
-        "https://es.wikipedia.org/wiki/Leyenda_del_Gallo_de_Barcelos"
-      ]
-    },
-    {
-      "nombre": "La Serpiente de Fonte Fría",
-      "pais": "Portugal",
-      "descripcion": "Serpiente gigante que aterrorizaba la región de Trás-os-Montes.",
-      "historia": "Una enorme serpiente vivía en la Fonte Fría, en Trás-os-Montes, y aterrorizaba a los habitantes. Un valiente caballero llamado Don Duarte luchó contra ella y logró matarla, liberando así a la región de su amenaza.",
-      "url_fuentes": [
-        "https://www.sociedadiberista.org/5-leyendas-de-portugal/"
-      ]
-    },
-    {
-      "nombre": "La Fundación de Lisboa por Ulises",
-      "pais": "Portugal",
-      "descripcion": "Mito que atribuye la fundación de Lisboa al héroe griego Ulises.",
-      "historia": "Según la leyenda, Ulises fundó la ciudad de Lisboa durante su viaje de regreso a Ítaca. Se enamoró de la diosa Ofiusa, pero la abandonó para continuar su viaje. Ofiusa, despechada, creó las siete colinas de Lisboa con su magia.",
-      "url_fuentes": [
-        "https://www.sociedadiberista.org/5-leyendas-de-portugal/"
-      ]
-    },
-    {
-      "nombre": "La Boca del Infierno",
-      "pais": "Portugal",
-      "descripcion": "Formación rocosa en Cascais asociada a una leyenda de amor y traición.",
-      "historia": "Un mago malvado encerró a una joven en una torre. Ella se enamoró de su guardián y huyeron juntos. El mago, furioso, lanzó un hechizo que abrió la tierra y los tragó, creando la formación conocida como la Boca del Infierno.",
-      "url_fuentes": [
-        "https://www.sociedadiberista.org/5-leyendas-de-portugal/"
-      ]
-    },
-    {
-      "nombre": "La Leyenda de las Siete Ciudades",
-      "pais": "Portugal",
-      "descripcion": "Historia de siete obispos que fundaron siete ciudades en una isla mítica.",
-      "historia": "Durante la invasión musulmana, siete obispos huyeron y fundaron siete ciudades en una isla paradisíaca en el Atlántico. Estas ciudades prosperaron en aislamiento, y la leyenda ha perdurado como símbolo de esperanza y resistencia.",
-      "url_fuentes": [
-        "https://go2lisbon.pt/es/blog/legends-of-portugal-3-enchanting-stories-to-discover/"
-      ]
-    },
-    {
-      "nombre": "La Princesa Peralta",
-      "pais": "Portugal",
-      "descripcion": "Trágica historia de amor entre una princesa mora y un príncipe cristiano.",
-      "historia": "La princesa Peralta se enamoró de un príncipe cristiano. Su amor fue prohibido, y al intentar huir juntos, fueron capturados y enterrados vivos en una cueva cerca del río Tajo.",
-      "url_fuentes": [
-        "https://losmitosyleyendas.com/mitos-y-leyendas-de-portugal/"
-      ]
-    },
-    {
-      "nombre": "El Encantamiento de Moura Salúquia",
-      "pais": "Portugal",
-      "descripcion": "Leyenda de una mujer mora que se convirtió en espíritu tras una traición.",
-      "historia": "Moura Salúquia era una princesa mora que, tras ser traicionada por su prometido, se arrojó desde una torre. Su espíritu quedó encantado en la fuente cercana, apareciendo como una bella mujer que seduce a los hombres.",
-      "url_fuentes": [
-        "https://losmitosyleyendas.com/mitos-y-leyendas-de-portugal/"
-      ]
-    },
-    {
-      "nombre": "El Hombre Verde",
-      "pais": "Portugal",
-      "descripcion": "Figura mítica que representa la conexión entre lo humano y lo natural.",
-      "historia": "El Hombre Verde es una figura con rostro cubierto de hojas y ramas. Se cree que es un espíritu de la naturaleza que protege los bosques y simboliza la renovación y el renacimiento.",
-      "url_fuentes": [
-        "https://losmitosyleyendas.com/mitos-y-leyendas-de-portugal/"
-      ]
-    },
-    {
-      "nombre": "El Marialva",
-      "pais": "Portugal",
-      "descripcion": "Espíritu protector de los agricultores en la región del Alentejo.",
-      "historia": "El Marialva es un espíritu que protege a los agricultores y sus cultivos. Se dice que, si se le muestra respeto, proporciona cosechas abundantes y prosperidad.",
-      "url_fuentes": [
-        "https://losmitosyleyendas.com/mitos-y-leyendas-de-portugal/"
-      ]
-    },
-    {
-      "nombre": "La Leyenda del Amor de Pedro e Inês",
-      "pais": "Portugal",
-      "descripcion": "Historia de amor trágica entre el príncipe Pedro e Inês de Castro.",
-      "historia": "Pedro e Inês vivieron un amor prohibido. Inês fue asesinada por orden del rey. Tras convertirse en rey, Pedro vengó su muerte y la coronó como reina después de muerta.",
-      "url_fuentes": [
-        "https://go2lisbon.pt/es/blog/legends-of-portugal-3-enchanting-stories-to-discover/"
-      ]
-    },
   {
+    "id": "pt_01",
+    "nombre": "El Gallo de Barcelos",
+    "pais": "Portugal",
+    "descripcion": "Símbolo nacional portugués que representa la justicia y la buena suerte.",
+    "historia": "Un peregrino gallego fue acusado injustamente de robo en Barcelos. Antes de ser ahorcado, pidió ver al juez y señaló un gallo asado en la mesa, diciendo que cantaría para probar su inocencia. Milagrosamente, el gallo cantó y el peregrino fue liberado.",
+    "url_fuentes": [
+      "https://es.wikipedia.org/wiki/Leyenda_del_Gallo_de_Barcelos"
+    ]
+  },
+  {
+    "id": "pt_02",
+    "nombre": "La Serpiente de Fonte Fría",
+    "pais": "Portugal",
+    "descripcion": "Serpiente gigante que aterrorizaba la región de Trás-os-Montes.",
+    "historia": "Una enorme serpiente vivía en la Fonte Fría, en Trás-os-Montes, y aterrorizaba a los habitantes. Un valiente caballero llamado Don Duarte luchó contra ella y logró matarla, liberando así a la región de su amenaza.",
+    "url_fuentes": [
+      "https://www.sociedadiberista.org/5-leyendas-de-portugal/"
+    ]
+  },
+  {
+    "id": "pt_03",
+    "nombre": "La Fundación de Lisboa por Ulises",
+    "pais": "Portugal",
+    "descripcion": "Mito que atribuye la fundación de Lisboa al héroe griego Ulises.",
+    "historia": "Según la leyenda, Ulises fundó la ciudad de Lisboa durante su viaje de regreso a Ítaca. Se enamoró de la diosa Ofiusa, pero la abandonó para continuar su viaje. Ofiusa, despechada, creó las siete colinas de Lisboa con su magia.",
+    "url_fuentes": [
+      "https://www.sociedadiberista.org/5-leyendas-de-portugal/"
+    ]
+  },
+  {
+    "id": "pt_04",
+    "nombre": "La Boca del Infierno",
+    "pais": "Portugal",
+    "descripcion": "Formación rocosa en Cascais asociada a una leyenda de amor y traición.",
+    "historia": "Un mago malvado encerró a una joven en una torre. Ella se enamoró de su guardián y huyeron juntos. El mago, furioso, lanzó un hechizo que abrió la tierra y los tragó, creando la formación conocida como la Boca del Infierno.",
+    "url_fuentes": [
+      "https://www.sociedadiberista.org/5-leyendas-de-portugal/"
+    ]
+  },
+  {
+    "id": "pt_05",
+    "nombre": "La Leyenda de las Siete Ciudades",
+    "pais": "Portugal",
+    "descripcion": "Historia de siete obispos que fundaron siete ciudades en una isla mítica.",
+    "historia": "Durante la invasión musulmana, siete obispos huyeron y fundaron siete ciudades en una isla paradisíaca en el Atlántico. Estas ciudades prosperaron en aislamiento, y la leyenda ha perdurado como símbolo de esperanza y resistencia.",
+    "url_fuentes": [
+      "https://go2lisbon.pt/es/blog/legends-of-portugal-3-enchanting-stories-to-discover/"
+    ]
+  },
+  {
+    "id": "pt_06",
+    "nombre": "La Princesa Peralta",
+    "pais": "Portugal",
+    "descripcion": "Trágica historia de amor entre una princesa mora y un príncipe cristiano.",
+    "historia": "La princesa Peralta se enamoró de un príncipe cristiano. Su amor fue prohibido, y al intentar huir juntos, fueron capturados y enterrados vivos en una cueva cerca del río Tajo.",
+    "url_fuentes": [
+      "https://losmitosyleyendas.com/mitos-y-leyendas-de-portugal/"
+    ]
+  },
+  {
+    "id": "pt_07",
+    "nombre": "El Encantamiento de Moura Salúquia",
+    "pais": "Portugal",
+    "descripcion": "Leyenda de una mujer mora que se convirtió en espíritu tras una traición.",
+    "historia": "Moura Salúquia era una princesa mora que, tras ser traicionada por su prometido, se arrojó desde una torre. Su espíritu quedó encantado en la fuente cercana, apareciendo como una bella mujer que seduce a los hombres.",
+    "url_fuentes": [
+      "https://losmitosyleyendas.com/mitos-y-leyendas-de-portugal/"
+    ]
+  },
+  {
+    "id": "pt_08",
+    "nombre": "El Hombre Verde",
+    "pais": "Portugal",
+    "descripcion": "Figura mítica que representa la conexión entre lo humano y lo natural.",
+    "historia": "El Hombre Verde es una figura con rostro cubierto de hojas y ramas. Se cree que es un espíritu de la naturaleza que protege los bosques y simboliza la renovación y el renacimiento.",
+    "url_fuentes": [
+      "https://losmitosyleyendas.com/mitos-y-leyendas-de-portugal/"
+    ]
+  },
+  {
+    "id": "pt_09",
+    "nombre": "El Marialva",
+    "pais": "Portugal",
+    "descripcion": "Espíritu protector de los agricultores en la región del Alentejo.",
+    "historia": "El Marialva es un espíritu que protege a los agricultores y sus cultivos. Se dice que, si se le muestra respeto, proporciona cosechas abundantes y prosperidad.",
+    "url_fuentes": [
+      "https://losmitosyleyendas.com/mitos-y-leyendas-de-portugal/"
+    ]
+  },
+  {
+    "id": "pt_10",
+    "nombre": "La Leyenda del Amor de Pedro e Inês",
+    "pais": "Portugal",
+    "descripcion": "Historia de amor trágica entre el príncipe Pedro e Inês de Castro.",
+    "historia": "Pedro e Inês vivieron un amor prohibido. Inês fue asesinada por orden del rey. Tras convertirse en rey, Pedro vengó su muerte y la coronó como reina después de muerta.",
+    "url_fuentes": [
+      "https://go2lisbon.pt/es/blog/legends-of-portugal-3-enchanting-stories-to-discover/"
+    ]
+  },
+  {
+    "id": "pt_11",
     "nombre": "El Lagarto de Penha de França",
     "pais": "Portugal",
     "descripcion": "Criatura mítica que habitaba en la colina de Penha de França en Lisboa.",
@@ -99,6 +110,7 @@
     ]
   },
   {
+    "id": "pt_12",
     "nombre": "La Leyenda de San Vicente",
     "pais": "Portugal",
     "descripcion": "Historia del patrón de Lisboa y su conexión con la ciudad.",
@@ -108,6 +120,7 @@
     ]
   },
   {
+    "id": "pt_13",
     "nombre": "La Leyenda de Martim Moniz",
     "pais": "Portugal",
     "descripcion": "Acto heroico durante la conquista de Lisboa en el siglo XII.",
@@ -117,6 +130,7 @@
     ]
   },
   {
+    "id": "pt_14",
     "nombre": "La Leyenda de D. Sebastião",
     "pais": "Portugal",
     "descripcion": "Mito sobre el joven rey desaparecido en la batalla de Alcazarquivir.",
@@ -126,6 +140,7 @@
     ]
   },
   {
+    "id": "pt_15",
     "nombre": "La Moura Encantada",
     "pais": "Portugal",
     "descripcion": "Espíritu femenino que guarda tesoros y aparece en noches especiales.",
@@ -135,6 +150,7 @@
     ]
   },
   {
+    "id": "pt_16",
     "nombre": "El Bicho-Papão",
     "pais": "Portugal",
     "descripcion": "Criatura usada para asustar a los niños desobedientes.",
@@ -144,6 +160,7 @@
     ]
   },
   {
+    "id": "pt_17",
     "nombre": "Las Siete Ciudades",
     "pais": "Portugal",
     "descripcion": "Historia de una princesa y un pastor que lloraron lagos de diferentes colores.",
@@ -153,6 +170,7 @@
     ]
   },
   {
+    "id": "pt_18",
     "nombre": "La Princesa Santa Joana",
     "pais": "Portugal",
     "descripcion": "Historia de una princesa que renunció al trono por la vida religiosa.",
@@ -162,6 +180,7 @@
     ]
   },
   {
+    "id": "pt_19",
     "nombre": "El Pez Milagroso",
     "pais": "Portugal",
     "descripcion": "Historia de un pescador que capturó un pez que era una princesa encantada.",
@@ -171,6 +190,7 @@
     ]
   },
   {
+    "id": "pt_20",
     "nombre": "La Cueva da Moeda",
     "pais": "Portugal",
     "descripcion": "Historia sobre un hombre rico y monedas perdidas en una cueva.",

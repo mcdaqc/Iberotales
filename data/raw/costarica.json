@@ -1,5 +1,6 @@
 [
   {
+    "id": "cr_01",
     "nombre": "La Tulevieja",
     "pais": "Costa Rica",
     "descripcion": "Espíritu femenino asociado a castigos y advertencias para quienes incumplen normas sociales y morales.",
@@ -10,6 +11,7 @@
     ]
   },
   {
+    "id": "cr_02",
     "nombre": "El Cadejos",
     "pais": "Costa Rica",
     "descripcion": "Perro fantasma que puede proteger o traer desgracia a las personas durante la noche.",
@@ -20,6 +22,7 @@
     ]
   },
   {
+    "id": "cr_03",
     "nombre": "La Llorona",
     "pais": "Costa Rica",
     "descripcion": "Espíritu femenino que llora la pérdida de sus hijos, apareciendo cerca de cuerpos de agua.",
@@ -30,6 +33,7 @@
     ]
   },
   {
+    "id": "cr_04",
     "nombre": "El Patasola",
     "pais": "Costa Rica",
     "descripcion": "Mujer con una sola pierna que protege la selva y castiga a quienes la dañan.",
@@ -40,6 +44,7 @@
     ]
   },
   {
+    "id": "cr_05",
     "nombre": "El Siguanaba",
     "pais": "Costa Rica",
     "descripcion": "Mujer que se transforma en un ser horrendo para asustar a hombres infieles o malos comportados.",
@@ -50,6 +55,7 @@
     ]
   },
   {
+    "id": "cr_06",
     "nombre": "Guayacán",
     "pais": "Costa Rica",
     "descripcion": "Espíritu protector de los bosques y árboles en la mitología indígena costarricense.",
@@ -59,6 +65,7 @@
     ]
   },
   {
+    "id": "cr_07",
     "nombre": "Talamanca",
     "pais": "Costa Rica",
     "descripcion": "Espíritu guardián de la región de Talamanca y protector de sus pueblos indígenas.",
@@ -68,6 +75,7 @@
     ]
   },
   {
+    "id": "cr_08",
     "nombre": "El Chirripó",
     "pais": "Costa Rica",
     "descripcion": "Ser mitológico asociado con la montaña más alta del país, guardián de las tierras altas.",
@@ -77,6 +85,7 @@
     ]
   },
   {
+    "id": "cr_09",
     "nombre": "La Loma del Chivo",
     "pais": "Costa Rica",
     "descripcion": "Espíritu con forma de chivo que protege tesoros y castiga a los curiosos.",
@@ -86,6 +95,7 @@
     ]
   },
   {
+    "id": "cr_10",
     "nombre": "El Patasola de Talamanca",
     "pais": "Costa Rica",
     "descripcion": "Variante del Patasola que protege la región de Talamanca y su selva.",
@@ -95,6 +105,7 @@
     ]
   },
   {
+    "id": "cr_11",
     "nombre": "El Guaro",
     "pais": "Costa Rica",
     "descripcion": "Espíritu travieso que habita en los bosques y juega bromas a los viajeros nocturnos.",
@@ -104,6 +115,7 @@
     ]
   },
   {
+    "id": "cr_12",
     "nombre": "La Dama Tapada",
     "pais": "Costa Rica",
     "descripcion": "Fantasma femenino que aparece cubierto con un manto blanco y asusta a los que caminan de noche.",
@@ -113,6 +125,7 @@
     ]
   },
   {
+    "id": "cr_13",
     "nombre": "El Guayacán del Norte",
     "pais": "Costa Rica",
     "descripcion": "Espíritu ancestral protector de la región norteña y sus bosques.",
@@ -122,6 +135,7 @@
     ]
   },
   {
+    "id": "cr_14",
     "nombre": "La Pájara Pinta",
     "pais": "Costa Rica",
     "descripcion": "Ave legendaria que presagia mala suerte o la muerte.",
@@ -131,6 +145,7 @@
     ]
   },
   {
+    "id": "cr_15",
     "nombre": "El Tigre de la Sabana",
     "pais": "Costa Rica",
     "descripcion": "Animal mitológico que habita en las sabanas y que es considerado un espíritu guardián.",
@@ -140,6 +155,7 @@
     ]
   },
   {
+    "id": "cr_16",
     "nombre": "La Llorona del Pacífico",
     "pais": "Costa Rica",
     "descripcion": "Variante local de la Llorona que se aparece en la costa pacífica costarricense.",
@@ -149,6 +165,7 @@
     ]
   },
   {
+    "id": "cr_17",
     "nombre": "El Chulo",
     "pais": "Costa Rica",
     "descripcion": "Criatura pequeña y peluda que habita en casas y roba objetos pequeños.",
@@ -158,6 +175,7 @@
     ]
   },
   {
+    "id": "cr_18",
     "nombre": "La Tatuana",
     "pais": "Costa Rica",
     "descripcion": "Ser mitológico con apariencia de armadillo gigante que protege el suelo y castiga a quienes lo dañan.",
@@ -167,6 +185,7 @@
     ]
   },
   {
+    "id": "cr_19",
     "nombre": "El Espíritu del Volcán Arenal",
     "pais": "Costa Rica",
     "descripcion": "Alma que habita en el volcán y protege o castiga según el respeto de la naturaleza.",
@@ -176,6 +195,7 @@
     ]
   },
   {
+    "id": "cr_20",
     "nombre": "El Micomalo",
     "pais": "Costa Rica",
     "descripcion": "Criatura simiesca que habita en la selva y ataca a los viajeros.",
@@ -185,6 +205,7 @@
     ]
   },
   {
+    "id": "cr_21",
     "nombre": "El Espanto Azul",
     "pais": "Costa Rica",
     "descripcion": "Espectro que aparece como una figura luminosa azulada en caminos solitarios.",
@@ -194,6 +215,7 @@
     ]
   },
   {
+    "id": "cr_22",
     "nombre": "El Dueño del Monte",
     "pais": "Costa Rica",
     "descripcion": "Espíritu protector de los bosques que castiga a quienes los dañan.",
@@ -203,6 +225,7 @@
     ]
   },
   {
+    "id": "cr_23",
     "nombre": "La Carreta sin Bueyes",
     "pais": "Costa Rica",
     "descripcion": "Carreta fantasma que se escucha por las noches sin ser vista.",
@@ -212,6 +235,7 @@
     ]
   },
   {
+    "id": "cr_24",
     "nombre": "El Padre sin Cabeza",
     "pais": "Costa Rica",
     "descripcion": "Fantasma de un sacerdote decapitado que vaga en busca de redención.",
@@ -221,6 +245,7 @@
     ]
   },
   {
+    "id": "cr_25",
     "nombre": "El Inchik Olljo",
     "pais": "Costa Rica",
     "descripcion": "Duende maligno que vive cerca de los ríos y secuestra niños.",
@@ -230,6 +255,7 @@
     ]
   },
   {
+    "id": "cr_26",
     "nombre": "Iríria, la Niña Danta",
     "pais": "Costa Rica",
     "descripcion": "Espíritu de una niña que se transforma en danta para proteger la selva.",
@@ -239,6 +265,7 @@
     ]
   },
   {
+    "id": "cr_27",
     "nombre": "El Dragón Kori",
     "pais": "Costa Rica",
     "descripcion": "Criatura legendaria de la cultura ngöbe que habita en las montañas.",
@@ -248,6 +275,7 @@
     ]
   },
   {
+    "id": "cr_28",
     "nombre": "El Sisimiqui",
     "pais": "Costa Rica",
     "descripcion": "Criatura salvaje con aspecto humanoide que habita en las montañas.",
@@ -257,6 +285,7 @@
     ]
   },
   {
+    "id": "cr_29",
     "nombre": "El Viejo del Monte",
     "pais": "Costa Rica",
     "descripcion": "Espíritu anciano que protege la montaña y guía a los perdidos.",

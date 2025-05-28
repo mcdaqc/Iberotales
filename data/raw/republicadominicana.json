@@ -1,5 +1,6 @@
 [
   {
+    "id": "do_01",
     "nombre": "La Ciguapa",
     "pais": "República Dominicana",
     "descripcion": "Mujer de belleza enigmática con pies al revés, que habita en los montes.",
@@ -10,6 +11,7 @@
     ]
   },
   {
+    "id": "do_02",
     "nombre": "Las Marimantas",
     "pais": "República Dominicana",
     "descripcion": "Seres envueltos en sábanas que asustan a los niños desobedientes.",
@@ -20,6 +22,7 @@
     ]
   },
   {
+    "id": "do_03",
     "nombre": "Los Biembienes",
     "pais": "República Dominicana",
     "descripcion": "Seres salvajes y deformes que habitan en las montañas.",
@@ -30,6 +33,7 @@
     ]
   },
   {
+    "id": "do_04",
     "nombre": "El Bacá",
     "pais": "República Dominicana",
     "descripcion": "Criatura demoníaca creada mediante brujería para conceder bienes materiales.",
@@ -40,6 +44,7 @@
     ]
   },
   {
+    "id": "do_05",
     "nombre": "El Galipote",
     "pais": "República Dominicana",
     "descripcion": "Hombre que puede transformarse en animal u objeto inanimado.",
@@ -49,6 +54,7 @@
     ]
   },
   {
+    "id": "do_06",
     "nombre": "Las Jupías",
     "pais": "República Dominicana",
     "descripcion": "Espíritus de personas fallecidas que vagan por lugares específicos.",
@@ -59,6 +65,7 @@
     ]
   },
   {
+    "id": "do_07",
     "nombre": "Las Brujas",
     "pais": "República Dominicana",
     "descripcion": "Seres nocturnos que se transforman en aves y succionan la sangre de los niños.",
@@ -68,6 +75,7 @@
     ]
   },
   {
+    "id": "do_08",
     "nombre": "El Comegente",
     "pais": "República Dominicana",
     "descripcion": "Ser legendario que devora personas y deambula por los caminos.",
@@ -77,6 +85,7 @@
     ]
   },
   {
+    "id": "do_09",
     "nombre": "El Chupacabra",
     "pais": "República Dominicana",
     "descripcion": "Criatura que chupa la sangre del ganado y, según algunas versiones, de humanos.",
@@ -86,6 +95,7 @@
     ]
   },
   {
+    "id": "do_10",
     "nombre": "Las Nimitas",
     "pais": "República Dominicana",
     "descripcion": "Luciérnagas que representan el alma de los difuntos.",
@@ -95,6 +105,7 @@
     ]
   },
   {
+    "id": "do_11",
     "nombre": "Papa Legba",
     "pais": "República Dominicana",
     "descripcion": "Deidad que actúa como intermediario entre los humanos y los loas.",
@@ -104,6 +115,7 @@
     ]
   },
   {
+    "id": "do_12",
     "nombre": "El Lugaru",
     "pais": "República Dominicana",
     "descripcion": "Hombre que se transforma en perro mediante poderes mágicos.",
@@ -113,6 +125,7 @@
     ]
   },
   {
+    "id": "do_13",
     "nombre": "La Reina de las Américas",
     "pais": "República Dominicana",
     "descripcion": "Espíritu de una novia que aparece en la Avenida de las Américas.",
@@ -122,6 +135,7 @@
     ]
   },
   {
+    "id": "do_14",
     "nombre": "El Lago Enriquillo",
     "pais": "República Dominicana",
     "descripcion": "Lugar asociado con apariciones y fenómenos paranormales.",
@@ -131,6 +145,7 @@
     ]
   },
   {
+    "id": "do_15",
     "nombre": "El Agua de Mayo",
     "pais": "República Dominicana",
     "descripcion": "Agua considerada mágica y utilizada para purificación.",
@@ -140,6 +155,7 @@
     ]
   },
   {
+    "id": "do_16",
     "nombre": "El Hombre del Sombrero",
     "pais": "República Dominicana",
     "descripcion": "Espíritu errante vestido de negro y con sombrero, que persigue mujeres.",
@@ -150,6 +166,7 @@
     ]
   },
   {
+    "id": "do_17",
     "nombre": "El Culebrón",
     "pais": "República Dominicana",
     "descripcion": "Serpiente gigante con poderes mágicos, guardiana de tesoros ocultos.",
@@ -159,6 +176,7 @@
     ]
   },
   {
+    "id": "do_18",
     "nombre": "El Jinete Sin Cabeza",
     "pais": "República Dominicana",
     "descripcion": "Fantasma que cabalga sin cabeza en caminos solitarios por las noches.",
@@ -168,6 +186,7 @@
     ]
   },
   {
+    "id": "do_19",
     "nombre": "El Perro Negro del Mal",
     "pais": "República Dominicana",
     "descripcion": "Gran perro negro con ojos de fuego que anuncia muerte o desgracia.",
@@ -177,6 +196,7 @@
     ]
   },
   {
+    "id": "do_20",
     "nombre": "El Enano del Tambor",
     "pais": "República Dominicana",
     "descripcion": "Pequeña criatura que aparece en celebraciones para tocar tambores mágicos.",
@@ -186,6 +206,7 @@
     ]
   },
   {
+    "id": "do_21",
     "nombre": "La Mujer de Blanco",
     "pais": "República Dominicana",
     "descripcion": "Fantasma de una mujer vestida de blanco que vaga por los caminos.",
@@ -195,6 +216,7 @@
     ]
   },
   {
+    "id": "do_22",
     "nombre": "La Mano Peluda",
     "pais": "República Dominicana",
     "descripcion": "Mano fantasma que aparece debajo de las camas para atrapar a los niños.",
@@ -204,6 +226,7 @@
     ]
   },
   {
+    "id": "do_23",
     "nombre": "La Vieja de la Bolsa",
     "pais": "República Dominicana",
     "descripcion": "Anciana que lleva una bolsa para llevarse a los niños malcriados.",
@@ -213,6 +236,7 @@
     ]
   },
   {
+    "id": "do_24",
     "nombre": "La Llorona Dominicana",
     "pais": "República Dominicana",
     "descripcion": "Espíritu que llora desconsoladamente por la pérdida de sus hijos.",

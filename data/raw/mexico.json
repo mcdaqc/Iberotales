@@ -1,364 +1,402 @@
 [
-    {
-      "nombre": "Quetzalcóatl",
-      "pais": "México",
-      "descripcion": "Dios serpiente emplumada, uno de los principales dioses mexicas y toltecas.",
-      "historia": "Quetzalcóatl, conocido como la serpiente emplumada, es un dios creador y de la sabiduría. Según la mitología mexica, enseñó a los hombres la agricultura, las artes y la civilización. Es considerado el dios del viento y de la vida, y su culto fue muy importante en Mesoamérica.",
-      "url_fuentes": [
-        "https://www.britannica.com/topic/Quetzalcoatl",
-        "https://www.britannica.com/topic/Aztec-religion"
-      ]
-    },
-    {
-      "nombre": "Tezcatlipoca",
-      "pais": "México",
-      "descripcion": "Dios del cielo nocturno, la providencia y el destino, asociado al espejo humeante.",
-      "historia": "Tezcatlipoca es un dios poderoso y dual, patrono de la magia, la guerra y la oscuridad. Se le representaba con un espejo de obsidiana que usaba para espiar a los mortales. Su lucha eterna con Quetzalcóatl representa el ciclo de la creación y la destrucción.",
-      "url_fuentes": [
-        "https://www.britannica.com/topic/Tezcatlipoca",
-        "https://www.ancient.eu/Tezcatlipoca/"
-      ]
-    },
-    {
-      "nombre": "Cipactli",
-      "pais": "México",
-      "descripcion": "Monstruo mitológico, un monstruo anfibio que formó la tierra tras ser derrotado.",
-      "historia": "Cipactli es una criatura gigante con cuerpo de pez y boca llena de dientes, a quien los dioses sacrificaron para crear el mundo. Su cuerpo partido formó la tierra, sus ojos las montañas y sus dientes los picos y valles.",
-      "url_fuentes": [
-        "https://www.mexicolore.co.uk/aztecs/home/cipactli-the-giant-crocodile",
-        "https://www.ancient.eu/article/1229/aztec-mythology/"
-      ]
-    },
-    {
-      "nombre": "Tláloc",
-      "pais": "México",
-      "descripcion": "Dios mexica de la lluvia, el agua y la fertilidad.",
-      "historia": "Tláloc es el dios de la lluvia, muy temido y respetado porque podía enviar tormentas y sequías. Su templo se encontraba en el Templo Mayor de Tenochtitlán. Se creía que llevaba a las almas de quienes morían por ahogamiento o enfermedades relacionadas con el agua.",
-      "url_fuentes": [
-        "https://www.britannica.com/topic/Tlaloc",
-        "https://www.ancient.eu/Tlaloc/"
-      ]
-    },
-    {
-      "nombre": "Xólotl",
-      "pais": "México",
-      "descripcion": "Dios del ocaso, la oscuridad y el inframundo, hermano gemelo de Quetzalcóatl.",
-      "historia": "Xólotl, representado como un perro con aspecto monstruoso, guía las almas al inframundo y simboliza la muerte y el renacimiento. Participó en la creación del hombre junto a Quetzalcóatl, y se asocia a los sacrificios y al ciclo del día y la noche.",
-      "url_fuentes": [
-        "https://www.britannica.com/topic/Xolotl",
-        "https://www.ancient.eu/Xolotl/"
-      ]
-    },
-    {
-      "nombre": "Ahuizotl",
-      "pais": "México",
-      "descripcion": "Monstruo acuático legendario, con apariencia de perro con manos humanas.",
-      "historia": "El Ahuizotl es una criatura de los ríos y lagos, descrita con cuerpo de perro, cola prensil y manos en las patas delanteras. Se dice que ahogaba a sus víctimas para devorarlas, especialmente a aquellos que se acercaban a sus dominios.",
-      "url_fuentes": [
-        "https://www.britannica.com/topic/Ahuizotl",
-        "https://www.mexicolore.co.uk/aztecs/home/ahuizotl-the-mexica-water-monster"
-      ]
-    },
-    {
-      "nombre": "Cihuacóatl",
-      "pais": "México",
-      "descripcion": "Diosa de la fertilidad, la tierra y protectora de las mujeres que mueren en parto.",
-      "historia": "Cihuacóatl, cuyo nombre significa 'mujer serpiente', es una deidad que también se relaciona con la guerra. Aparece vestida con una capa de serpientes y se dice que en sus apariciones llora por la pérdida de sus hijos en la batalla o muerte.",
-      "url_fuentes": [
-        "https://www.ancient.eu/Cihuacoatl/",
-        "https://www.britannica.com/topic/Cihuacoatl"
-      ]
-    },
-    {
-      "nombre": "Tlacatecolotl",
-      "pais": "México",
-      "descripcion": "Dios búho relacionado con la noche y la muerte.",
-      "historia": "Tlacatecolotl es el dios búho que simboliza la oscuridad y el terror. Se cree que su llamada anuncia la muerte o la mala fortuna. En la mitología mexica, el búho es un animal del inframundo y un mensajero de los dioses.",
-      "url_fuentes": [
-        "https://www.mexicolore.co.uk/aztecs/home/owl-gods-and-bad-omens",
-        "https://www.worldhistory.org/Tlacatecolotl/"
-      ]
-    },
-    {
-      "nombre": "Tzitzimime",
-      "pais": "México",
-      "descripcion": "Diosas estelares monstruosas, temidas porque se creía que caían durante eclipses.",
-      "historia": "Los Tzitzimime son figuras femeninas demoníacas que habitan en el cielo. Durante los eclipses solares, se creía que bajaban para devorar a los hombres y sembrar caos. Eran símbolos de la muerte y la destrucción en la cosmovisión mexica.",
-      "url_fuentes": [
-        "https://www.britannica.com/topic/Tzitzimime",
-        "https://www.ancient.eu/Tzitzimime/"
-      ]
-    },
-    {
-      "nombre": "Xólotl, el perro del inframundo",
-      "pais": "México",
-      "descripcion": "Perro sagrado que guía a las almas en el Mictlán.",
-      "historia": "En la mitología mexica, Xólotl es el guía de las almas hacia el inframundo, Mictlán. Se representa con características caninas y monstruosas. Su papel es esencial para que las almas lleguen seguras a su destino final.",
-      "url_fuentes": [
-        "https://www.britannica.com/topic/Xolotl",
-        "https://www.mexicolore.co.uk/aztecs/home/xolotl-the-dog-god"
-      ]
-    },
-    {
-      "nombre": "Nahuales",
-      "pais": "México",
-      "descripcion": "Seres humanos con la capacidad de transformarse en animales.",
-      "historia": "El nahual es una figura mítica de la cultura mesoamericana que representa a un brujo o chaman que puede transformarse en un animal, generalmente un jaguar, coyote o ave. Son protectores o hechiceros, según la leyenda.",
-      "url_fuentes": [
-        "https://www.britannica.com/topic/Nahual",
-        "https://www.mexicolore.co.uk/aztecs/home/nahuales-shamans-of-mesoamerica"
-      ]
-    },
-    {
-      "nombre": "Huehuecóyotl",
-      "pais": "México",
-      "descripcion": "Dios mexica del baile, la música y la travesura, representado como un coyote viejo.",
-      "historia": "Huehuecóyotl es el dios de la música, las danzas y la diversión, pero también es un embaucador. Se le asocia con la dualidad del placer y la sabiduría, siendo un dios que pone a prueba a los humanos con sus engaños.",
-      "url_fuentes": [
-        "https://www.britannica.com/topic/Huehuecoyotl",
-        "https://www.ancient.eu/Huehuecoyotl/"
-      ]
-    },
-    {
-      "nombre": "Mictlantecuhtli",
-      "pais": "México",
-      "descripcion": "Dios mexica del inframundo y la muerte.",
-      "historia": "Mictlantecuhtli es el señor del Mictlán, el inframundo mexica. Es un dios temido que gobierna sobre las almas de los muertos y representa la muerte y la oscuridad. Se le representa como un esqueleto o figura cadavérica adornada con huesos.",
-      "url_fuentes": [
-        "https://www.britannica.com/topic/Mictlantecuhtli",
-        "https://www.ancient.eu/Mictlantecuhtli/"
-      ]
-    },
-    {
-      "nombre": "Chaneque",
-      "pais": "México",
-      "descripcion": "Pequeñas criaturas traviesas del folclore veracruzano.",
-      "historia": "Los chaneques son seres diminutos que habitan en la naturaleza y esconden objetos de las personas. Se cree que protegen la selva y las aguas, y que juegan bromas a quienes no respetan el entorno natural.",
-      "url_fuentes": [
-        "https://www.lifeder.com/leyendas-mexicanas/",
-        "https://www.mexicolore.co.uk/aztecs/home/chaneques-mischievous-spirits"
-      ]
-    },
-    {
-      "nombre": "Coatlicue",
-      "pais": "México",
-      "descripcion": "Diosa de la tierra y la fertilidad, madre de Huitzilopochtli.",
-      "historia": "Coatlicue es la diosa madre en la mitología mexica, que representa la tierra y la fertilidad. Su imagen es aterradora, con falda de serpientes y collar de manos y corazones, simbolizando la vida y la muerte.",
-      "url_fuentes": [
-        "https://www.britannica.com/topic/Coatlicue",
-        "https://www.ancient.eu/Coatlicue/"
-      ]
-    },
-    {
-      "nombre": "Tlaltecuhtli",
-      "pais": "México",
-      "descripcion": "Diosa mexica de la tierra, representada como un monstruo devorador.",
-      "historia": "Tlaltecuhtli es una deidad primordial que personifica la tierra. Se dice que tras la creación, fue sacrificada para formar el suelo sobre el que caminan los humanos, y su imagen monstruosa aparece en códices y esculturas aztecas.",
-      "url_fuentes": [
-        "https://www.britannica.com/topic/Tlaltecuhtli",
-        "https://www.ancient.eu/Tlaltecuhtli/"
-      ]
-    },
-    {
-      "nombre": "Xochipilli",
-      "pais": "México",
-      "descripcion": "Dios mexica de las flores, el amor, el arte y el juego.",
-      "historia": "Xochipilli es un dios alegre, patrón de la belleza, la danza, el canto y las flores. Se le consideraba protector de las artes y de la juventud, y era celebrado en festivales llenos de música y flores.",
-      "url_fuentes": [
-        "https://www.britannica.com/topic/Xochipilli",
-        "https://www.ancient.eu/Xochipilli/"
-      ]
-    },
-    {
-      "nombre": "Itzpapalotl",
-      "pais": "México",
-      "descripcion": "Diosa mexica con alas de obsidiana, reina de los Tzitzimime.",
-      "historia": "Itzpapalotl es una diosa guerrera y un Tzitzimime temible, asociada con la fertilidad y el sacrificio humano. Su nombre significa 'mariposa de obsidiana' y aparece en relatos de eclipses y peligros cósmicos.",
-      "url_fuentes": [
-        "https://www.britannica.com/topic/Itzpapalotl",
-        "https://www.ancient.eu/Itzpapalotl/"
-      ]
-    },
-    {
-      "nombre": "Chalchiuhtlicue",
-      "pais": "México",
-      "descripcion": "Diosa mexica de los ríos, lagos y aguas.",
-      "historia": "Chalchiuhtlicue es la diosa del agua dulce, esposa de Tláloc. Se cree que protege los cuerpos de agua y es responsable de la fertilidad y la vida. En la mitología, también se le relaciona con los nacimientos y las ceremonias de purificación.",
-      "url_fuentes": [
-        "https://www.britannica.com/topic/Chalchiuhtlicue",
-        "https://www.ancient.eu/Chalchiuhtlicue/"
-      ]
-    },
-    {
-      "nombre": "Tlalocan",
-      "pais": "México",
-      "descripcion": "Paraíso mexica gobernado por Tláloc, destino de quienes mueren por agua o rayo.",
-      "historia": "Tlalocan es un paraíso acuático en la mitología mexica, donde las almas de aquellos que mueren por causas relacionadas con el agua encuentran descanso. Se representa como un lugar de abundancia y felicidad eterna.",
-      "url_fuentes": [
-        "https://www.britannica.com/topic/Tlalocan",
-        "https://www.mexicolore.co.uk/aztecs/home/tlalocan-the-aztec-paradise"
-      ]
-    },
-    {
-      "nombre": "La Llorona",
-      "pais": "México",
-      "descripcion": "Espíritu de una mujer que llora por sus hijos perdidos.",
-      "historia": "La Llorona es una figura legendaria que, según la tradición, vaga por las noches llorando por sus hijos, a quienes ahogó en un río en un momento de desesperación. Su lamento es un presagio de desgracia.",
-      "url_fuentes": [
-        "https://www.culturagenial.com/es/leyendas-mexicanas/"
-      ]
-    },
-    {
-      "nombre": "El Charro Negro",
-      "pais": "México",
-      "descripcion": "Figura fantasmal vestida de charro que ofrece riquezas a cambio del alma.",
-      "historia": "El Charro Negro es un espectro que aparece en caminos solitarios, ofreciendo riquezas a los viajeros. Aquellos que aceptan su oferta pierden su alma, quedando condenados a servirle eternamente.",
-      "url_fuentes": [
-        "https://www.culturagenial.com/es/leyendas-mexicanas/"
-      ]
-    },
-    {
-      "nombre": "La Isla de las Muñecas",
-      "pais": "México",
-      "descripcion": "Isla decorada con muñecas colgadas en árboles.",
-      "historia": "En los canales de Xochimilco, Don Julián Santana comenzó a colgar muñecas en los árboles para apaciguar el espíritu de una niña que murió ahogada. La isla se ha convertido en un lugar turístico y enigmático.",
-      "url_fuentes": [
-        "https://www.zocalo.com.mx/las-10-leyendas-mas-famosas-de-mexico/"
-      ]
-    },
-    {
-      "nombre": "La Nahuala",
-      "pais": "México",
-      "descripcion": "Espíritu maligno que posee a las personas.",
-      "historia": "La Nahuala es una leyenda poblana sobre un espíritu que posee a las personas, obligándolas a cometer actos malvados. Se dice que habita en una antigua casona del centro histórico de Puebla.",
-      "url_fuentes": [
-        "https://www.culturagenial.com/es/leyendas-mexicanas/"
-      ]
-    },
-    {
-      "nombre": "El Callejón del Beso",
-      "pais": "México",
-      "descripcion": "Callejón en Guanajuato donde una pareja se besaba en secreto.",
-      "historia": "En Guanajuato, una joven de familia adinerada y su enamorado pobre se besaban en secreto desde balcones opuestos. Al ser descubiertos, el padre de la joven la mató, convirtiendo el callejón en un símbolo de amor trágico.",
-      "url_fuentes": [
-        "https://www.culturagenial.com/es/leyendas-mexicanas/"
-      ]
-    },
-    {
-      "nombre": "El Popocatépetl y la Iztaccíhuatl",
-      "pais": "México",
-      "descripcion": "Leyenda de dos volcanes que representan a amantes eternos.",
-      "historia": "Iztaccíhuatl, una princesa, murió creyendo que su amado Popocatépetl había muerto en batalla. Al regresar y encontrarla muerta, él también falleció de tristeza. Los dioses los convirtieron en volcanes para que estuvieran juntos por siempre.",
-      "url_fuentes": [
-        "https://www.culturagenial.com/es/leyendas-mexicanas/"
-      ]
-    },
-    {
-      "nombre": "El Chupacabras",
-      "pais": "México",
-      "descripcion": "Criatura que ataca animales de granja y les succiona la sangre.",
-      "historia": "El Chupacabras es una criatura legendaria que se dice ataca a animales de granja, dejándolos sin sangre. Aunque su existencia no ha sido comprobada, los relatos sobre sus ataques se han difundido por todo México.",
-      "url_fuentes": [
-        "https://www.lifeder.com/leyendas-mexicanas/"
-      ]
-    },
-    {
-      "nombre": "La Mujer Herrada",
-      "pais": "México",
-      "descripcion": "Mujer con cascos de caballo que aparece en caminos solitarios.",
-      "historia": "Se dice que una mujer hermosa aparece en caminos solitarios para seducir a los hombres. Al acercarse, descubren que tiene cascos de caballo en lugar de pies, y desaparece dejando un olor a azufre.",
-      "url_fuentes": [
-        "https://www.culturagenial.com/es/leyendas-mexicanas/"
-      ]
-    },
-    {
-      "nombre": "El Fantasma de la Monja",
-      "pais": "México",
-      "descripcion": "Espíritu de una monja que aparece en antiguos conventos.",
-      "historia": "En varios conventos antiguos de México, se cuenta la historia de una monja que fue enterrada viva por romper sus votos. Su espíritu aparece en las noches, vagando por los pasillos en busca de redención.",
-      "url_fuentes": [
-        "https://www.culturagenial.com/es/leyendas-mexicanas/"
-      ]
-    },
-    {
-      "nombre": "El Hombre del Costal",
-      "pais": "México",
-      "descripcion": "Figura que secuestra niños desobedientes.",
-      "historia": "El Hombre del Costal es una figura utilizada para asustar a los niños y hacer que se porten bien. Se dice que lleva un costal donde mete a los niños desobedientes para llevárselos.",
-      "url_fuentes": [
-        "https://www.culturagenial.com/es/leyendas-mexicanas/"
-      ]
-    },
-    {
-      "nombre": "La Casa de los Tubos",
-      "pais": "México",
-      "descripcion": "Casa abandonada con forma cilíndrica en Monterrey.",
-      "historia": "En Monterrey, existe una casa con forma de tubos que fue abandonada tras la muerte de una niña en su construcción. Se dice que su espíritu aún habita el lugar, causando fenómenos paranormales.",
-      "url_fuentes": [
-        "https://www.culturagenial.com/es/leyendas-mexicanas/"
-      ]
-    },
-    {
-      "nombre": "El Fantasma del Panteón de Belén",
-      "pais": "México",
-      "descripcion": "Espíritu que aparece en el antiguo panteón de Guadalajara.",
-      "historia": "En el Panteón de Belén, se cuenta la historia de un niño que fue enterrado vivo. Su espíritu aparece por las noches, y se dice que su tumba crece un árbol que no puede ser cortado sin consecuencias.",
-      "url_fuentes": [
-        "https://www.culturagenial.com/es/leyendas-mexicanas/"
-      ]
-    },
-    {
-      "nombre": "La Planchada",
-      "pais": "México",
-      "descripcion": "Enfermera fantasma que atiende pacientes en hospitales.",
-      "historia": "La Planchada es el espíritu de una enfermera que aparece en hospitales para atender a los pacientes. Se dice que es el alma de una enfermera que murió de pena tras ser traicionada por su amado.",
-      "url_fuentes": [
-        "https://www.culturagenial.com/es/leyendas-mexicanas/"
-      ]
-    },
-    {
-      "nombre": "El Callejón del Muerto",
-      "pais": "México",
-      "descripcion": "Callejón en Puebla donde se aparece un fantasma.",
-      "historia": "En Puebla, existe un callejón donde se dice que aparece el fantasma de un hombre asesinado. Los transeúntes afirman escuchar sus lamentos y ver su figura vagando por el lugar.",
-      "url_fuentes": [
-        "https://www.significados.com/leyendas-mexicanas/"
-      ]
-    },
-    {
-      "nombre": "El Cristo de Chalma",
-      "pais": "México",
-      "descripcion": "Cristo milagroso que reemplazó a una deidad prehispánica.",
-      "historia": "En Chalma, se cuenta que una figura de Cristo apareció milagrosamente en una cueva donde se adoraba a una deidad prehispánica. Desde entonces, el lugar se convirtió en un centro de peregrinación.",
-      "url_fuentes": [
-        "https://www.mitos-mexicanos.com/mitos-mexicanos/mitos-de-mexico.html"
-      ]
-    },
-    {
-      "nombre": "La Leyenda de los Volcanes",
-      "pais": "México",
-      "descripcion": "Historia de amor entre Popocatépetl e Iztaccíhuatl.",
-      "historia": "Iztaccíhuatl, una princesa, murió creyendo que su amado Popocatépetl había muerto en batalla. Al regresar y encontrarla muerta, él también falleció de tristeza. Los dioses los convirtieron en volcanes para que estuvieran juntos por siempre.",
-      "url_fuentes": [
-        "https://www.culturagenial.com/es/leyendas-mexicanas/"
-      ]
-    },
-    {
-      "nombre": "El Callejón del Diablo",
-      "pais": "México",
-      "descripcion": "Callejón en la Ciudad de México donde se aparece el diablo.",
-      "historia": "En la Ciudad de México, se cuenta que en un callejón del Centro Histórico, el diablo se aparece a los transeúntes que caminan solos por la noche, tentando sus almas.",
-      "url_fuentes": [
-        "https://www.culturagenial.com/es/leyendas-mexicanas/"
-      ]
-    },
-    {
-      "nombre": "La Casa de la Tía Toña",
-      "pais": "México",
-      "descripcion": "Casa en Chapultepec donde se aparece el fantasma de una anciana.",
-      "historia": "En el bosque de Chapultepec, se encuentra una casa abandonada donde se dice que habita el fantasma de la Tía Toña, una anciana que cuidaba a niños huérfanos y fue asesinada por ellos.",
-      "url_fuentes": [
-        "https://www.culturagenial.com/es/leyendas-mexicanas/"
-      ]
-    }
+  {
+    "id": "mx_01",
+    "nombre": "Quetzalcóatl",
+    "pais": "México",
+    "descripcion": "Dios serpiente emplumada, uno de los principales dioses mexicas y toltecas.",
+    "historia": "Quetzalcóatl, conocido como la serpiente emplumada, es un dios creador y de la sabiduría. Según la mitología mexica, enseñó a los hombres la agricultura, las artes y la civilización. Es considerado el dios del viento y de la vida, y su culto fue muy importante en Mesoamérica.",
+    "url_fuentes": [
+      "https://www.britannica.com/topic/Quetzalcoatl",
+      "https://www.britannica.com/topic/Aztec-religion"
+    ]
+  },
+  {
+    "id": "mx_02",
+    "nombre": "Tezcatlipoca",
+    "pais": "México",
+    "descripcion": "Dios del cielo nocturno, la providencia y el destino, asociado al espejo humeante.",
+    "historia": "Tezcatlipoca es un dios poderoso y dual, patrono de la magia, la guerra y la oscuridad. Se le representaba con un espejo de obsidiana que usaba para espiar a los mortales. Su lucha eterna con Quetzalcóatl representa el ciclo de la creación y la destrucción.",
+    "url_fuentes": [
+      "https://www.britannica.com/topic/Tezcatlipoca",
+      "https://www.ancient.eu/Tezcatlipoca/"
+    ]
+  },
+  {
+    "id": "mx_03",
+    "nombre": "Cipactli",
+    "pais": "México",
+    "descripcion": "Monstruo mitológico, un monstruo anfibio que formó la tierra tras ser derrotado.",
+    "historia": "Cipactli es una criatura gigante con cuerpo de pez y boca llena de dientes, a quien los dioses sacrificaron para crear el mundo. Su cuerpo partido formó la tierra, sus ojos las montañas y sus dientes los picos y valles.",
+    "url_fuentes": [
+      "https://www.mexicolore.co.uk/aztecs/home/cipactli-the-giant-crocodile",
+      "https://www.ancient.eu/article/1229/aztec-mythology/"
+    ]
+  },
+  {
+    "id": "mx_04",
+    "nombre": "Tláloc",
+    "pais": "México",
+    "descripcion": "Dios mexica de la lluvia, el agua y la fertilidad.",
+    "historia": "Tláloc es el dios de la lluvia, muy temido y respetado porque podía enviar tormentas y sequías. Su templo se encontraba en el Templo Mayor de Tenochtitlán. Se creía que llevaba a las almas de quienes morían por ahogamiento o enfermedades relacionadas con el agua.",
+    "url_fuentes": [
+      "https://www.britannica.com/topic/Tlaloc",
+      "https://www.ancient.eu/Tlaloc/"
+    ]
+  },
+  {
+    "id": "mx_05",
+    "nombre": "Xólotl",
+    "pais": "México",
+    "descripcion": "Dios del ocaso, la oscuridad y el inframundo, hermano gemelo de Quetzalcóatl.",
+    "historia": "Xólotl, representado como un perro con aspecto monstruoso, guía las almas al inframundo y simboliza la muerte y el renacimiento. Participó en la creación del hombre junto a Quetzalcóatl, y se asocia a los sacrificios y al ciclo del día y la noche.",
+    "url_fuentes": [
+      "https://www.britannica.com/topic/Xolotl",
+      "https://www.ancient.eu/Xolotl/"
+    ]
+  },
+  {
+    "id": "mx_06",
+    "nombre": "Ahuizotl",
+    "pais": "México",
+    "descripcion": "Monstruo acuático legendario, con apariencia de perro con manos humanas.",
+    "historia": "El Ahuizotl es una criatura de los ríos y lagos, descrita con cuerpo de perro, cola prensil y manos en las patas delanteras. Se dice que ahogaba a sus víctimas para devorarlas, especialmente a aquellos que se acercaban a sus dominios.",
+    "url_fuentes": [
+      "https://www.britannica.com/topic/Ahuizotl",
+      "https://www.mexicolore.co.uk/aztecs/home/ahuizotl-the-mexica-water-monster"
+    ]
+  },
+  {
+    "id": "mx_07",
+    "nombre": "Cihuacóatl",
+    "pais": "México",
+    "descripcion": "Diosa de la fertilidad, la tierra y protectora de las mujeres que mueren en parto.",
+    "historia": "Cihuacóatl, cuyo nombre significa 'mujer serpiente', es una deidad que también se relaciona con la guerra. Aparece vestida con una capa de serpientes y se dice que en sus apariciones llora por la pérdida de sus hijos en la batalla o muerte.",
+    "url_fuentes": [
+      "https://www.ancient.eu/Cihuacoatl/",
+      "https://www.britannica.com/topic/Cihuacoatl"
+    ]
+  },
+  {
+    "id": "mx_08",
+    "nombre": "Tlacatecolotl",
+    "pais": "México",
+    "descripcion": "Dios búho relacionado con la noche y la muerte.",
+    "historia": "Tlacatecolotl es el dios búho que simboliza la oscuridad y el terror. Se cree que su llamada anuncia la muerte o la mala fortuna. En la mitología mexica, el búho es un animal del inframundo y un mensajero de los dioses.",
+    "url_fuentes": [
+      "https://www.mexicolore.co.uk/aztecs/home/owl-gods-and-bad-omens",
+      "https://www.worldhistory.org/Tlacatecolotl/"
+    ]
+  },
+  {
+    "id": "mx_09",
+    "nombre": "Tzitzimime",
+    "pais": "México",
+    "descripcion": "Diosas estelares monstruosas, temidas porque se creía que caían durante eclipses.",
+    "historia": "Los Tzitzimime son figuras femeninas demoníacas que habitan en el cielo. Durante los eclipses solares, se creía que bajaban para devorar a los hombres y sembrar caos. Eran símbolos de la muerte y la destrucción en la cosmovisión mexica.",
+    "url_fuentes": [
+      "https://www.britannica.com/topic/Tzitzimime",
+      "https://www.ancient.eu/Tzitzimime/"
+    ]
+  },
+  {
+    "id": "mx_10",
+    "nombre": "Xólotl, el perro del inframundo",
+    "pais": "México",
+    "descripcion": "Perro sagrado que guía a las almas en el Mictlán.",
+    "historia": "En la mitología mexica, Xólotl es el guía de las almas hacia el inframundo, Mictlán. Se representa con características caninas y monstruosas. Su papel es esencial para que las almas lleguen seguras a su destino final.",
+    "url_fuentes": [
+      "https://www.britannica.com/topic/Xolotl",
+      "https://www.mexicolore.co.uk/aztecs/home/xolotl-the-dog-god"
+    ]
+  },
+  {
+    "id": "mx_11",
+    "nombre": "Nahuales",
+    "pais": "México",
+    "descripcion": "Seres humanos con la capacidad de transformarse en animales.",
+    "historia": "El nahual es una figura mítica de la cultura mesoamericana que representa a un brujo o chaman que puede transformarse en un animal, generalmente un jaguar, coyote o ave. Son protectores o hechiceros, según la leyenda.",
+    "url_fuentes": [
+      "https://www.britannica.com/topic/Nahual",
+      "https://www.mexicolore.co.uk/aztecs/home/nahuales-shamans-of-mesoamerica"
+    ]
+  },
+  {
+    "id": "mx_12",
+    "nombre": "Huehuecóyotl",
+    "pais": "México",
+    "descripcion": "Dios mexica del baile, la música y la travesura, representado como un coyote viejo.",
+    "historia": "Huehuecóyotl es el dios de la música, las danzas y la diversión, pero también es un embaucador. Se le asocia con la dualidad del placer y la sabiduría, siendo un dios que pone a prueba a los humanos con sus engaños.",
+    "url_fuentes": [
+      "https://www.britannica.com/topic/Huehuecoyotl",
+      "https://www.ancient.eu/Huehuecoyotl/"
+    ]
+  },
+  {
+    "id": "mx_13",
+    "nombre": "Mictlantecuhtli",
+    "pais": "México",
+    "descripcion": "Dios mexica del inframundo y la muerte.",
+    "historia": "Mictlantecuhtli es el señor del Mictlán, el inframundo mexica. Es un dios temido que gobierna sobre las almas de los muertos y representa la muerte y la oscuridad. Se le representa como un esqueleto o figura cadavérica adornada con huesos.",
+    "url_fuentes": [
+      "https://www.britannica.com/topic/Mictlantecuhtli",
+      "https://www.ancient.eu/Mictlantecuhtli/"
+    ]
+  },
+  {
+    "id": "mx_14",
+    "nombre": "Chaneque",
+    "pais": "México",
+    "descripcion": "Pequeñas criaturas traviesas del folclore veracruzano.",
+    "historia": "Los chaneques son seres diminutos que habitan en la naturaleza y esconden objetos de las personas. Se cree que protegen la selva y las aguas, y que juegan bromas a quienes no respetan el entorno natural.",
+    "url_fuentes": [
+      "https://www.lifeder.com/leyendas-mexicanas/",
+      "https://www.mexicolore.co.uk/aztecs/home/chaneques-mischievous-spirits"
+    ]
+  },
+  {
+    "id": "mx_15",
+    "nombre": "Coatlicue",
+    "pais": "México",
+    "descripcion": "Diosa de la tierra y la fertilidad, madre de Huitzilopochtli.",
+    "historia": "Coatlicue es la diosa madre en la mitología mexica, que representa la tierra y la fertilidad. Su imagen es aterradora, con falda de serpientes y collar de manos y corazones, simbolizando la vida y la muerte.",
+    "url_fuentes": [
+      "https://www.britannica.com/topic/Coatlicue",
+      "https://www.ancient.eu/Coatlicue/"
+    ]
+  },
+  {
+    "id": "mx_16",
+    "nombre": "Tlaltecuhtli",
+    "pais": "México",
+    "descripcion": "Diosa mexica de la tierra, representada como un monstruo devorador.",
+    "historia": "Tlaltecuhtli es una deidad primordial que personifica la tierra. Se dice que tras la creación, fue sacrificada para formar el suelo sobre el que caminan los humanos, y su imagen monstruosa aparece en códices y esculturas aztecas.",
+    "url_fuentes": [
+      "https://www.britannica.com/topic/Tlaltecuhtli",
+      "https://www.ancient.eu/Tlaltecuhtli/"
+    ]
+  },
+  {
+    "id": "mx_17",
+    "nombre": "Xochipilli",
+    "pais": "México",
+    "descripcion": "Dios mexica de las flores, el amor, el arte y el juego.",
+    "historia": "Xochipilli es un dios alegre, patrón de la belleza, la danza, el canto y las flores. Se le consideraba protector de las artes y de la juventud, y era celebrado en festivales llenos de música y flores.",
+    "url_fuentes": [
+      "https://www.britannica.com/topic/Xochipilli",
+      "https://www.ancient.eu/Xochipilli/"
+    ]
+  },
+  {
+    "id": "mx_18",
+    "nombre": "Itzpapalotl",
+    "pais": "México",
+    "descripcion": "Diosa mexica con alas de obsidiana, reina de los Tzitzimime.",
+    "historia": "Itzpapalotl es una diosa guerrera y un Tzitzimime temible, asociada con la fertilidad y el sacrificio humano. Su nombre significa 'mariposa de obsidiana' y aparece en relatos de eclipses y peligros cósmicos.",
+    "url_fuentes": [
+      "https://www.britannica.com/topic/Itzpapalotl",
+      "https://www.ancient.eu/Itzpapalotl/"
+    ]
+  },
+  {
+    "id": "mx_19",
+    "nombre": "Chalchiuhtlicue",
+    "pais": "México",
+    "descripcion": "Diosa mexica de los ríos, lagos y aguas.",
+    "historia": "Chalchiuhtlicue es la diosa del agua dulce, esposa de Tláloc. Se cree que protege los cuerpos de agua y es responsable de la fertilidad y la vida. En la mitología, también se le relaciona con los nacimientos y las ceremonias de purificación.",
+    "url_fuentes": [
+      "https://www.britannica.com/topic/Chalchiuhtlicue",
+      "https://www.ancient.eu/Chalchiuhtlicue/"
+    ]
+  },
+  {
+    "id": "mx_20",
+    "nombre": "Tlalocan",
+    "pais": "México",
+    "descripcion": "Paraíso mexica gobernado por Tláloc, destino de quienes mueren por agua o rayo.",
+    "historia": "Tlalocan es un paraíso acuático en la mitología mexica, donde las almas de aquellos que mueren por causas relacionadas con el agua encuentran descanso. Se representa como un lugar de abundancia y felicidad eterna.",
+    "url_fuentes": [
+      "https://www.britannica.com/topic/Tlalocan",
+      "https://www.mexicolore.co.uk/aztecs/home/tlalocan-the-aztec-paradise"
+    ]
+  },
+  {
+    "id": "mx_21",
+    "nombre": "La Llorona",
+    "pais": "México",
+    "descripcion": "Espíritu de una mujer que llora por sus hijos perdidos.",
+    "historia": "La Llorona es una figura legendaria que, según la tradición, vaga por las noches llorando por sus hijos, a quienes ahogó en un río en un momento de desesperación. Su lamento es un presagio de desgracia.",
+    "url_fuentes": [
+      "https://www.culturagenial.com/es/leyendas-mexicanas/"
+    ]
+  },
+  {
+    "id": "mx_22",
+    "nombre": "El Charro Negro",
+    "pais": "México",
+    "descripcion": "Figura fantasmal vestida de charro que ofrece riquezas a cambio del alma.",
+    "historia": "El Charro Negro es un espectro que aparece en caminos solitarios, ofreciendo riquezas a los viajeros. Aquellos que aceptan su oferta pierden su alma, quedando condenados a servirle eternamente.",
+    "url_fuentes": [
+      "https://www.culturagenial.com/es/leyendas-mexicanas/"
+    ]
+  },
+  {
+    "id": "mx_23",
+    "nombre": "La Isla de las Muñecas",
+    "pais": "México",
+    "descripcion": "Isla decorada con muñecas colgadas en árboles.",
+    "historia": "En los canales de Xochimilco, Don Julián Santana comenzó a colgar muñecas en los árboles para apaciguar el espíritu de una niña que murió ahogada. La isla se ha convertido en un lugar turístico y enigmático.",
+    "url_fuentes": [
+      "https://www.zocalo.com.mx/las-10-leyendas-mas-famosas-de-mexico/"
+    ]
+  },
+  {
+    "id": "mx_24",
+    "nombre": "La Nahuala",
+    "pais": "México",
+    "descripcion": "Espíritu maligno que posee a las personas.",
+    "historia": "La Nahuala es una leyenda poblana sobre un espíritu que posee a las personas, obligándolas a cometer actos malvados. Se dice que habita en una antigua casona del centro histórico de Puebla.",
+    "url_fuentes": [
+      "https://www.culturagenial.com/es/leyendas-mexicanas/"
+    ]
+  },
+  {
+    "id": "mx_25",
+    "nombre": "El Callejón del Beso",
+    "pais": "México",
+    "descripcion": "Callejón en Guanajuato donde una pareja se besaba en secreto.",
+    "historia": "En Guanajuato, una joven de familia adinerada y su enamorado pobre se besaban en secreto desde balcones opuestos. Al ser descubiertos, el padre de la joven la mató, convirtiendo el callejón en un símbolo de amor trágico.",
+    "url_fuentes": [
+      "https://www.culturagenial.com/es/leyendas-mexicanas/"
+    ]
+  },
+  {
+    "id": "mx_26",
+    "nombre": "El Popocatépetl y la Iztaccíhuatl",
+    "pais": "México",
+    "descripcion": "Leyenda de dos volcanes que representan a amantes eternos.",
+    "historia": "Iztaccíhuatl, una princesa, murió creyendo que su amado Popocatépetl había muerto en batalla. Al regresar y encontrarla muerta, él también falleció de tristeza. Los dioses los convirtieron en volcanes para que estuvieran juntos por siempre.",
+    "url_fuentes": [
+      "https://www.culturagenial.com/es/leyendas-mexicanas/"
+    ]
+  },
+  {
+    "id": "mx_27",
+    "nombre": "El Chupacabras",
+    "pais": "México",
+    "descripcion": "Criatura que ataca animales de granja y les succiona la sangre.",
+    "historia": "El Chupacabras es una criatura legendaria que se dice ataca a animales de granja, dejándolos sin sangre. Aunque su existencia no ha sido comprobada, los relatos sobre sus ataques se han difundido por todo México.",
+    "url_fuentes": [
+      "https://www.lifeder.com/leyendas-mexicanas/"
+    ]
+  },
+  {
+    "id": "mx_28",
+    "nombre": "La Mujer Herrada",
+    "pais": "México",
+    "descripcion": "Mujer con cascos de caballo que aparece en caminos solitarios.",
+    "historia": "Se dice que una mujer hermosa aparece en caminos solitarios para seducir a los hombres. Al acercarse, descubren que tiene cascos de caballo en lugar de pies, y desaparece dejando un olor a azufre.",
+    "url_fuentes": [
+      "https://www.culturagenial.com/es/leyendas-mexicanas/"
+    ]
+  },
+  {
+    "id": "mx_29",
+    "nombre": "El Fantasma de la Monja",
+    "pais": "México",
+    "descripcion": "Espíritu de una monja que aparece en antiguos conventos.",
+    "historia": "En varios conventos antiguos de México, se cuenta la historia de una monja que fue enterrada viva por romper sus votos. Su espíritu aparece en las noches, vagando por los pasillos en busca de redención.",
+    "url_fuentes": [
+      "https://www.culturagenial.com/es/leyendas-mexicanas/"
+    ]
+  },
+  {
+    "id": "mx_30",
+    "nombre": "El Hombre del Costal",
+    "pais": "México",
+    "descripcion": "Figura que secuestra niños desobedientes.",
+    "historia": "El Hombre del Costal es una figura utilizada para asustar a los niños y hacer que se porten bien. Se dice que lleva un costal donde mete a los niños desobedientes para llevárselos.",
+    "url_fuentes": [
+      "https://www.culturagenial.com/es/leyendas-mexicanas/"
+    ]
+  },
+  {
+    "id": "mx_31",
+    "nombre": "La Casa de los Tubos",
+    "pais": "México",
+    "descripcion": "Casa abandonada con forma cilíndrica en Monterrey.",
+    "historia": "En Monterrey, existe una casa con forma de tubos que fue abandonada tras la muerte de una niña en su construcción. Se dice que su espíritu aún habita el lugar, causando fenómenos paranormales.",
+    "url_fuentes": [
+      "https://www.culturagenial.com/es/leyendas-mexicanas/"
+    ]
+  },
+  {
+    "id": "mx_32",
+    "nombre": "El Fantasma del Panteón de Belén",
+    "pais": "México",
+    "descripcion": "Espíritu que aparece en el antiguo panteón de Guadalajara.",
+    "historia": "En el Panteón de Belén, se cuenta la historia de un niño que fue enterrado vivo. Su espíritu aparece por las noches, y se dice que su tumba crece un árbol que no puede ser cortado sin consecuencias.",
+    "url_fuentes": [
+      "https://www.culturagenial.com/es/leyendas-mexicanas/"
+    ]
+  },
+  {
+    "id": "mx_33",
+    "nombre": "La Planchada",
+    "pais": "México",
+    "descripcion": "Enfermera fantasma que atiende pacientes en hospitales.",
+    "historia": "La Planchada es el espíritu de una enfermera que aparece en hospitales para atender a los pacientes. Se dice que es el alma de una enfermera que murió de pena tras ser traicionada por su amado.",
+    "url_fuentes": [
+      "https://www.culturagenial.com/es/leyendas-mexicanas/"
+    ]
+  },
+  {
+    "id": "mx_34",
+    "nombre": "El Callejón del Muerto",
+    "pais": "México",
+    "descripcion": "Callejón en Puebla donde se aparece un fantasma.",
+    "historia": "En Puebla, existe un callejón donde se dice que aparece el fantasma de un hombre asesinado. Los transeúntes afirman escuchar sus lamentos y ver su figura vagando por el lugar.",
+    "url_fuentes": [
+      "https://www.significados.com/leyendas-mexicanas/"
+    ]
+  },
+  {
+    "id": "mx_35",
+    "nombre": "El Cristo de Chalma",
+    "pais": "México",
+    "descripcion": "Cristo milagroso que reemplazó a una deidad prehispánica.",
+    "historia": "En Chalma, se cuenta que una figura de Cristo apareció milagrosamente en una cueva donde se adoraba a una deidad prehispánica. Desde entonces, el lugar se convirtió en un centro de peregrinación.",
+    "url_fuentes": [
+      "https://www.mitos-mexicanos.com/mitos-mexicanos/mitos-de-mexico.html"
+    ]
+  },
+  {
+    "id": "mx_36",
+    "nombre": "La Leyenda de los Volcanes",
+    "pais": "México",
+    "descripcion": "Historia de amor entre Popocatépetl e Iztaccíhuatl.",
+    "historia": "Iztaccíhuatl, una princesa, murió creyendo que su amado Popocatépetl había muerto en batalla. Al regresar y encontrarla muerta, él también falleció de tristeza. Los dioses los convirtieron en volcanes para que estuvieran juntos por siempre.",
+    "url_fuentes": [
+      "https://www.culturagenial.com/es/leyendas-mexicanas/"
+    ]
+  },
+  {
+    "id": "mx_37",
+    "nombre": "El Callejón del Diablo",
+    "pais": "México",
+    "descripcion": "Callejón en la Ciudad de México donde se aparece el diablo.",
+    "historia": "En la Ciudad de México, se cuenta que en un callejón del Centro Histórico, el diablo se aparece a los transeúntes que caminan solos por la noche, tentando sus almas.",
+    "url_fuentes": [
+      "https://www.culturagenial.com/es/leyendas-mexicanas/"
+    ]
+  },
+  {
+    "id": "mx_38",
+    "nombre": "La Casa de la Tía Toña",
+    "pais": "México",
+    "descripcion": "Casa en Chapultepec donde se aparece el fantasma de una anciana.",
+    "historia": "En el bosque de Chapultepec, se encuentra una casa abandonada donde se dice que habita el fantasma de la Tía Toña, una anciana que cuidaba a niños huérfanos y fue asesinada por ellos.",
+    "url_fuentes": [
+      "https://www.culturagenial.com/es/leyendas-mexicanas/"
+    ]
+  }
 ]

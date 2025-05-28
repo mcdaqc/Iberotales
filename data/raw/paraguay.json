@@ -1,5 +1,6 @@
 [
   {
+    "id": "py_01",
     "nombre": "Teju Jagua",
     "pais": "Paraguay",
     "descripcion": "Criatura con cuerpo de lagarto y siete cabezas de perro, guardián de las cavernas y los tesoros.",
@@ -10,6 +11,7 @@
     ]
   },
   {
+    "id": "py_02",
     "nombre": "Mbói Tu’i",
     "pais": "Paraguay",
     "descripcion": "Ser con cuerpo de serpiente y cabeza de loro, protector de los ríos y lagunas.",
@@ -20,6 +22,7 @@
     ]
   },
   {
+    "id": "py_03",
     "nombre": "Moñái",
     "pais": "Paraguay",
     "descripcion": "Ser con cuerpo de serpiente y antenas hipnóticas, protector de los ladrones.",
@@ -30,6 +33,7 @@
     ]
   },
   {
+    "id": "py_04",
     "nombre": "Jasy Jateré",
     "pais": "Paraguay",
     "descripcion": "Duende de la siesta con apariencia de niño rubio, raptor de niños desobedientes.",
@@ -40,6 +44,7 @@
     ]
   },
   {
+    "id": "py_05",
     "nombre": "Kurupí",
     "pais": "Paraguay",
     "descripcion": "Enano de cuerpo vigoroso y miembro viril largo, asociado a la sexualidad.",
@@ -50,6 +55,7 @@
     ]
   },
   {
+    "id": "py_06",
     "nombre": "Ao Ao",
     "pais": "Paraguay",
     "descripcion": "Criatura con cuerpo de oveja y cabeza de jabalí, devoradora de humanos.",
@@ -60,6 +66,7 @@
     ]
   },
   {
+    "id": "py_07",
     "nombre": "Luisón",
     "pais": "Paraguay",
     "descripcion": "Criatura mitad hombre, mitad perro, asociada a la muerte.",
@@ -70,6 +77,7 @@
     ]
   },
   {
+    "id": "py_08",
     "nombre": "Pombero",
     "pais": "Paraguay",
     "descripcion": "Duende pequeño y peludo, protector de la naturaleza y travieso.",
@@ -80,6 +88,7 @@
     ]
   },
   {
+    "id": "py_09",
     "nombre": "Mala Visión",
     "pais": "Paraguay",
     "descripcion": "Espíritu de una mujer celosa que asesina a su esposo y vaga por la selva.",
@@ -89,6 +98,7 @@
     ]
   },
   {
+    "id": "py_10",
     "nombre": "Mbói Tata",
     "pais": "Paraguay",
     "descripcion": "Serpiente gigante con cabeza de fuego, guardiana de los bosques.",
@@ -99,6 +109,7 @@
     ]
   },
   {
+    "id": "py_11",
     "nombre": "Ka’a Pora",
     "pais": "Paraguay",
     "descripcion": "Espíritu del bosque que protege la flora y fauna.",
@@ -109,6 +120,7 @@
     ]
   },
   {
+    "id": "py_12",
     "nombre": "Pira-Hú",
     "pais": "Paraguay",
     "descripcion": "Enorme pez con cabeza de caballo que habita en los ríos.",
@@ -118,6 +130,7 @@
     ]
   },
   {
+    "id": "py_13",
     "nombre": "Urutau",
     "pais": "Paraguay",
     "descripcion": "Ave nocturna cuyo canto es un lamento, asociada a la tristeza.",
@@ -127,6 +140,7 @@
     ]
   },
   {
+    "id": "py_14",
     "nombre": "Karau",
     "pais": "Paraguay",
     "descripcion": "Joven apuesto que se transforma en ave por desobedecer a su madre.",
@@ -136,6 +150,7 @@
     ]
   },
   {
+    "id": "py_15",
     "nombre": "Las Lambaré",
     "pais": "Paraguay",
     "descripcion": "Espíritus femeninos guardianes de las fronteras entre mundos.",
@@ -145,6 +160,7 @@
     ]
   },
   {
+    "id": "py_16",
     "nombre": "Suinda",
     "pais": "Paraguay",
     "descripcion": "Mujer transformada en lechuza por descuidar a sus hijos.",
@@ -154,6 +170,7 @@
     ]
   },
   {
+    "id": "py_17",
     "nombre": "Plata Yvyguy",
     "pais": "Paraguay",
     "descripcion": "Tesoros escondidos bajo tierra, protegidos por espíritus.",
@@ -163,6 +180,7 @@
     ]
   },
   {
+    "id": "py_18",
     "nombre": "Yasy Yateré (versión colonial)",
     "pais": "Paraguay",
     "descripcion": "Transformación sincrética del duende guaraní en la época colonial.",
@@ -172,6 +190,7 @@
     ]
   },
   {
+    "id": "py_19",
     "nombre": "Jaguaru",
     "pais": "Paraguay",
     "descripcion": "Jaguar sagrado, símbolo del poder ancestral guaraní.",
@@ -181,6 +200,7 @@
     ]
   },
   {
+    "id": "py_20",
     "nombre": "Áraresá",
     "pais": "Paraguay",
     "descripcion": "Espíritu del trueno y la tormenta.",
@@ -190,6 +210,7 @@
     ]
   },
   {
+    "id": "py_21",
     "nombre": "Tajy",
     "pais": "Paraguay",
     "descripcion": "Árbol sagrado del pueblo guaraní, habitado por espíritus benévolos.",
@@ -199,6 +220,7 @@
     ]
   },
   {
+    "id": "py_22",
     "nombre": "Ñasaindy",
     "pais": "Paraguay",
     "descripcion": "Espíritu femenino de la luna en la mitología guaraní.",
@@ -208,6 +230,7 @@
     ]
   },
   {
+    "id": "py_23",
     "nombre": "Karumbe",
     "pais": "Paraguay",
     "descripcion": "Tortuga mística del inframundo guaraní.",
@@ -217,6 +240,7 @@
     ]
   },
   {
+    "id": "py_24",
     "nombre": "Pombéro (versión moderna)",
     "pais": "Paraguay",
     "descripcion": "Duende protector de la naturaleza con fama viral en redes rurales.",
@@ -226,6 +250,7 @@
     ]
   },
   {
+    "id": "py_25",
     "nombre": "Mitaí Chororó",
     "pais": "Paraguay",
     "descripcion": "Niño fantasma que aparece en caminos solitarios.",

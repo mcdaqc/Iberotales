@@ -1,5 +1,6 @@
 [
   {
+    "id": "ve_01",
     "nombre": "Amalivaca",
     "pais": "Venezuela",
     "descripcion": "Dios creador en la mitología tamanaco.",
@@ -9,6 +10,7 @@
     ]
   },
   {
+    "id": "ve_02",
     "nombre": "Wannadi",
     "pais": "Venezuela",
     "descripcion": "Dios creador en la mitología yekuana.",
@@ -18,6 +20,7 @@
     ]
   },
   {
+    "id": "ve_03",
     "nombre": "Osemma",
     "pais": "Venezuela",
     "descripcion": "Dios de la agricultura en la mitología yukpa.",
@@ -27,6 +30,7 @@
     ]
   },
   {
+    "id": "ve_04",
     "nombre": "Tamoryayo",
     "pais": "Venezuela",
     "descripcion": "Dios creador en la mitología yukpa.",
@@ -36,6 +40,7 @@
     ]
   },
   {
+    "id": "ve_05",
     "nombre": "Odosha",
     "pais": "Venezuela",
     "descripcion": "Deidad del mal en la mitología yekuana.",
@@ -45,6 +50,7 @@
     ]
   },
   {
+    "id": "ve_06",
     "nombre": "Yara (María Lionza)",
     "pais": "Venezuela",
     "descripcion": "Diosa protectora de la naturaleza y el amor.",
@@ -54,6 +60,7 @@
     ]
   },
   {
+    "id": "ve_07",
     "nombre": "Caribay",
     "pais": "Venezuela",
     "descripcion": "Hija del Sol y la Luna en la mitología andina.",
@@ -63,6 +70,7 @@
     ]
   },
   {
+    "id": "ve_08",
     "nombre": "El Silbón",
     "pais": "Venezuela",
     "descripcion": "Alma en pena que carga los huesos de su padre.",
@@ -72,6 +80,7 @@
     ]
   },
   {
+    "id": "ve_09",
     "nombre": "La Sayona",
     "pais": "Venezuela",
     "descripcion": "Espectro que castiga a los hombres infieles.",
@@ -81,6 +90,7 @@
     ]
   },
   {
+    "id": "ve_10",
     "nombre": "Bolefuego",
     "pais": "Venezuela",
     "descripcion": "Esfera de fuego que aparece en los llanos.",
@@ -90,6 +100,7 @@
     ]
   },
   {
+    "id": "ve_11",
     "nombre": "Momoy",
     "pais": "Venezuela",
     "descripcion": "Ser protector de la naturaleza en los Andes.",
@@ -99,6 +110,7 @@
     ]
   },
   {
+    "id": "ve_12",
     "nombre": "La Llorona",
     "pais": "Venezuela",
     "descripcion": "Alma en pena que llora por sus hijos.",
@@ -108,6 +120,7 @@
     ]
   },
   {
+    "id": "ve_13",
     "nombre": "La Mujer Mula",
     "pais": "Venezuela",
     "descripcion": "Mujer transformada en mula por maldición.",
@@ -117,6 +130,7 @@
     ]
   },
   {
+    "id": "ve_14",
     "nombre": "La Loca Luz Caraballo",
     "pais": "Venezuela",
     "descripcion": "Mujer que enloqueció buscando a sus hijos.",
@@ -126,6 +140,7 @@
     ]
   },
   {
+    "id": "ve_15",
     "nombre": "Guaraira Repano",
     "pais": "Venezuela",
     "descripcion": "Espíritu protector del cerro El Ávila.",
@@ -135,6 +150,7 @@
     ]
   },
   {
+    "id": "ve_16",
     "nombre": "El Hachador Perdido",
     "pais": "Venezuela",
     "descripcion": "Alma en pena de un leñador que se perdió en el bosque.",
@@ -144,6 +160,7 @@
     ]
   },
   {
+    "id": "ve_17",
     "nombre": "El Ánima Sola",
     "pais": "Venezuela",
     "descripcion": "Espíritu de una mujer que sufre en soledad.",
@@ -153,6 +170,7 @@
     ]
   },
   {
+    "id": "ve_18",
     "nombre": "El Dueño del Fuego",
     "pais": "Venezuela",
     "descripcion": "Ser mítico que controla el fuego.",
@@ -163,94 +181,104 @@
       "https://es.aleteia.org/2019/04/21/el-dueno-del-fuego-una-ensenanza-de-la-selva"
     ]
   },
-    {
-      "nombre": "Mareiwa",
-      "pais": "Venezuela",
-      "descripcion": "Deidad warao, hijo del trueno y poseedor del fuego.",
-      "historia": "Mareiwa, hijo del trueno, guardaba celosamente el fuego en una cueva. Junuunay, un joven guajiro, logró robar dos brasas, permitiendo así que la humanidad accediera al fuego.",
-      "url_fuentes": [
-        "https://comoeslacosa.wordpress.com/2008/11/04/mitologia-indigena-venezolana/"
-      ]
-    },
-    {
-      "nombre": "Pulowi",
-      "pais": "Venezuela",
-      "descripcion": "Deidad wayuu, esposa de Juya, dios de la lluvia.",
-      "historia": "Pulowi es una figura dual: representa tanto la muerte como la vida. Se le atribuyen grandes riquezas y una naturaleza peligrosa, siendo temida y respetada por los wayuu.",
-      "url_fuentes": [
-        "https://comoeslacosa.wordpress.com/2008/11/04/mitologia-indigena-venezolana/"
-      ]
-    },
-    {
-      "nombre": "Ches",
-      "pais": "Venezuela",
-      "descripcion": "Deidad yukpa asociada a la sabiduría.",
-      "historia": "Ches es una figura venerada por los yukpa, representando la sabiduría ancestral y el conocimiento transmitido a través de generaciones.",
-      "url_fuentes": [
-        "https://es.scribd.com/document/621436876/Mitologia-Venezolana-y-de-Los-Andes"
-      ]
-    },
-    {
-      "nombre": "Arco",
-      "pais": "Venezuela",
-      "descripcion": "Deidad yukpa relacionada con los fenómenos naturales.",
-      "historia": "Arco es una entidad que los yukpa asocian con la manifestación de fenómenos naturales, siendo invocada en rituales para comprender y armonizar con la naturaleza.",
-      "url_fuentes": [
-        "https://es.scribd.com/document/621436876/Mitologia-Venezolana-y-de-Los-Andes"
-      ]
-    },
-    {
-      "nombre": "El Doctor Knoche",
-      "pais": "Venezuela",
-      "descripcion": "Médico alemán conocido por sus prácticas de embalsamamiento.",
-      "historia": "El Doctor Knoche, obsesionado con evitar la descomposición de los cadáveres, desarrolló una técnica de embalsamamiento que preservaba los cuerpos sin necesidad de extraer los órganos. Se dice que experimentó con cuerpos de soldados y personalidades de la época.",
-      "url_fuentes": [
-        "https://www.culturagenial.com/es/leyendas-venezolanas/"
-      ]
-    },
-    {
-      "nombre": "Juan Hilario",
-      "pais": "Venezuela",
-      "descripcion": "Personaje que desafió advertencias sobrenaturales.",
-      "historia": "Juan Hilario, conocido por su afición a las fiestas y al cortejo, ignoró las advertencias sobre peligros sobrenaturales y fue atacado por una entidad fantasmal, quedando como ejemplo de las consecuencias de la imprudencia.",
-      "url_fuentes": [
-        "https://psicologiaymente.com/cultura/mitos-venezolanos"
-      ]
-    },
-    {
-      "nombre": "Las 7 Mulas o Los Tesoros de Boquerón",
-      "pais": "Venezuela",
-      "descripcion": "Leyenda sobre un tesoro escondido en El Ávila.",
-      "historia": "Durante la Colonia, un arriero fue asesinado mientras transportaba oro con siete mulas. Se cree que el tesoro permanece oculto en las montañas de El Ávila, atrayendo a buscadores de fortuna.",
-      "url_fuentes": [
-        "https://porunavenezuelaposible.com/leyendas-el-avila-caracas/"
-      ]
-    },
-    {
-      "nombre": "La Virgen del Picacho",
-      "pais": "Venezuela",
-      "descripcion": "Aparición mariana en una formación rocosa.",
-      "historia": "En el Picacho de El Ávila, se dice que apareció la imagen de la Virgen tallada de forma natural en una roca. Intentos de trasladarla resultaron en su desaparición y reaparición en el lugar original.",
-      "url_fuentes": [
-        "https://porunavenezuelaposible.com/leyendas-el-avila-caracas/"
-      ]
-    },
-    {
-      "nombre": "Espíritus del Hotel Humboldt",
-      "pais": "Venezuela",
-      "descripcion": "Presencias sobrenaturales en un hotel emblemático.",
-      "historia": "El Hotel Humboldt, ubicado en El Ávila, es conocido por relatos de apariciones y fenómenos paranormales, atribuidos a accidentes y tragedias ocurridas en el lugar.",
-      "url_fuentes": [
-        "https://porunavenezuelaposible.com/leyendas-el-avila-caracas/"
-      ]
-    },
-    {
-      "nombre": "La Amante del General",
-      "pais": "Venezuela",
-      "descripcion": "Leyenda sobre un amor clandestino en el Hotel Humboldt.",
-      "historia": "Se cuenta que una amante de un general se escondió en el balcón del Hotel Humboldt para evitar ser descubierta por la esposa del militar, desencadenando una serie de eventos trágicos.",
-      "url_fuentes": [
-        "https://porunavenezuelaposible.com/leyendas-el-avila-caracas/"
-      ]
-    }
+  {
+    "id": "ve_19",
+    "nombre": "Mareiwa",
+    "pais": "Venezuela",
+    "descripcion": "Deidad warao, hijo del trueno y poseedor del fuego.",
+    "historia": "Mareiwa, hijo del trueno, guardaba celosamente el fuego en una cueva. Junuunay, un joven guajiro, logró robar dos brasas, permitiendo así que la humanidad accediera al fuego.",
+    "url_fuentes": [
+      "https://comoeslacosa.wordpress.com/2008/11/04/mitologia-indigena-venezolana/"
+    ]
+  },
+  {
+    "id": "ve_20",
+    "nombre": "Pulowi",
+    "pais": "Venezuela",
+    "descripcion": "Deidad wayuu, esposa de Juya, dios de la lluvia.",
+    "historia": "Pulowi es una figura dual: representa tanto la muerte como la vida. Se le atribuyen grandes riquezas y una naturaleza peligrosa, siendo temida y respetada por los wayuu.",
+    "url_fuentes": [
+      "https://comoeslacosa.wordpress.com/2008/11/04/mitologia-indigena-venezolana/"
+    ]
+  },
+  {
+    "id": "ve_21",
+    "nombre": "Ches",
+    "pais": "Venezuela",
+    "descripcion": "Deidad yukpa asociada a la sabiduría.",
+    "historia": "Ches es una figura venerada por los yukpa, representando la sabiduría ancestral y el conocimiento transmitido a través de generaciones.",
+    "url_fuentes": [
+      "https://es.scribd.com/document/621436876/Mitologia-Venezolana-y-de-Los-Andes"
+    ]
+  },
+  {
+    "id": "ve_22",
+    "nombre": "Arco",
+    "pais": "Venezuela",
+    "descripcion": "Deidad yukpa relacionada con los fenómenos naturales.",
+    "historia": "Arco es una entidad que los yukpa asocian con la manifestación de fenómenos naturales, siendo invocada en rituales para comprender y armonizar con la naturaleza.",
+    "url_fuentes": [
+      "https://es.scribd.com/document/621436876/Mitologia-Venezolana-y-de-Los-Andes"
+    ]
+  },
+  {
+    "id": "ve_23",
+    "nombre": "El Doctor Knoche",
+    "pais": "Venezuela",
+    "descripcion": "Médico alemán conocido por sus prácticas de embalsamamiento.",
+    "historia": "El Doctor Knoche, obsesionado con evitar la descomposición de los cadáveres, desarrolló una técnica de embalsamamiento que preservaba los cuerpos sin necesidad de extraer los órganos. Se dice que experimentó con cuerpos de soldados y personalidades de la época.",
+    "url_fuentes": [
+      "https://www.culturagenial.com/es/leyendas-venezolanas/"
+    ]
+  },
+  {
+    "id": "ve_24",
+    "nombre": "Juan Hilario",
+    "pais": "Venezuela",
+    "descripcion": "Personaje que desafió advertencias sobrenaturales.",
+    "historia": "Juan Hilario, conocido por su afición a las fiestas y al cortejo, ignoró las advertencias sobre peligros sobrenaturales y fue atacado por una entidad fantasmal, quedando como ejemplo de las consecuencias de la imprudencia.",
+    "url_fuentes": [
+      "https://psicologiaymente.com/cultura/mitos-venezolanos"
+    ]
+  },
+  {
+    "id": "ve_25",
+    "nombre": "Las 7 Mulas o Los Tesoros de Boquerón",
+    "pais": "Venezuela",
+    "descripcion": "Leyenda sobre un tesoro escondido en El Ávila.",
+    "historia": "Durante la Colonia, un arriero fue asesinado mientras transportaba oro con siete mulas. Se cree que el tesoro permanece oculto en las montañas de El Ávila, atrayendo a buscadores de fortuna.",
+    "url_fuentes": [
+      "https://porunavenezuelaposible.com/leyendas-el-avila-caracas/"
+    ]
+  },
+  {
+    "id": "ve_26",
+    "nombre": "La Virgen del Picacho",
+    "pais": "Venezuela",
+    "descripcion": "Aparición mariana en una formación rocosa.",
+    "historia": "En el Picacho de El Ávila, se dice que apareció la imagen de la Virgen tallada de forma natural en una roca. Intentos de trasladarla resultaron en su desaparición y reaparición en el lugar original.",
+    "url_fuentes": [
+      "https://porunavenezuelaposible.com/leyendas-el-avila-caracas/"
+    ]
+  },
+  {
+    "id": "ve_27",
+    "nombre": "Espíritus del Hotel Humboldt",
+    "pais": "Venezuela",
+    "descripcion": "Presencias sobrenaturales en un hotel emblemático.",
+    "historia": "El Hotel Humboldt, ubicado en El Ávila, es conocido por relatos de apariciones y fenómenos paranormales, atribuidos a accidentes y tragedias ocurridas en el lugar.",
+    "url_fuentes": [
+      "https://porunavenezuelaposible.com/leyendas-el-avila-caracas/"
+    ]
+  },
+  {
+    "id": "ve_28",
+    "nombre": "La Amante del General",
+    "pais": "Venezuela",
+    "descripcion": "Leyenda sobre un amor clandestino en el Hotel Humboldt.",
+    "historia": "Se cuenta que una amante de un general se escondió en el balcón del Hotel Humboldt para evitar ser descubierta por la esposa del militar, desencadenando una serie de eventos trágicos.",
+    "url_fuentes": [
+      "https://porunavenezuelaposible.com/leyendas-el-avila-caracas/"
+    ]
+  }
 ]

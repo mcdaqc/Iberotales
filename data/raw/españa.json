@@ -1,131 +1,146 @@
 [
-    {
-      "nombre": "El Cuélebre",
-      "pais": "España",
-      "descripcion": "Dragón o serpiente alada que custodia tesoros en cuevas.",
-      "historia": "En la mitología asturiana, el Cuélebre es una criatura con cuerpo de serpiente y alas, que guarda tesoros y doncellas en cuevas. Se dice que su aliento es venenoso y que solo puede ser vencido por héroes valientes o mediante engaños.",
-      "url_fuentes": [
-        "https://www.mundodeportivo.com/uncomo/educacion/articulo/criaturas-mitologicas-espanolas-nombres-e-historia-53425.html"
-      ]
-    },
-    {
-      "nombre": "Nuberu",
-      "pais": "España",
-      "descripcion": "Ser mitológico que controla las tormentas y el clima.",
-      "historia": "El Nuberu es una figura presente en la mitología asturiana, cántabra y gallega. Se le atribuye el poder de provocar tormentas, granizo y rayos, afectando las cosechas y a los viajeros. A veces es considerado un ser travieso y otras, un castigo divino.",
-      "url_fuentes": [
-        "https://www.mundodeportivo.com/uncomo/educacion/articulo/criaturas-mitologicas-espanolas-nombres-e-historia-53425.html"
-      ]
-    },
-    {
-      "nombre": "Trasgu",
-      "pais": "España",
-      "descripcion": "Duende travieso que habita en hogares y causa pequeñas molestias.",
-      "historia": "El Trasgu es un duendecillo del folclore asturiano y gallego. Se caracteriza por su gorro rojo y su mano agujereada. Entra en las casas para hacer travesuras como desordenar objetos o hacer ruidos. Es difícil deshacerse de él, ya que solo se va si se le asigna una tarea imposible.",
-      "url_fuentes": [
-        "https://es.wikipedia.org/wiki/Trasgo"
-      ]
-    },
-    {
-      "nombre": "Guayota",
-      "pais": "España",
-      "descripcion": "Dios maligno que habita en el volcán Teide en Tenerife.",
-      "historia": "En la mitología guanche de las Islas Canarias, Guayota es el demonio que secuestró al dios del sol, Magec, y lo encerró dentro del Teide, sumiendo al mundo en la oscuridad. Finalmente, Achamán, el dios supremo, liberó a Magec y encerró a Guayota en el volcán.",
-      "url_fuentes": [
-        "https://www.mundodeportivo.com/uncomo/educacion/articulo/criaturas-mitologicas-espanolas-nombres-e-historia-53425.html"
-      ]
-    },
-    {
-      "nombre": "La Guajona",
-      "pais": "España",
-      "descripcion": "Criatura vampírica que chupa la sangre de los niños mientras duermen.",
-      "historia": "La Guajona es una figura del folclore cántabro, descrita como una anciana con un diente largo y negro que utiliza para chupar la sangre de los niños durante la noche. Se dice que entra silenciosamente en las casas y deja a sus víctimas pálidas y débiles.",
-      "url_fuentes": [
-        "https://es.wikipedia.org/wiki/Guajona"
-      ]
-    },
-    {
-      "nombre": "Ojáncanu",
-      "pais": "España",
-      "descripcion": "Gigante malvado que representa la brutalidad y la crueldad.",
-      "historia": "El Ojáncanu es un ser mitológico cántabro, descrito como un gigante de fuerza descomunal, con una sola pierna y una gran boca. Es símbolo del mal y la violencia, y se dice que habita en las montañas, atacando a pastores y destruyendo todo a su paso.",
-      "url_fuentes": [
-        "https://mundooculto.es/seres-mitologicos-la-peninsula/"
-      ]
-    },
-    {
-      "nombre": "Cuegle",
-      "pais": "España",
-      "descripcion": "Criatura monstruosa que roba niños y ataca al ganado.",
-      "historia": "El Cuegle es un ser de la mitología cántabra, con cuerpo humanoide, piel negra, tres ojos y un cuerno. Carece de manos y tiene cinco filas de dientes. Se le atribuye el robo de niños de las cunas y ataques al ganado. Para protegerse, se colocan hojas de acebo en las cunas.",
-      "url_fuentes": [
-        "https://mundooculto.es/seres-mitologicos-la-peninsula/"
-      ]
-    },
-    {
-      "nombre": "Mari",
-      "pais": "España",
-      "descripcion": "Diosa de la naturaleza que habita en cuevas y controla el clima.",
-      "historia": "Mari es una deidad de la mitología vasca, considerada la personificación de la naturaleza. Vive en cuevas como la de Amboto y se manifiesta en forma de mujer o fenómenos naturales. Se le atribuye el control del clima y se le ofrecen ofrendas para obtener su favor.",
-      "url_fuentes": [
-        "https://www.muyinteresante.com/historia/36279.html"
-      ]
-    },
-    {
-      "nombre": "Lavandeira",
-      "pais": "España",
-      "descripcion": "Espíritu de mujer que lava ropa en los ríos y presagia la muerte.",
-      "historia": "La Lavandeira es una figura del folclore gallego, representada como una mujer que lava ropa en los ríos durante la noche. Si alguien la ayuda a escurrir la ropa en el sentido contrario al suyo, puede evitar la muerte. Se cree que es el espíritu de una mujer que murió al dar a luz.",
-      "url_fuentes": [
-        "https://www.muyinteresante.com/historia/36279.html"
-      ]
-    },
-    {
-      "nombre": "Gamusino",
-      "pais": "España",
-      "descripcion": "Criatura imaginaria utilizada para gastar bromas a los incautos.",
-      "historia": "El Gamusino es un ser ficticio del folclore español, especialmente en zonas rurales. Se utiliza como parte de bromas para enviar a los novatos o niños a cazarlo, sabiendo que no existe. Su descripción varía, pero generalmente es esquivo e imposible de atrapar.",
-      "url_fuentes": [
-        "https://www.muyinteresante.com/historia/36279.html"
-      ]
-    },
-    {
-      "nombre": "La Santa Compaña",
-      "pais": "España",
-      "descripcion": "Procesión de almas en pena que recorre los caminos por la noche.",
-      "historia": "La Santa Compaña es una leyenda gallega que describe una procesión de almas en pena que caminan por los caminos rurales durante la noche, portando velas y rezando. Se dice que verlos es presagio de muerte, y que el líder de la procesión es un vivo condenado a guiarla hasta encontrar un sustituto.",
-      "url_fuentes": [
-        "https://as.com/actualidad/sociedad/la-santa-compana-la-leyenda-gallega-que-es-algo-mas-que-halloween-n/"
-      ]
-    },
-    {
-      "nombre": "El Conde Estruch",
-      "pais": "España",
-      "descripcion": "Noble convertido en vampiro que aterroriza a los campesinos.",
-      "historia": "El Conde Estruch es una leyenda catalana que narra la historia de un noble que, tras ser maldecido por una bruja, se convierte en vampiro. Desde su castillo en Llers, ataca al ganado y a los campesinos, y engendra criaturas monstruosas con las mujeres que viola.",
-      "url_fuentes": [
-        "https://cronicaglobal.elespanol.com/vida/20221017/criaturas-mitologicas-del-folclore-catalan/711428925_0.html"
-      ]
-    },
-    {
-      "nombre": "Las Alojas",
-      "pais": "España",
-      "descripcion": "Hadas acuáticas que protegen la fertilidad y los nacimientos.",
-      "historia": "Las Alojas son seres mitológicos del folclore catalán, descritas como hadas de gran belleza que habitan cerca del agua. Se les atribuye la protección de las mujeres embarazadas y la ayuda en los partos. Se comunican a través del sonido del agua y aparecen en noches de luna llena.",
-      "url_fuentes": [
-        "https://tecnoespectro.com/criaturas-mitologicas-de-espana-historia-y-leyendas/"
-      ]
-    },
-    {
-      "nombre": "La Pesanta",
-      "pais": "España",
-      "descripcion": "Bestia negra que se posa sobre el pecho de los durmientes, causando pesadillas.",
-      "historia": "La Pesanta es una criatura del folclore catalán, descrita como una bestia negra y peluda que entra en las casas por la noche y se posa sobre el pecho de los durmientes, provocando pesadillas y dificultad para respirar. Se refugia en iglesias y cráteres durante el día.",
-      "url_fuentes": [
-        "https://cronicaglobal.elespanol.com/vida/20221017/criaturas-mitologicas-del-folclore-catalan/711428925_0.html"
-      ]
-    },
   {
+    "id": "es_01",
+    "nombre": "El Cuélebre",
+    "pais": "España",
+    "descripcion": "Dragón o serpiente alada que custodia tesoros en cuevas.",
+    "historia": "En la mitología asturiana, el Cuélebre es una criatura con cuerpo de serpiente y alas, que guarda tesoros y doncellas en cuevas. Se dice que su aliento es venenoso y que solo puede ser vencido por héroes valientes o mediante engaños.",
+    "url_fuentes": [
+      "https://www.mundodeportivo.com/uncomo/educacion/articulo/criaturas-mitologicas-espanolas-nombres-e-historia-53425.html"
+    ]
+  },
+  {
+    "id": "es_02",
+    "nombre": "Nuberu",
+    "pais": "España",
+    "descripcion": "Ser mitológico que controla las tormentas y el clima.",
+    "historia": "El Nuberu es una figura presente en la mitología asturiana, cántabra y gallega. Se le atribuye el poder de provocar tormentas, granizo y rayos, afectando las cosechas y a los viajeros. A veces es considerado un ser travieso y otras, un castigo divino.",
+    "url_fuentes": [
+      "https://www.mundodeportivo.com/uncomo/educacion/articulo/criaturas-mitologicas-espanolas-nombres-e-historia-53425.html"
+    ]
+  },
+  {
+    "id": "es_03",
+    "nombre": "Trasgu",
+    "pais": "España",
+    "descripcion": "Duende travieso que habita en hogares y causa pequeñas molestias.",
+    "historia": "El Trasgu es un duendecillo del folclore asturiano y gallego. Se caracteriza por su gorro rojo y su mano agujereada. Entra en las casas para hacer travesuras como desordenar objetos o hacer ruidos. Es difícil deshacerse de él, ya que solo se va si se le asigna una tarea imposible.",
+    "url_fuentes": [
+      "https://es.wikipedia.org/wiki/Trasgo"
+    ]
+  },
+  {
+    "id": "es_04",
+    "nombre": "Guayota",
+    "pais": "España",
+    "descripcion": "Dios maligno que habita en el volcán Teide en Tenerife.",
+    "historia": "En la mitología guanche de las Islas Canarias, Guayota es el demonio que secuestró al dios del sol, Magec, y lo encerró dentro del Teide, sumiendo al mundo en la oscuridad. Finalmente, Achamán, el dios supremo, liberó a Magec y encerró a Guayota en el volcán.",
+    "url_fuentes": [
+      "https://www.mundodeportivo.com/uncomo/educacion/articulo/criaturas-mitologicas-espanolas-nombres-e-historia-53425.html"
+    ]
+  },
+  {
+    "id": "es_05",
+    "nombre": "La Guajona",
+    "pais": "España",
+    "descripcion": "Criatura vampírica que chupa la sangre de los niños mientras duermen.",
+    "historia": "La Guajona es una figura del folclore cántabro, descrita como una anciana con un diente largo y negro que utiliza para chupar la sangre de los niños durante la noche. Se dice que entra silenciosamente en las casas y deja a sus víctimas pálidas y débiles.",
+    "url_fuentes": [
+      "https://es.wikipedia.org/wiki/Guajona"
+    ]
+  },
+  {
+    "id": "es_06",
+    "nombre": "Ojáncanu",
+    "pais": "España",
+    "descripcion": "Gigante malvado que representa la brutalidad y la crueldad.",
+    "historia": "El Ojáncanu es un ser mitológico cántabro, descrito como un gigante de fuerza descomunal, con una sola pierna y una gran boca. Es símbolo del mal y la violencia, y se dice que habita en las montañas, atacando a pastores y destruyendo todo a su paso.",
+    "url_fuentes": [
+      "https://mundooculto.es/seres-mitologicos-la-peninsula/"
+    ]
+  },
+  {
+    "id": "es_07",
+    "nombre": "Cuegle",
+    "pais": "España",
+    "descripcion": "Criatura monstruosa que roba niños y ataca al ganado.",
+    "historia": "El Cuegle es un ser de la mitología cántabra, con cuerpo humanoide, piel negra, tres ojos y un cuerno. Carece de manos y tiene cinco filas de dientes. Se le atribuye el robo de niños de las cunas y ataques al ganado. Para protegerse, se colocan hojas de acebo en las cunas.",
+    "url_fuentes": [
+      "https://mundooculto.es/seres-mitologicos-la-peninsula/"
+    ]
+  },
+  {
+    "id": "es_08",
+    "nombre": "Mari",
+    "pais": "España",
+    "descripcion": "Diosa de la naturaleza que habita en cuevas y controla el clima.",
+    "historia": "Mari es una deidad de la mitología vasca, considerada la personificación de la naturaleza. Vive en cuevas como la de Amboto y se manifiesta en forma de mujer o fenómenos naturales. Se le atribuye el control del clima y se le ofrecen ofrendas para obtener su favor.",
+    "url_fuentes": [
+      "https://www.muyinteresante.com/historia/36279.html"
+    ]
+  },
+  {
+    "id": "es_09",
+    "nombre": "Lavandeira",
+    "pais": "España",
+    "descripcion": "Espíritu de mujer que lava ropa en los ríos y presagia la muerte.",
+    "historia": "La Lavandeira es una figura del folclore gallego, representada como una mujer que lava ropa en los ríos durante la noche. Si alguien la ayuda a escurrir la ropa en el sentido contrario al suyo, puede evitar la muerte. Se cree que es el espíritu de una mujer que murió al dar a luz.",
+    "url_fuentes": [
+      "https://www.muyinteresante.com/historia/36279.html"
+    ]
+  },
+  {
+    "id": "es_10",
+    "nombre": "Gamusino",
+    "pais": "España",
+    "descripcion": "Criatura imaginaria utilizada para gastar bromas a los incautos.",
+    "historia": "El Gamusino es un ser ficticio del folclore español, especialmente en zonas rurales. Se utiliza como parte de bromas para enviar a los novatos o niños a cazarlo, sabiendo que no existe. Su descripción varía, pero generalmente es esquivo e imposible de atrapar.",
+    "url_fuentes": [
+      "https://www.muyinteresante.com/historia/36279.html"
+    ]
+  },
+  {
+    "id": "es_11",
+    "nombre": "La Santa Compaña",
+    "pais": "España",
+    "descripcion": "Procesión de almas en pena que recorre los caminos por la noche.",
+    "historia": "La Santa Compaña es una leyenda gallega que describe una procesión de almas en pena que caminan por los caminos rurales durante la noche, portando velas y rezando. Se dice que verlos es presagio de muerte, y que el líder de la procesión es un vivo condenado a guiarla hasta encontrar un sustituto.",
+    "url_fuentes": [
+      "https://as.com/actualidad/sociedad/la-santa-compana-la-leyenda-gallega-que-es-algo-mas-que-halloween-n/"
+    ]
+  },
+  {
+    "id": "es_12",
+    "nombre": "El Conde Estruch",
+    "pais": "España",
+    "descripcion": "Noble convertido en vampiro que aterroriza a los campesinos.",
+    "historia": "El Conde Estruch es una leyenda catalana que narra la historia de un noble que, tras ser maldecido por una bruja, se convierte en vampiro. Desde su castillo en Llers, ataca al ganado y a los campesinos, y engendra criaturas monstruosas con las mujeres que viola.",
+    "url_fuentes": [
+      "https://cronicaglobal.elespanol.com/vida/20221017/criaturas-mitologicas-del-folclore-catalan/711428925_0.html"
+    ]
+  },
+  {
+    "id": "es_13",
+    "nombre": "Las Alojas",
+    "pais": "España",
+    "descripcion": "Hadas acuáticas que protegen la fertilidad y los nacimientos.",
+    "historia": "Las Alojas son seres mitológicos del folclore catalán, descritas como hadas de gran belleza que habitan cerca del agua. Se les atribuye la protección de las mujeres embarazadas y la ayuda en los partos. Se comunican a través del sonido del agua y aparecen en noches de luna llena.",
+    "url_fuentes": [
+      "https://tecnoespectro.com/criaturas-mitologicas-de-espana-historia-y-leyendas/"
+    ]
+  },
+  {
+    "id": "es_14",
+    "nombre": "La Pesanta",
+    "pais": "España",
+    "descripcion": "Bestia negra que se posa sobre el pecho de los durmientes, causando pesadillas.",
+    "historia": "La Pesanta es una criatura del folclore catalán, descrita como una bestia negra y peluda que entra en las casas por la noche y se posa sobre el pecho de los durmientes, provocando pesadillas y dificultad para respirar. Se refugia en iglesias y cráteres durante el día.",
+    "url_fuentes": [
+      "https://cronicaglobal.elespanol.com/vida/20221017/criaturas-mitologicas-del-folclore-catalan/711428925_0.html"
+    ]
+  },
+  {
+    "id": "es_15",
     "nombre": "Isla de San Borondón",
     "pais": "España",
     "descripcion": "Isla fantasma que aparece y desaparece en el océano.",
@@ -135,6 +150,7 @@
     ]
   },
   {
+    "id": "es_16",
     "nombre": "La Encantada de la Peña",
     "pais": "España",
     "descripcion": "Mujer mágica condenada a esperar la redención en una peña.",
@@ -144,6 +160,7 @@
     ]
   },
   {
+    "id": "es_17",
     "nombre": "La Cueva de Salamanca",
     "pais": "España",
     "descripcion": "Lugar oculto donde el Diablo enseñaba magia.",
@@ -153,6 +170,7 @@
     ]
   },
   {
+    "id": "es_18",
     "nombre": "El Lagarto de Jaén",
     "pais": "España",
     "descripcion": "Gigantesco reptil que devoraba ganado y personas en Jaén.",
@@ -162,6 +180,7 @@
     ]
   },
   {
+    "id": "es_19",
     "nombre": "La Dama Blanca de Navarra",
     "pais": "España",
     "descripcion": "Espíritu femenino que vaga en ruinas del castillo de Monjardín.",
@@ -171,6 +190,7 @@
     ]
   },
   {
+    "id": "es_20",
     "nombre": "El Hombre Pez de Liérganes",
     "pais": "España",
     "descripcion": "Joven desaparecido que reapareció con escamas tras años en el mar.",
@@ -180,6 +200,7 @@
     ]
   },
   {
+    "id": "es_21",
     "nombre": "La Mujer Muerta",
     "pais": "España",
     "descripcion": "Cordillera que forma la silueta de una mujer tendida.",
@@ -189,6 +210,7 @@
     ]
   },
   {
+    "id": "es_22",
     "nombre": "Los Carantos",
     "pais": "España",
     "descripcion": "Espíritus burlones que atemorizan a los caminantes en Galicia.",
@@ -198,6 +220,7 @@
     ]
   },
   {
+    "id": "es_23",
     "nombre": "La Mora Encantada del Castillo de Monda",
     "pais": "España",
     "descripcion": "Espíritu de princesa mora que espera el regreso de su amado.",
@@ -207,6 +230,7 @@
     ]
   },
   {
+    "id": "es_24",
     "nombre": "El Silbón de Extremadura",
     "pais": "España",
     "descripcion": "Espíritu que silba antes de presentarse como presagio de muerte.",

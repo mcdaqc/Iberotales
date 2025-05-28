@@ -1,246 +1,272 @@
 [
-    {
-      "nombre": "La Siguanaba",
-      "pais": "El Salvador",
-      "descripcion": "Espíritu femenino que aparece como una mujer hermosa para luego revelar un rostro aterrador, castigando a hombres infieles.",
-      "historia": "Originaria de la mitología nahua, la Siguanaba era una mujer llamada Sihuehuet que fue castigada por los dioses por su infidelidad. Condenada a vagar por ríos y quebradas, atrae a hombres con su belleza para luego mostrar su verdadero rostro y enloquecerlos.",
-      "url_fuentes": [
-        "https://mitologia.guru/pais/mitologia-del-salvador/",
-        "https://sortojas158.blogspot.com/2023/09/mitos-precolombinos-y-personajes.html"
-      ]
-    },
-    {
-      "nombre": "El Cipitío",
-      "pais": "El Salvador",
-      "descripcion": "Niño eterno con pies al revés, hijo de la Siguanaba, conocido por sus travesuras y su risa contagiosa.",
-      "historia": "Hijo de la Siguanaba, fue maldecido por los dioses a permanecer como un niño de 10 años con pies al revés. Se le conoce por lanzar piedritas a las mujeres que le atraen y por sus bromas a los campesinos.",
-      "url_fuentes": [
-        "https://sortojas158.blogspot.com/2023/09/mitos-precolombinos-y-personajes.html",
-        "https://www.reddit.com/r/ElSalvador/comments/1dnn9y4"
-      ]
-    },
-    {
-      "nombre": "Los Cadejos",
-      "pais": "El Salvador",
-      "descripcion": "Dos perros espectrales: uno blanco que protege y otro negro que acecha a los viajeros nocturnos.",
-      "historia": "Se dice que el Cadejo blanco protege a los viajeros de los peligros nocturnos, mientras que el negro los lleva a la perdición. Ambos son espíritus que aparecen en caminos solitarios.",
-      "url_fuentes": [
-        "https://www.reddit.com/r/ElSalvador/comments/1dnn9y4",
-        "https://mitosyleyendas.info.sv/leyendas-urbanas-famosas-en-el-salvador-mitos-en-la-cultura-popular/"
-      ]
-    },
-    {
-      "nombre": "La Carreta Chillona",
-      "pais": "El Salvador",
-      "descripcion": "Carreta fantasmal que recorre las calles emitiendo chillidos, presagio de muerte o desgracia.",
-      "historia": "Se escucha por las noches el crujir de una carreta sin bueyes ni conductor. Su aparición es considerada un mal augurio, anunciando tragedias o la muerte de alguien cercano.",
-      "url_fuentes": [
-        "https://www.reddit.com/r/ElSalvador/comments/1dnn9y4",
-        "https://mitosyleyendas.info.sv/leyendas-urbanas-famosas-en-el-salvador-mitos-en-la-cultura-popular/"
-      ]
-    },
-    {
-      "nombre": "La Cuyancúa",
-      "pais": "El Salvador",
-      "descripcion": "Criatura con cuerpo de serpiente y cabeza de cerdo que habita en ríos y lagos.",
-      "historia": "De origen maya, la Cuyancúa es una criatura híbrida que emite lamentos lastimeros. Se cree que su aparición anuncia desgracias o tragedias inminentes.",
-      "url_fuentes": [
-        "https://puebloantiguo.com/leyendas-del-salvador/",
-        "https://guanacos.com/category/cultura/mitosyleyendassalvadorenas/"
-      ]
-    },
-    {
-      "nombre": "La Mona Bruja",
-      "pais": "El Salvador",
-      "descripcion": "Bruja que se transforma en un mono gigante para atacar a sus enemigos.",
-      "historia": "Mediante rituales ancestrales, las monas se despojan de su piel y se transforman en criaturas similares a monos gigantes. Se desplazan por los árboles emitiendo alaridos espantosos, atacando a quienes les han hecho daño.",
-      "url_fuentes": [
-        "https://es.wikipedia.org/wiki/Mona_(leyenda)",
-        "https://puebloantiguo.com/leyendas-del-salvador/"
-      ]
-    },
-    {
-      "nombre": "La Desencarnada",
-      "pais": "El Salvador",
-      "descripcion": "Espíritu sin rostro definido que busca poseer cuerpos humanos.",
-      "historia": "Se aparece como una mujer hermosa que, al ser tocada, revela su verdadera forma: un esqueleto sin piel. Los hombres que la encuentran quedan traumatizados o desaparecen sin dejar rastro.",
-      "url_fuentes": [
-        "https://mitologia.guru/pais/mitologia-del-salvador/",
-        "https://puebloantiguo.com/leyendas-del-salvador/"
-      ]
-    },
-    {
-      "nombre": "El Justo Juez de la Noche",
-      "pais": "El Salvador",
-      "descripcion": "Espíritu justiciero que castiga a los malhechores durante la noche.",
-      "historia": "Aparece como un hombre sin cabeza montado en un caballo negro. Castiga a borrachos, ladrones y vagos, azotándolos con un látigo o desapareciéndolos sin dejar rastro.",
-      "url_fuentes": [
-        "https://es.wikipedia.org/wiki/Justo_Juez_de_la_noche",
-        "https://elgrafico.com/salvadorenisimo/Los-mitos-y-leyendas-salvadorenas-menos-comunes-los-conocias-20241011-0060.html"
-      ]
-    },
-    {
-      "nombre": "Chasca, la Virgen del Agua",
-      "pais": "El Salvador",
-      "descripcion": "Espíritu de una joven que se aparece en las noches de luna llena en las aguas.",
-      "historia": "Chasca se enamoró de un pescador llamado Acayatl. Al ser asesinado por orden de su padre, ella se lanzó al agua para unirse a él en la muerte. Desde entonces, su espíritu aparece en una canoa blanca junto a su amado durante las noches de luna llena.",
-      "url_fuentes": [
-        "https://es.wikipedia.org/wiki/Chasca",
-        "https://guanacos.com/category/cultura/mitosyleyendassalvadorenas/"
-      ]
-    },
-    {
-      "nombre": "El Maíz Rojo",
-      "pais": "El Salvador",
-      "descripcion": "Relato sobre la abundante cosecha de maíz otorgada por la diosa Tucuxi.",
-      "historia": "Los indígenas ofrecieron granos de maíz a la tierra fértil bajo la luz de la luna. La diosa Tucuxi, conmovida por su devoción, les otorgó una cosecha abundante de mazorcas rojas y jugosas.",
-      "url_fuentes": [
-        "https://topmitologias.com/c-historias-y-leyendas/leyendas-salvadorenas"
-      ]
-    },
-    {
-      "nombre": "El Duende",
-      "pais": "El Salvador",
-      "descripcion": "Pequeño ser travieso que enamora y molesta a las jóvenes del pueblo.",
-      "historia": "Se enamora de las mujeres jóvenes y las persigue hasta dejarlas solteronas. Para alejarlo, las mujeres deben realizar acciones antihigiénicas que le resulten repulsivas.",
-      "url_fuentes": [
-        "https://mitologia.guru/pais/mitologia-del-salvador/",
-        "https://sortojas158.blogspot.com/2023/09/mitos-precolombinos-y-personajes.html"
-      ]
-    },
-    {
-      "nombre": "La Taconuda",
-      "pais": "El Salvador",
-      "descripcion": "Fantasma de una mujer que se aparece con tacones resonantes en las noches.",
-      "historia": "Se escucha el sonido de tacones en calles solitarias durante la noche. Al buscar su origen, no se encuentra a nadie. Se cree que es el espíritu de una mujer que murió trágicamente y busca compañía.",
-      "url_fuentes": [
-        "https://mitosyleyendas.info.sv/leyendas-urbanas-famosas-en-el-salvador-mitos-en-la-cultura-popular/"
-      ]
-    },
-    {
-      "nombre": "El Nahual",
-      "pais": "El Salvador",
-      "descripcion": "Ser mitad humano, mitad animal, con la capacidad de transformarse.",
-      "historia": "Personas con la habilidad de transformarse en animales para realizar actos mágicos o proteger a su comunidad. Esta creencia proviene de tradiciones indígenas mesoamericanas.",
-      "url_fuentes": [
-        "https://mitosyleyendas.info.sv/leyendas-urbanas-famosas-en-el-salvador-mitos-en-la-cultura-popular/"
-      ]
-    },
-    {
-      "nombre": "La Carreta Nagua",
-      "pais": "El Salvador",
-      "descripcion": "Carreta espectral que aparece en las noches, asociada con la muerte.",
-      "historia": "Se dice que es una carreta sin bueyes ni conductor que recorre las calles emitiendo sonidos aterradores. Su aparición es considerada un presagio de muerte o desgracia.",
-      "url_fuentes": [
-        "https://www.reddit.com/r/Ticos/comments/10ad5kc"
-      ]
-    },
-    {
-        "nombre": "Atonal",
-        "pais": "El Salvador",
-        "descripcion": "Líder indígena que resistió la conquista española, considerado héroe nacional.",
-        "historia": "Atonal, cuyo nombre significa 'agua grande' en náhuatl, fue un cacique pipil que lideró la resistencia contra los conquistadores españoles en la región de Cuscatlán. Su valentía y liderazgo lo convirtieron en un símbolo de la lucha indígena por la libertad.",
-        "url_fuentes": [
-        "https://es.wikipedia.org/wiki/Atonal_(cacique)"
-        ]
-    },
-    {
-        "nombre": "El Padre sin Cabeza",
-        "pais": "El Salvador",
-        "descripcion": "Espíritu de un sacerdote decapitado que vaga por las calles en busca de redención.",
-        "historia": "Se cuenta que un sacerdote fue decapitado por traicionar su fe durante la época colonial. Desde entonces, su espíritu sin cabeza aparece en las noches, especialmente cerca de iglesias y cementerios, buscando paz para su alma atormentada.",
-        "url_fuentes": [
-        "https://es.scribd.com/document/836357760/Mitos-y-Leyendas-de-El-Salvador"
-        ]
-    },
-    {
-        "nombre": "La Flor del Amate",
-        "pais": "El Salvador",
-        "descripcion": "Leyenda sobre una flor mística que florece una vez al año y otorga deseos.",
-        "historia": "En la región de Chalatenango, se dice que una flor especial crece en los árboles de amate y florece solo una noche al año. Quienes logran encontrarla y hacer un deseo con fe pura, verán su petición cumplida. Sin embargo, la flor desaparece al amanecer.",
-        "url_fuentes": [
-        "https://multcolib.overdrive.com/media/9803516"
-        ]
-    },
-    {
-        "nombre": "El Gritón de Medianoche",
-        "pais": "El Salvador",
-        "descripcion": "Espíritu que emite gritos desgarradores en las noches, sembrando terror en los pobladores.",
-        "historia": "En varios pueblos salvadoreños, se habla de un ente que grita con desesperación durante la medianoche. Algunos creen que es el alma en pena de alguien que sufrió una muerte trágica y busca descanso, mientras que otros lo consideran un presagio de desgracias.",
-        "url_fuentes": [
-        "https://guanacos.com/category/cultura/mitosyleyendassalvadorenas/"
-        ]
-    },
-    {
-        "nombre": "La Poza del Bululú",
-        "pais": "El Salvador",
-        "descripcion": "Cuerpo de agua encantado donde habita un espíritu que atrae a los incautos.",
-        "historia": "En el municipio de San Vicente, existe una poza conocida como 'El Bululú'. Se dice que en sus aguas habita un espíritu que atrae a las personas con cantos y risas, para luego arrastrarlas al fondo. Muchos han desaparecido misteriosamente en este lugar.",
-        "url_fuentes": [
-        "https://es.wikipedia.org/wiki/Cultura_de_El_Salvador"
-        ]
-    },
-    {
-        "nombre": "La Gigantona de Jocoro",
-        "pais": "El Salvador",
-        "descripcion": "Figura femenina de gran tamaño que aparece en festividades locales.",
-        "historia": "En Jocoro, Morazán, durante ciertas festividades, se representa a 'La Gigantona', una mujer de gran estatura que baila al ritmo de tambores y flautas. Aunque ahora es parte del folclore, su origen se remonta a leyendas indígenas que hablaban de una mujer gigante protectora del pueblo.",
-        "url_fuentes": [
-        "https://es.wikipedia.org/wiki/Cultura_de_El_Salvador"
-        ]
-    },
-    {
-        "nombre": "El Partideño",
-        "pais": "El Salvador",
-        "descripcion": "Espíritu burlón que se aparece en caminos solitarios para confundir a los viajeros.",
-        "historia": "Se dice que 'El Partideño' es un ente que aparece en los caminos rurales, especialmente en la zona oriental del país. Disfrazado de campesino, ofrece ayuda a los viajeros, pero luego los lleva por rutas equivocadas, haciéndolos perderse durante horas.",
-        "url_fuentes": [
-        "https://es.wikipedia.org/wiki/Cultura_de_El_Salvador"
-        ]
-    },
-    {
-        "nombre": "El Mal de Ojo",
-        "pais": "El Salvador",
-        "descripcion": "Creencia popular sobre una mirada que puede causar enfermedades o mala suerte.",
-        "historia": "En muchas comunidades salvadoreñas, se cree que ciertas personas tienen la capacidad de causar daño con solo mirar, especialmente a niños pequeños. Para protegerse, se utilizan amuletos como el 'ojo de venado' o se realizan rituales de limpieza con hierbas.",
-        "url_fuentes": [
-        "https://es.scribd.com/document/836357760/Mitos-y-Leyendas-de-El-Salvador"
-        ]
-    },
-    {
-        "nombre": "La Aurora",
-        "pais": "El Salvador",
-        "descripcion": "Espíritu de una mujer que aparece al amanecer en busca de su amado perdido.",
-        "historia": "En las zonas montañosas del país, se cuenta la historia de 'La Aurora', una joven que perdió a su prometido en la guerra. Desde entonces, su espíritu aparece al amanecer, vestida de blanco y con una vela en mano, buscando a su amado entre la neblina.",
-        "url_fuentes": [
-        "https://es.scribd.com/document/836357760/Mitos-y-Leyendas-de-El-Salvador"
-        ]
-    },
-    {
-        "nombre": "El Hipo",
-        "pais": "El Salvador",
-        "descripcion": "Entidad que provoca hipo persistente como castigo por burlarse de los espíritus.",
-        "historia": "Se cree que aquellos que se burlan de las leyendas o no respetan las tradiciones pueden ser castigados por 'El Hipo', un ente invisible que provoca hipo incontrolable. Solo mediante rituales y oraciones específicas se puede aliviar este mal.",
-        "url_fuentes": [
-        "https://es.scribd.com/document/836357760/Mitos-y-Leyendas-de-El-Salvador"
-        ]
-    },
-    {
-        "nombre": "Izalco",
-        "pais": "El Salvador",
-        "descripcion": "Diosa asociada al volcán Izalco, controladora del fuego y la lava.",
-        "historia": "En la mitología precolombina de El Salvador, Izalco es una diosa vinculada al volcán del mismo nombre. Se creía que era la responsable de la actividad volcánica, controlando el fuego y la lava. Los habitantes de la región le rendían culto y realizaban ceremonias para aplacar su furia y asegurar la protección del volcán.",
-        "url_fuentes": [
-          "https://elsalvadorprecolombino.info.sv/dioses-y-deidades-de-la-mitologia-precolombina-en-el-salvador/"
-        ]
-      },
-      {
-        "nombre": "Huevonius",
-        "pais": "El Salvador",
-        "descripcion": "Dios de la pereza, caracterizado por su negligencia.",
-        "historia": "Huevonius es el dios de la pereza en la mitología salvadoreña. Se le describe con brazos largos y ojos casi cerrados, siempre estirándose y sin prestar atención a sus funciones. Representa la negligencia y la falta de responsabilidad.",
-        "url_fuentes": [
-          "https://topmitologias.com/c-mitologia-salvadorena/mitos-del-salvador"
-        ]
-      }
- ]
+  {
+    "id": "sv_01",
+    "nombre": "La Siguanaba",
+    "pais": "El Salvador",
+    "descripcion": "Espíritu femenino que aparece como una mujer hermosa para luego revelar un rostro aterrador, castigando a hombres infieles.",
+    "historia": "Originaria de la mitología nahua, la Siguanaba era una mujer llamada Sihuehuet que fue castigada por los dioses por su infidelidad. Condenada a vagar por ríos y quebradas, atrae a hombres con su belleza para luego mostrar su verdadero rostro y enloquecerlos.",
+    "url_fuentes": [
+      "https://mitologia.guru/pais/mitologia-del-salvador/",
+      "https://sortojas158.blogspot.com/2023/09/mitos-precolombinos-y-personajes.html"
+    ]
+  },
+  {
+    "id": "sv_02",
+    "nombre": "El Cipitío",
+    "pais": "El Salvador",
+    "descripcion": "Niño eterno con pies al revés, hijo de la Siguanaba, conocido por sus travesuras y su risa contagiosa.",
+    "historia": "Hijo de la Siguanaba, fue maldecido por los dioses a permanecer como un niño de 10 años con pies al revés. Se le conoce por lanzar piedritas a las mujeres que le atraen y por sus bromas a los campesinos.",
+    "url_fuentes": [
+      "https://sortojas158.blogspot.com/2023/09/mitos-precolombinos-y-personajes.html",
+      "https://www.reddit.com/r/ElSalvador/comments/1dnn9y4"
+    ]
+  },
+  {
+    "id": "sv_03",
+    "nombre": "Los Cadejos",
+    "pais": "El Salvador",
+    "descripcion": "Dos perros espectrales: uno blanco que protege y otro negro que acecha a los viajeros nocturnos.",
+    "historia": "Se dice que el Cadejo blanco protege a los viajeros de los peligros nocturnos, mientras que el negro los lleva a la perdición. Ambos son espíritus que aparecen en caminos solitarios.",
+    "url_fuentes": [
+      "https://www.reddit.com/r/ElSalvador/comments/1dnn9y4",
+      "https://mitosyleyendas.info.sv/leyendas-urbanas-famosas-en-el-salvador-mitos-en-la-cultura-popular/"
+    ]
+  },
+  {
+    "id": "sv_04",
+    "nombre": "La Carreta Chillona",
+    "pais": "El Salvador",
+    "descripcion": "Carreta fantasmal que recorre las calles emitiendo chillidos, presagio de muerte o desgracia.",
+    "historia": "Se escucha por las noches el crujir de una carreta sin bueyes ni conductor. Su aparición es considerada un mal augurio, anunciando tragedias o la muerte de alguien cercano.",
+    "url_fuentes": [
+      "https://www.reddit.com/r/ElSalvador/comments/1dnn9y4",
+      "https://mitosyleyendas.info.sv/leyendas-urbanas-famosas-en-el-salvador-mitos-en-la-cultura-popular/"
+    ]
+  },
+  {
+    "id": "sv_05",
+    "nombre": "La Cuyancúa",
+    "pais": "El Salvador",
+    "descripcion": "Criatura con cuerpo de serpiente y cabeza de cerdo que habita en ríos y lagos.",
+    "historia": "De origen maya, la Cuyancúa es una criatura híbrida que emite lamentos lastimeros. Se cree que su aparición anuncia desgracias o tragedias inminentes.",
+    "url_fuentes": [
+      "https://puebloantiguo.com/leyendas-del-salvador/",
+      "https://guanacos.com/category/cultura/mitosyleyendassalvadorenas/"
+    ]
+  },
+  {
+    "id": "sv_06",
+    "nombre": "La Mona Bruja",
+    "pais": "El Salvador",
+    "descripcion": "Bruja que se transforma en un mono gigante para atacar a sus enemigos.",
+    "historia": "Mediante rituales ancestrales, las monas se despojan de su piel y se transforman en criaturas similares a monos gigantes. Se desplazan por los árboles emitiendo alaridos espantosos, atacando a quienes les han hecho daño.",
+    "url_fuentes": [
+      "https://es.wikipedia.org/wiki/Mona_(leyenda)",
+      "https://puebloantiguo.com/leyendas-del-salvador/"
+    ]
+  },
+  {
+    "id": "sv_07",
+    "nombre": "La Desencarnada",
+    "pais": "El Salvador",
+    "descripcion": "Espíritu sin rostro definido que busca poseer cuerpos humanos.",
+    "historia": "Se aparece como una mujer hermosa que, al ser tocada, revela su verdadera forma: un esqueleto sin piel. Los hombres que la encuentran quedan traumatizados o desaparecen sin dejar rastro.",
+    "url_fuentes": [
+      "https://mitologia.guru/pais/mitologia-del-salvador/",
+      "https://puebloantiguo.com/leyendas-del-salvador/"
+    ]
+  },
+  {
+    "id": "sv_08",
+    "nombre": "El Justo Juez de la Noche",
+    "pais": "El Salvador",
+    "descripcion": "Espíritu justiciero que castiga a los malhechores durante la noche.",
+    "historia": "Aparece como un hombre sin cabeza montado en un caballo negro. Castiga a borrachos, ladrones y vagos, azotándolos con un látigo o desapareciéndolos sin dejar rastro.",
+    "url_fuentes": [
+      "https://es.wikipedia.org/wiki/Justo_Juez_de_la_noche",
+      "https://elgrafico.com/salvadorenisimo/Los-mitos-y-leyendas-salvadorenas-menos-comunes-los-conocias-20241011-0060.html"
+    ]
+  },
+  {
+    "id": "sv_09",
+    "nombre": "Chasca, la Virgen del Agua",
+    "pais": "El Salvador",
+    "descripcion": "Espíritu de una joven que se aparece en las noches de luna llena en las aguas.",
+    "historia": "Chasca se enamoró de un pescador llamado Acayatl. Al ser asesinado por orden de su padre, ella se lanzó al agua para unirse a él en la muerte. Desde entonces, su espíritu aparece en una canoa blanca junto a su amado durante las noches de luna llena.",
+    "url_fuentes": [
+      "https://es.wikipedia.org/wiki/Chasca",
+      "https://guanacos.com/category/cultura/mitosyleyendassalvadorenas/"
+    ]
+  },
+  {
+    "id": "sv_10",
+    "nombre": "El Maíz Rojo",
+    "pais": "El Salvador",
+    "descripcion": "Relato sobre la abundante cosecha de maíz otorgada por la diosa Tucuxi.",
+    "historia": "Los indígenas ofrecieron granos de maíz a la tierra fértil bajo la luz de la luna. La diosa Tucuxi, conmovida por su devoción, les otorgó una cosecha abundante de mazorcas rojas y jugosas.",
+    "url_fuentes": [
+      "https://topmitologias.com/c-historias-y-leyendas/leyendas-salvadorenas"
+    ]
+  },
+  {
+    "id": "sv_11",
+    "nombre": "El Duende",
+    "pais": "El Salvador",
+    "descripcion": "Pequeño ser travieso que enamora y molesta a las jóvenes del pueblo.",
+    "historia": "Se enamora de las mujeres jóvenes y las persigue hasta dejarlas solteronas. Para alejarlo, las mujeres deben realizar acciones antihigiénicas que le resulten repulsivas.",
+    "url_fuentes": [
+      "https://mitologia.guru/pais/mitologia-del-salvador/",
+      "https://sortojas158.blogspot.com/2023/09/mitos-precolombinos-y-personajes.html"
+    ]
+  },
+  {
+    "id": "sv_12",
+    "nombre": "La Taconuda",
+    "pais": "El Salvador",
+    "descripcion": "Fantasma de una mujer que se aparece con tacones resonantes en las noches.",
+    "historia": "Se escucha el sonido de tacones en calles solitarias durante la noche. Al buscar su origen, no se encuentra a nadie. Se cree que es el espíritu de una mujer que murió trágicamente y busca compañía.",
+    "url_fuentes": [
+      "https://mitosyleyendas.info.sv/leyendas-urbanas-famosas-en-el-salvador-mitos-en-la-cultura-popular/"
+    ]
+  },
+  {
+    "id": "sv_13",
+    "nombre": "El Nahual",
+    "pais": "El Salvador",
+    "descripcion": "Ser mitad humano, mitad animal, con la capacidad de transformarse.",
+    "historia": "Personas con la habilidad de transformarse en animales para realizar actos mágicos o proteger a su comunidad. Esta creencia proviene de tradiciones indígenas mesoamericanas.",
+    "url_fuentes": [
+      "https://mitosyleyendas.info.sv/leyendas-urbanas-famosas-en-el-salvador-mitos-en-la-cultura-popular/"
+    ]
+  },
+  {
+    "id": "sv_14",
+    "nombre": "La Carreta Nagua",
+    "pais": "El Salvador",
+    "descripcion": "Carreta espectral que aparece en las noches, asociada con la muerte.",
+    "historia": "Se dice que es una carreta sin bueyes ni conductor que recorre las calles emitiendo sonidos aterradores. Su aparición es considerada un presagio de muerte o desgracia.",
+    "url_fuentes": [
+      "https://www.reddit.com/r/Ticos/comments/10ad5kc"
+    ]
+  },
+  {
+    "id": "sv_15",
+    "nombre": "Atonal",
+    "pais": "El Salvador",
+    "descripcion": "Líder indígena que resistió la conquista española, considerado héroe nacional.",
+    "historia": "Atonal, cuyo nombre significa 'agua grande' en náhuatl, fue un cacique pipil que lideró la resistencia contra los conquistadores españoles en la región de Cuscatlán. Su valentía y liderazgo lo convirtieron en un símbolo de la lucha indígena por la libertad.",
+    "url_fuentes": [
+      "https://es.wikipedia.org/wiki/Atonal_(cacique)"
+    ]
+  },
+  {
+    "id": "sv_16",
+    "nombre": "El Padre sin Cabeza",
+    "pais": "El Salvador",
+    "descripcion": "Espíritu de un sacerdote decapitado que vaga por las calles en busca de redención.",
+    "historia": "Se cuenta que un sacerdote fue decapitado por traicionar su fe durante la época colonial. Desde entonces, su espíritu sin cabeza aparece en las noches, especialmente cerca de iglesias y cementerios, buscando paz para su alma atormentada.",
+    "url_fuentes": [
+      "https://es.scribd.com/document/836357760/Mitos-y-Leyendas-de-El-Salvador"
+    ]
+  },
+  {
+    "id": "sv_17",
+    "nombre": "La Flor del Amate",
+    "pais": "El Salvador",
+    "descripcion": "Leyenda sobre una flor mística que florece una vez al año y otorga deseos.",
+    "historia": "En la región de Chalatenango, se dice que una flor especial crece en los árboles de amate y florece solo una noche al año. Quienes logran encontrarla y hacer un deseo con fe pura, verán su petición cumplida. Sin embargo, la flor desaparece al amanecer.",
+    "url_fuentes": [
+      "https://multcolib.overdrive.com/media/9803516"
+    ]
+  },
+  {
+    "id": "sv_18",
+    "nombre": "El Gritón de Medianoche",
+    "pais": "El Salvador",
+    "descripcion": "Espíritu que emite gritos desgarradores en las noches, sembrando terror en los pobladores.",
+    "historia": "En varios pueblos salvadoreños, se habla de un ente que grita con desesperación durante la medianoche. Algunos creen que es el alma en pena de alguien que sufrió una muerte trágica y busca descanso, mientras que otros lo consideran un presagio de desgracias.",
+    "url_fuentes": [
+      "https://guanacos.com/category/cultura/mitosyleyendassalvadorenas/"
+    ]
+  },
+  {
+    "id": "sv_19",
+    "nombre": "La Poza del Bululú",
+    "pais": "El Salvador",
+    "descripcion": "Cuerpo de agua encantado donde habita un espíritu que atrae a los incautos.",
+    "historia": "En el municipio de San Vicente, existe una poza conocida como 'El Bululú'. Se dice que en sus aguas habita un espíritu que atrae a las personas con cantos y risas, para luego arrastrarlas al fondo. Muchos han desaparecido misteriosamente en este lugar.",
+    "url_fuentes": [
+      "https://es.wikipedia.org/wiki/Cultura_de_El_Salvador"
+    ]
+  },
+  {
+    "id": "sv_20",
+    "nombre": "La Gigantona de Jocoro",
+    "pais": "El Salvador",
+    "descripcion": "Figura femenina de gran tamaño que aparece en festividades locales.",
+    "historia": "En Jocoro, Morazán, durante ciertas festividades, se representa a 'La Gigantona', una mujer de gran estatura que baila al ritmo de tambores y flautas. Aunque ahora es parte del folclore, su origen se remonta a leyendas indígenas que hablaban de una mujer gigante protectora del pueblo.",
+    "url_fuentes": [
+      "https://es.wikipedia.org/wiki/Cultura_de_El_Salvador"
+    ]
+  },
+  {
+    "id": "sv_21",
+    "nombre": "El Partideño",
+    "pais": "El Salvador",
+    "descripcion": "Espíritu burlón que se aparece en caminos solitarios para confundir a los viajeros.",
+    "historia": "Se dice que 'El Partideño' es un ente que aparece en los caminos rurales, especialmente en la zona oriental del país. Disfrazado de campesino, ofrece ayuda a los viajeros, pero luego los lleva por rutas equivocadas, haciéndolos perderse durante horas.",
+    "url_fuentes": [
+      "https://es.wikipedia.org/wiki/Cultura_de_El_Salvador"
+    ]
+  },
+  {
+    "id": "sv_22",
+    "nombre": "El Mal de Ojo",
+    "pais": "El Salvador",
+    "descripcion": "Creencia popular sobre una mirada que puede causar enfermedades o mala suerte.",
+    "historia": "En muchas comunidades salvadoreñas, se cree que ciertas personas tienen la capacidad de causar daño con solo mirar, especialmente a niños pequeños. Para protegerse, se utilizan amuletos como el 'ojo de venado' o se realizan rituales de limpieza con hierbas.",
+    "url_fuentes": [
+      "https://es.scribd.com/document/836357760/Mitos-y-Leyendas-de-El-Salvador"
+    ]
+  },
+  {
+    "id": "sv_23",
+    "nombre": "La Aurora",
+    "pais": "El Salvador",
+    "descripcion": "Espíritu de una mujer que aparece al amanecer en busca de su amado perdido.",
+    "historia": "En las zonas montañosas del país, se cuenta la historia de 'La Aurora', una joven que perdió a su prometido en la guerra. Desde entonces, su espíritu aparece al amanecer, vestida de blanco y con una vela en mano, buscando a su amado entre la neblina.",
+    "url_fuentes": [
+      "https://es.scribd.com/document/836357760/Mitos-y-Leyendas-de-El-Salvador"
+    ]
+  },
+  {
+    "id": "sv_24",
+    "nombre": "El Hipo",
+    "pais": "El Salvador",
+    "descripcion": "Entidad que provoca hipo persistente como castigo por burlarse de los espíritus.",
+    "historia": "Se cree que aquellos que se burlan de las leyendas o no respetan las tradiciones pueden ser castigados por 'El Hipo', un ente invisible que provoca hipo incontrolable. Solo mediante rituales y oraciones específicas se puede aliviar este mal.",
+    "url_fuentes": [
+      "https://es.scribd.com/document/836357760/Mitos-y-Leyendas-de-El-Salvador"
+    ]
+  },
+  {
+    "id": "sv_25",
+    "nombre": "Izalco",
+    "pais": "El Salvador",
+    "descripcion": "Diosa asociada al volcán Izalco, controladora del fuego y la lava.",
+    "historia": "En la mitología precolombina de El Salvador, Izalco es una diosa vinculada al volcán del mismo nombre. Se creía que era la responsable de la actividad volcánica, controlando el fuego y la lava. Los habitantes de la región le rendían culto y realizaban ceremonias para aplacar su furia y asegurar la protección del volcán.",
+    "url_fuentes": [
+      "https://elsalvadorprecolombino.info.sv/dioses-y-deidades-de-la-mitologia-precolombina-en-el-salvador/"
+    ]
+  },
+  {
+    "id": "sv_26",
+    "nombre": "Huevonius",
+    "pais": "El Salvador",
+    "descripcion": "Dios de la pereza, caracterizado por su negligencia.",
+    "historia": "Huevonius es el dios de la pereza en la mitología salvadoreña. Se le describe con brazos largos y ojos casi cerrados, siempre estirándose y sin prestar atención a sus funciones. Representa la negligencia y la falta de responsabilidad.",
+    "url_fuentes": [
+      "https://topmitologias.com/c-mitologia-salvadorena/mitos-del-salvador"
+    ]
+  }
+]

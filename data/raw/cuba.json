@@ -1,140 +1,154 @@
 [
-    {
-      "nombre": "Itiba Cahubaba",
-      "pais": "Cuba",
-      "descripcion": "Diosa taína de la Tierra, madre de los cuatro gemelos creadores del mundo.",
-      "historia": "Itiba Cahubaba es una figura central en la mitología taína. Se dice que murió al dar a luz a cuatro gemelos, quienes, con su sacrificio, dieron origen a la humanidad, la tierra y el mar. Su culto estuvo presente en la región de la Sierra Maestra, en el oriente de Cuba.",
-      "url_fuentes": [
-        "https://www.ecured.cu/Itiba_Cahubaba",
-        "https://americanindian.si.edu/exhibitions/infinityofnations/meso-carib/127442.html"
-      ]
-    },
-    {
-      "nombre": "Yucahú Bagua Maórocoti",
-      "pais": "Cuba",
-      "descripcion": "Deidad taína de la yuca y el mar, protector de las cosechas.",
-      "historia": "Yucahú era la deidad suprema de la agricultura y el agua en la mitología taína. Se le veneraba como el señor de los conucos de yuca, garantizando la fertilidad de las tierras. Su culto estuvo presente en toda la isla, especialmente en las zonas rurales.",
-      "url_fuentes": [
-        "https://es.wikipedia.org/wiki/Yúcahu"
-      ]
-    },
-    {
-      "nombre": "La Luz de Yara",
-      "pais": "Cuba",
-      "descripcion": "Fenómeno luminoso atribuido al espíritu del cacique Hatuey.",
-      "historia": "En la región de Yara, provincia de Granma, se cuenta que una misteriosa luz aparece en las noches. Se cree que es el espíritu del cacique Hatuey, quien fue ejecutado por los conquistadores. Otra versión atribuye la luz al espíritu de Yara, una indígena enamorada de Hatuey.",
-      "url_fuentes": [
-        "https://es.wikipedia.org/wiki/Luz_de_Yara"
-      ]
-    },
-    {
-      "nombre": "El Güije",
-      "pais": "Cuba",
-      "descripcion": "Duende travieso que habita en ríos y charcas, protector de la naturaleza.",
-      "historia": "El Güije es un ser mitológico descrito como un pequeño duende de piel oscura, ojos saltones y cabello enmarañado. Se dice que habita en cuerpos de agua y aparece por las noches para asustar a los viajeros. Es considerado un guardián de la naturaleza.",
-      "url_fuentes": [
-        "https://es.wikipedia.org/wiki/Güije"
-      ]
-    },
-    {
-      "nombre": "Toa, la Rana Sagrada",
-      "pais": "Cuba",
-      "descripcion": "Rana venerada por los taínos como símbolo de fertilidad y origen de los niños.",
-      "historia": "En la mitología taína, la rana Toa era considerada el origen de los niños. Se le rendía culto en rituales de fertilidad y se le asociaba con la lluvia y la abundancia.",
-      "url_fuentes": [
-        "https://letras-uruguay.espaciolatino.com/aaa/couceiro_rodriguez_avelino/vigencia_de_los_indoamericanos.htm"
-      ]
-    },
-    {
-      "nombre": "Opiyelguobirán",
-      "pais": "Cuba",
-      "descripcion": "Espíritu taíno con forma de perro guardián del mundo de los muertos.",
-      "historia": "Opiyelguobirán era un espíritu canino que protegía la entrada al Coaybay, el mundo de los muertos en la mitología taína. Se le consideraba un guía para las almas, y su imagen fue hallada en numerosas pictografías de cuevas del oriente cubano.",
-      "url_fuentes": [
-        "https://www.academia.edu/38300112/Los_tainos_y_su_cosmovision",
-        "https://americanindian.si.edu"
-      ]
-    },
-    {
-      "nombre": "Bayamanaco",
-      "pais": "Cuba",
-      "descripcion": "Dios taíno del fuego y el conocimiento.",
-      "historia": "Bayamanaco enseñó a los hombres a usar el fuego, considerado un regalo divino. En algunas versiones, lo escondía en una cueva, hasta que fue robado por el héroe Guahayona. Este mito era común en el occidente de la isla, especialmente en Pinar del Río.",
-      "url_fuentes": [
-        "https://www.mitologia.info/mitologia-taina/"
-      ]
-    },
-    {
-      "nombre": "Guabancex",
-      "pais": "Cuba",
-      "descripcion": "Diosa taína de las tormentas, el caos y la destrucción.",
-      "historia": "Guabancex era la deidad responsable de los huracanes y tormentas. Los taínos la temían, ya que su ira traía inundaciones y destrucción. Su culto estaba presente en las zonas montañosas del oriente cubano.",
-      "url_fuentes": [
-        "https://en.wikipedia.org/wiki/Guabancex"
-      ]
-    },
-    {
-      "nombre": "La Madre de Aguas",
-      "pais": "Cuba",
-      "descripcion": "Criatura mitológica mitad serpiente mitad mujer que habita los ríos.",
-      "historia": "Según la leyenda, esta criatura habita en ríos profundos y cuida de sus aguas. Se cree que si alguien intenta dañar el río, ella aparece para castigar a los intrusos. Se ha reportado su presencia en el río Zaza, en Sancti Spíritus.",
-      "url_fuentes": [
-        "https://www.ecured.cu/Madre_de_aguas"
-      ]
-    },
-    {
-      "nombre": "El Ciclón de los Espíritus",
-      "pais": "Cuba",
-      "descripcion": "Huracán mítico creado por los ancestros taínos como castigo divino.",
-      "historia": "Algunos relatos orales indígenas atribuyen el primer gran huracán de la historia a un castigo enviado por los ancestros ofendidos por el egoísmo humano. Este mito circula en zonas rurales de Camagüey y Las Tunas.",
-      "url_fuentes": [
-        "https://www.jstor.org/stable/25613238"
-      ]
-    },
-    {
-      "nombre": "Hatuey",
-      "pais": "Cuba",
-      "descripcion": "Cacique taíno convertido en símbolo de resistencia y leyenda heroica.",
-      "historia": "Hatuey fue un cacique taíno que lideró una rebelión contra los conquistadores españoles. Fue capturado y quemado vivo. Se dice que antes de morir rechazó el cielo cristiano. Su historia se transformó en leyenda en la zona de Bayamo.",
-      "url_fuentes": [
-        "https://es.wikipedia.org/wiki/Hatuey"
-      ]
-    },
-    {
-      "nombre": "La Mula de Noche",
-      "pais": "Cuba",
-      "descripcion": "Mujer maldita que se transforma en mula de fuego por las noches.",
-      "historia": "Este mito colonial narra que una mujer que traicionaba su fe católica con prácticas africanas fue maldecida a vagar como mula de fuego. Sus apariciones eran reportadas en los campos de Cienfuegos.",
-      "url_fuentes": [
-        "https://www.cubania.com/blog/mitos-y-leyendas-de-cuba/"
-      ]
-    },
-    {
-      "nombre": "El Espectro de San Juan de los Remedios",
-      "pais": "Cuba",
-      "descripcion": "Fantasma de un antiguo monje que protege la iglesia del pueblo.",
-      "historia": "Desde el siglo XVIII, se cuentan historias de un espectro encapuchado que aparece en la iglesia de San Juan de los Remedios. Según la leyenda, es un fraile que murió defendiendo las reliquias del templo durante una incursión pirata.",
-      "url_fuentes": [
-        "https://cubahora.cu/cultura/mitos-y-leyendas-de-cuba"
-      ]
-    },
-    {
-      "nombre": "El Tesoro del Pirata",
-      "pais": "Cuba",
-      "descripcion": "Mito colonial sobre un tesoro enterrado y protegido por maldiciones.",
-      "historia": "En la costa sur de la isla, se dice que el pirata inglés Henry Morgan escondió un tesoro en una cueva protegida por conjuros africanos. Muchos han intentado encontrarlo, pero la mayoría ha fracasado misteriosamente.",
-      "url_fuentes": [
-        "https://www.ecured.cu/Pirater%C3%ADa_en_Cuba"
-      ]
-    },
-    {
-      "nombre": "El Niño de la Catedral",
-      "pais": "Cuba",
-      "descripcion": "Fantasma infantil que vaga por la catedral de La Habana.",
-      "historia": "Cuenta la leyenda urbana que un niño fallecido durante una ceremonia religiosa aún recorre los pasillos de la Catedral de La Habana. Se han escuchado risas y pasos en la noche, especialmente cerca del altar mayor.",
-      "url_fuentes": [
-        "https://www.cubania.com/blog/mitos-y-leyendas-de-cuba/"
-      ]
-    }
-  ]
-  
+  {
+    "id": "cu_01",
+    "nombre": "Itiba Cahubaba",
+    "pais": "Cuba",
+    "descripcion": "Diosa taína de la Tierra, madre de los cuatro gemelos creadores del mundo.",
+    "historia": "Itiba Cahubaba es una figura central en la mitología taína. Se dice que murió al dar a luz a cuatro gemelos, quienes, con su sacrificio, dieron origen a la humanidad, la tierra y el mar. Su culto estuvo presente en la región de la Sierra Maestra, en el oriente de Cuba.",
+    "url_fuentes": [
+      "https://www.ecured.cu/Itiba_Cahubaba",
+      "https://americanindian.si.edu/exhibitions/infinityofnations/meso-carib/127442.html"
+    ]
+  },
+  {
+    "id": "cu_02",
+    "nombre": "Yucahú Bagua Maórocoti",
+    "pais": "Cuba",
+    "descripcion": "Deidad taína de la yuca y el mar, protector de las cosechas.",
+    "historia": "Yucahú era la deidad suprema de la agricultura y el agua en la mitología taína. Se le veneraba como el señor de los conucos de yuca, garantizando la fertilidad de las tierras. Su culto estuvo presente en toda la isla, especialmente en las zonas rurales.",
+    "url_fuentes": [
+      "https://es.wikipedia.org/wiki/Yúcahu"
+    ]
+  },
+  {
+    "id": "cu_03",
+    "nombre": "La Luz de Yara",
+    "pais": "Cuba",
+    "descripcion": "Fenómeno luminoso atribuido al espíritu del cacique Hatuey.",
+    "historia": "En la región de Yara, provincia de Granma, se cuenta que una misteriosa luz aparece en las noches. Se cree que es el espíritu del cacique Hatuey, quien fue ejecutado por los conquistadores. Otra versión atribuye la luz al espíritu de Yara, una indígena enamorada de Hatuey.",
+    "url_fuentes": [
+      "https://es.wikipedia.org/wiki/Luz_de_Yara"
+    ]
+  },
+  {
+    "id": "cu_04",
+    "nombre": "El Güije",
+    "pais": "Cuba",
+    "descripcion": "Duende travieso que habita en ríos y charcas, protector de la naturaleza.",
+    "historia": "El Güije es un ser mitológico descrito como un pequeño duende de piel oscura, ojos saltones y cabello enmarañado. Se dice que habita en cuerpos de agua y aparece por las noches para asustar a los viajeros. Es considerado un guardián de la naturaleza.",
+    "url_fuentes": [
+      "https://es.wikipedia.org/wiki/Güije"
+    ]
+  },
+  {
+    "id": "cu_05",
+    "nombre": "Toa, la Rana Sagrada",
+    "pais": "Cuba",
+    "descripcion": "Rana venerada por los taínos como símbolo de fertilidad y origen de los niños.",
+    "historia": "En la mitología taína, la rana Toa era considerada el origen de los niños. Se le rendía culto en rituales de fertilidad y se le asociaba con la lluvia y la abundancia.",
+    "url_fuentes": [
+      "https://letras-uruguay.espaciolatino.com/aaa/couceiro_rodriguez_avelino/vigencia_de_los_indoamericanos.htm"
+    ]
+  },
+  {
+    "id": "cu_06",
+    "nombre": "Opiyelguobirán",
+    "pais": "Cuba",
+    "descripcion": "Espíritu taíno con forma de perro guardián del mundo de los muertos.",
+    "historia": "Opiyelguobirán era un espíritu canino que protegía la entrada al Coaybay, el mundo de los muertos en la mitología taína. Se le consideraba un guía para las almas, y su imagen fue hallada en numerosas pictografías de cuevas del oriente cubano.",
+    "url_fuentes": [
+      "https://www.academia.edu/38300112/Los_tainos_y_su_cosmovision",
+      "https://americanindian.si.edu"
+    ]
+  },
+  {
+    "id": "cu_07",
+    "nombre": "Bayamanaco",
+    "pais": "Cuba",
+    "descripcion": "Dios taíno del fuego y el conocimiento.",
+    "historia": "Bayamanaco enseñó a los hombres a usar el fuego, considerado un regalo divino. En algunas versiones, lo escondía en una cueva, hasta que fue robado por el héroe Guahayona. Este mito era común en el occidente de la isla, especialmente en Pinar del Río.",
+    "url_fuentes": [
+      "https://www.mitologia.info/mitologia-taina/"
+    ]
+  },
+  {
+    "id": "cu_08",
+    "nombre": "Guabancex",
+    "pais": "Cuba",
+    "descripcion": "Diosa taína de las tormentas, el caos y la destrucción.",
+    "historia": "Guabancex era la deidad responsable de los huracanes y tormentas. Los taínos la temían, ya que su ira traía inundaciones y destrucción. Su culto estaba presente en las zonas montañosas del oriente cubano.",
+    "url_fuentes": [
+      "https://en.wikipedia.org/wiki/Guabancex"
+    ]
+  },
+  {
+    "id": "cu_09",
+    "nombre": "La Madre de Aguas",
+    "pais": "Cuba",
+    "descripcion": "Criatura mitológica mitad serpiente mitad mujer que habita los ríos.",
+    "historia": "Según la leyenda, esta criatura habita en ríos profundos y cuida de sus aguas. Se cree que si alguien intenta dañar el río, ella aparece para castigar a los intrusos. Se ha reportado su presencia en el río Zaza, en Sancti Spíritus.",
+    "url_fuentes": [
+      "https://www.ecured.cu/Madre_de_aguas"
+    ]
+  },
+  {
+    "id": "cu_10",
+    "nombre": "El Ciclón de los Espíritus",
+    "pais": "Cuba",
+    "descripcion": "Huracán mítico creado por los ancestros taínos como castigo divino.",
+    "historia": "Algunos relatos orales indígenas atribuyen el primer gran huracán de la historia a un castigo enviado por los ancestros ofendidos por el egoísmo humano. Este mito circula en zonas rurales de Camagüey y Las Tunas.",
+    "url_fuentes": [
+      "https://www.jstor.org/stable/25613238"
+    ]
+  },
+  {
+    "id": "cu_11",
+    "nombre": "Hatuey",
+    "pais": "Cuba",
+    "descripcion": "Cacique taíno convertido en símbolo de resistencia y leyenda heroica.",
+    "historia": "Hatuey fue un cacique taíno que lideró una rebelión contra los conquistadores españoles. Fue capturado y quemado vivo. Se dice que antes de morir rechazó el cielo cristiano. Su historia se transformó en leyenda en la zona de Bayamo.",
+    "url_fuentes": [
+      "https://es.wikipedia.org/wiki/Hatuey"
+    ]
+  },
+  {
+    "id": "cu_12",
+    "nombre": "La Mula de Noche",
+    "pais": "Cuba",
+    "descripcion": "Mujer maldita que se transforma en mula de fuego por las noches.",
+    "historia": "Este mito colonial narra que una mujer que traicionaba su fe católica con prácticas africanas fue maldecida a vagar como mula de fuego. Sus apariciones eran reportadas en los campos de Cienfuegos.",
+    "url_fuentes": [
+      "https://www.cubania.com/blog/mitos-y-leyendas-de-cuba/"
+    ]
+  },
+  {
+    "id": "cu_13",
+    "nombre": "El Espectro de San Juan de los Remedios",
+    "pais": "Cuba",
+    "descripcion": "Fantasma de un antiguo monje que protege la iglesia del pueblo.",
+    "historia": "Desde el siglo XVIII, se cuentan historias de un espectro encapuchado que aparece en la iglesia de San Juan de los Remedios. Según la leyenda, es un fraile que murió defendiendo las reliquias del templo durante una incursión pirata.",
+    "url_fuentes": [
+      "https://cubahora.cu/cultura/mitos-y-leyendas-de-cuba"
+    ]
+  },
+  {
+    "id": "cu_14",
+    "nombre": "El Tesoro del Pirata",
+    "pais": "Cuba",
+    "descripcion": "Mito colonial sobre un tesoro enterrado y protegido por maldiciones.",
+    "historia": "En la costa sur de la isla, se dice que el pirata inglés Henry Morgan escondió un tesoro en una cueva protegida por conjuros africanos. Muchos han intentado encontrarlo, pero la mayoría ha fracasado misteriosamente.",
+    "url_fuentes": [
+      "https://www.ecured.cu/Pirater%C3%ADa_en_Cuba"
+    ]
+  },
+  {
+    "id": "cu_15",
+    "nombre": "El Niño de la Catedral",
+    "pais": "Cuba",
+    "descripcion": "Fantasma infantil que vaga por la catedral de La Habana.",
+    "historia": "Cuenta la leyenda urbana que un niño fallecido durante una ceremonia religiosa aún recorre los pasillos de la Catedral de La Habana. Se han escuchado risas y pasos en la noche, especialmente cerca del altar mayor.",
+    "url_fuentes": [
+      "https://www.cubania.com/blog/mitos-y-leyendas-de-cuba/"
+    ]
+  }
+]

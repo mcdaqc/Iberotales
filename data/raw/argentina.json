@@ -1,132 +1,144 @@
 [
-    {
-      "nombre": "La Difunta Correa",
-      "pais": "Argentina",
-      "descripcion": "La Difunta Correa es una figura semilegendaria venerada en Argentina, especialmente en la región de Cuyo. Se cree que fue una joven llamada Deolinda Correa que murió de sed en el desierto sanjuanino durante las guerras civiles del siglo XIX, mientras buscaba a su esposo. Su historia ha dado origen a un culto popular, con santuarios y ofrendas en su honor.",
-      "historia": "Durante las guerras civiles argentinas del siglo XIX, Deolinda Correa emprendió un viaje por el desierto de San Juan con su hijo en brazos, en busca de su esposo reclutado a la fuerza. Agotada y sin agua, Deolinda murió en el camino. Días después, unos arrieros encontraron su cuerpo sin vida, pero su hijo seguía vivo, amamantándose de su madre. Este milagro dio origen a la veneración de la Difunta Correa, y su tumba en Vallecito, San Juan, se convirtió en un santuario visitado por miles de devotos que le atribuyen milagros y favores concedidos.",
-      "url_fuentes": [
-        "https://es.wikipedia.org/wiki/Difunta_Correa",
-        "https://www.culturagenial.com/es/mitos-leyendas-argentinas/"
-      ]
-    },
-    {
-      "nombre": "El Futre",
-      "pais": "Argentina",
-      "descripcion": "El Futre es un espíritu que, según la leyenda, aparece en las montañas de Mendoza, especialmente en las ruinas del antiguo ferrocarril que unía Mendoza con la ciudad de Los Andes. Se describe como un hombre elegantemente vestido que busca el dinero que le fue robado.",
-      "historia": "La leyenda narra que, en 1887, durante la construcción del ferrocarril en Mendoza, trabajaba un hombre apodado 'el Futre' por su forma elegante de vestir. Tras ser asesinado por sus compañeros para robarle el dinero que llevaba, su espíritu comenzó a aparecer en las noches, preguntando por el dinero que le robaron. Desde entonces, su figura fantasmal recorre las montañas mendocinas, especialmente en las noches oscuras, buscando justicia por su muerte.",
-      "url_fuentes": [
-        "https://www.culturagenial.com/es/mitos-leyendas-argentinas/"
-      ]
-    },
-    {
-      "nombre": "Leyenda del Cerro de los Siete Colores",
-      "pais": "Argentina",
-      "descripcion": "Esta leyenda explica el origen del Cerro de los Siete Colores, ubicado en Purmamarca, Jujuy. Según la tradición, los niños del pueblo pintaron el cerro durante la noche, dándole los colores que hoy lo caracterizan.",
-      "historia": "La leyenda cuenta que, hace mucho tiempo, el cerro que rodeaba el pueblo de Purmamarca era de un solo color y aburrido. Los niños del lugar, preocupados por la tristeza que esto causaba, decidieron pintarlo durante la noche mientras todos dormían. Al amanecer, los habitantes se sorprendieron al ver el cerro lleno de colores vibrantes. Desde entonces, el Cerro de los Siete Colores es un símbolo de alegría y belleza para el pueblo.",
-      "url_fuentes": [
-        "https://www.culturagenial.com/es/mitos-leyendas-argentinas/"
-      ]
-    },
-    {
-      "nombre": "El Lobisón",
-      "pais": "Argentina",
-      "descripcion": "El Lobisón es una criatura de la mitología guaraní, similar al hombre lobo europeo. Se cree que es el séptimo hijo varón de una familia, condenado a convertirse en una bestia durante las noches de luna llena.",
-      "historia": "Según la leyenda, el séptimo hijo varón de una familia está destinado a convertirse en el Lobisón, una criatura mitad hombre, mitad lobo, que deambula por los campos durante las noches de luna llena. Este ser es temido por su ferocidad y por atacar al ganado y a las personas. Para evitar esta maldición, se instauró la tradición de que el presidente de la nación sea el padrino de todos los séptimos hijos varones, otorgándoles protección y evitando su transformación en Lobisón.",
-      "url_fuentes": [
-        "https://www.culturagenial.com/es/mitos-leyendas-argentinas/",
-        "https://rle1903.neocities.org/DyTM_TP1/"
-      ]
-    },
-    {
-      "nombre": "La Telesita",
-      "pais": "Argentina",
-      "descripcion": "La Telesita es una figura legendaria del folclore santiagueño. Se dice que era una joven que amaba bailar y que murió en un incendio mientras danzaba. Su espíritu continúa apareciendo en las noches de fiesta.",
-      "historia": "La leyenda de la Telesita narra la historia de una joven campesina de Santiago del Estero, apasionada por el baile. Una noche, mientras danzaba en una fiesta, su casa se incendió y ella murió en el fuego. Desde entonces, su espíritu aparece en las fiestas populares, especialmente en las noches de luna llena, bailando sola o acompañando a los músicos. Los lugareños le rinden homenaje con danzas y ofrendas, manteniendo viva su memoria en el folclore regional.",
-      "url_fuentes": [
-        "https://es.wikipedia.org/wiki/Telesita",
-        "https://www.culturagenial.com/es/mitos-leyendas-argentinas/"
-      ]
-    },
-    {
-      "nombre": "La Luz Mala",
-      "pais": "Argentina",
-      "descripcion": "La Luz Mala es una de las leyendas más famosas del folclore argentino. Consiste en la aparición nocturna de una luz brillante que flota a poca altura del suelo. Se cree que es el espíritu de un difunto que no recibió sepultura cristiana.",
-      "historia": "Estas manifestaciones son muy temidas, ya que se identifica comúnmente a la luz mala como un 'alma en pena', el espíritu de un difunto que no recibió sepultura cristiana. Ante un encuentro, se recomienda popularmente decir una oración y luego morder la vaina del cuchillo; como último recurso, se las debía enfrentar con un arma blanca, ya que las armas de fuego resultaban inefectivas. En el noroeste argentino también se le da el nombre de luz mala al 'farol de Mandinga', fosforescencia que suele verse en cerros y quebradas durante los meses más secos, después de ponerse el Sol. Se asegura que el farol de Mandinga aparece en lugares en los que hay enterrados tesoros de oro y plata, y que la luz es el espíritu del antiguo dueño tratando de alejar del lugar a los extraños.",
-      "url_fuentes": [
-        "https://es.wikipedia.org/wiki/Luz_mala",
-        "https://www.culturagenial.com/es/mitos-leyendas-argentinas/"
-        ]
-    },
-    {
-      "nombre": "Nahuelito",
-      "pais": "Argentina",
-      "descripcion": "Nahuelito es una criatura legendaria que, según relatos populares, habita las profundidades del lago Nahuel Huapi, en la Patagonia argentina. Se describe como un ser de gran tamaño, similar a un plesiosaurio, y su existencia ha sido objeto de avistamientos y especulaciones durante décadas.",
-      "historia": "La leyenda de Nahuelito se remonta a tiempos ancestrales, con relatos de los pueblos originarios que hablaban de una criatura misteriosa en el lago. En el siglo XX, comenzaron a surgir testimonios de lugareños y turistas que afirmaban haber visto una figura enorme desplazándose por las aguas. Estos avistamientos, junto con fotografías y reportes periodísticos, alimentaron la creencia en la existencia de Nahuelito. Aunque no hay pruebas científicas concluyentes, la leyenda persiste y forma parte del folclore de la región.",
-      "url_fuentes": [
-        "https://www.culturagenial.com/es/mitos-leyendas-argentinas/",
-        "https://www.lifeder.com/leyendas-argentinas-cortas/"
-      ]
-    },
-    {
-      "nombre": "La Dama de la Vela",
-      "pais": "Argentina",
-      "descripcion": "La Dama de la Vela es una aparición fantasmal que, según la leyenda, se manifiesta en ciertas calles de Buenos Aires. Se describe como una mujer vestida de blanco que sostiene una vela encendida, y su presencia está asociada a eventos trágicos del pasado.",
-      "historia": "La historia cuenta que, en el siglo XIX, una joven de familia adinerada fue obligada a casarse con un hombre al que no amaba. Desesperada, la noche antes de la boda, salió a caminar por las calles con una vela, esperando encontrar una solución a su dilema. Al día siguiente, fue encontrada muerta en circunstancias misteriosas. Desde entonces, hay quienes afirman haber visto su figura errante, con la vela en mano, buscando paz para su alma.",
-      "url_fuentes": [
-        "https://www.lifeder.com/leyendas-argentinas-cortas/",
-        "https://www.todomenosleer.com/post/leyendas-argentinas-cortas-las-10-leyendas-argentinas-m%C3%A1s-famosas"
-      ]
-    },
-    {
-      "nombre": "El Pombero",
-      "pais": "Argentina",
-      "descripcion": "El Pombero es una criatura mítica del folclore guaraní, presente en las provincias del norte de Argentina. Se le describe como un ser pequeño, de aspecto humanoide, que habita en los montes y protege la naturaleza. Es conocido por su capacidad para volverse invisible y por jugarle bromas a quienes no respetan el entorno natural.",
-      "historia": "Según la tradición, el Pombero cuida los bosques y castiga a quienes dañan la flora y fauna. Se dice que puede imitar sonidos de animales y que se desplaza sin ser visto. Los lugareños suelen dejarle ofrendas, como tabaco o caña, para ganarse su favor y evitar sus travesuras. A pesar de su naturaleza traviesa, también es considerado un protector de los niños y los animales.",
-      "url_fuentes": [
-        "https://www.culturagenial.com/es/mitos-leyendas-argentinas/",
-        "https://www.lifeder.com/leyendas-argentinas-cortas/"
-      ]
-    },
-    {
-      "nombre": "El Familiar",
-      "pais": "Argentina",
-      "descripcion": "El Familiar es una figura legendaria del noroeste argentino, especialmente en las provincias de Tucumán y Salta. Se le representa como un perro negro de gran tamaño, asociado con pactos demoníacos y prácticas ocultas.",
-      "historia": "La leyenda del Familiar surge en el contexto de las plantaciones de azúcar del siglo XIX. Se decía que algunos capataces hacían pactos con el diablo, obteniendo a cambio un perro negro que les ayudaba a mantener el control sobre los trabajadores. Este perro, el Familiar, se alimentaba de la sangre de los obreros y era temido por todos. La historia refleja las condiciones de explotación laboral de la época y el miedo que generaban ciertos personajes de poder.",
-      "url_fuentes": [
-        "https://www.lifeder.com/leyendas-argentinas-cortas/",
-        "https://www.culturagenial.com/es/mitos-leyendas-argentinas/"
-      ]
-    },
-    {
-      "nombre": "La Leyenda de la Nativa Mariana",
-      "pais": "Argentina",
-      "descripcion": "La leyenda de la Nativa Mariana es originaria de la provincia de San Juan. Cuenta la historia de una mujer indígena que poseía piedras de oro y que, al ser interrogada sobre su origen, siempre respondía que las obtenía de un 'pocito'. Esta historia está vinculada al origen del nombre del departamento de Pocito.",
-      "historia": "En el siglo XVII, en la región que hoy se conoce como Pocito, vivía una mujer indígena llamada Mariana. Ella solía pagar sus compras con pequeñas piedras de oro. Cuando los pobladores le preguntaban de dónde las sacaba, ella respondía que las conseguía de un 'pocito'. Este hecho misterioso dio origen a la leyenda y, según se cree, al nombre del lugar. En honor a Mariana, existe una escultura en una de las plazas de Pocito.",
-      "url_fuentes": [
-        "https://www.culturagenial.com/es/mitos-leyendas-argentinas/"
-      ]
-    },
-    {
-        "nombre": "El Curupí",
-        "pais": "Argentina",
-        "descripcion": "Ser mitológico del folclore guaraní, representado como un duende travieso con pelo largo y miembros grandes, protector de la naturaleza.",
-        "historia": "El Curupí es un personaje del folclore guaraní, presente en las provincias del noreste argentino. Es descrito como un ser pequeño, con pene muy largo y cabello enmarañado, que protege los bosques y juega bromas a los humanos. Se le atribuyen historias de travesuras y castigos para quienes dañan la naturaleza.",
-        "url_fuentes": [
-          "https://es.wikipedia.org/wiki/Curup%C3%AD",
-          "https://www.culturagenial.com/es/curupi/",
-          "https://www.argentina.gob.ar/cultura/mitos-y-leyendas"
-        ]
-      },
-      {
-        "nombre": "La Tunda",
-        "pais": "Argentina",
-        "descripcion": "Monstruo femenino del folclore del litoral argentino y Uruguay, que atrae a las personas para devorarlas o mantenerlas cautivas.",
-        "historia": "La Tunda es una figura terrorífica que habita en los bosques y ríos del litoral. Se dice que puede adoptar la apariencia de una persona cercana para atraer a sus víctimas. Luego las mantiene hipnotizadas o las devora. Es una leyenda usada para advertir a los niños sobre los peligros de los bosques.",
-        "url_fuentes": [
-          "https://es.wikipedia.org/wiki/La_Tunda",
-          "https://www.culturagenial.com/es/la-tunda/",
-          "https://www.argentina.gob.ar/cultura/mitos-y-leyendas"
-        ]
-      }
-  ]
-    
+  {
+    "id": "ar_01",
+    "nombre": "La Difunta Correa",
+    "pais": "Argentina",
+    "descripcion": "La Difunta Correa es una figura semilegendaria venerada en Argentina, especialmente en la región de Cuyo. Se cree que fue una joven llamada Deolinda Correa que murió de sed en el desierto sanjuanino durante las guerras civiles del siglo XIX, mientras buscaba a su esposo. Su historia ha dado origen a un culto popular, con santuarios y ofrendas en su honor.",
+    "historia": "Durante las guerras civiles argentinas del siglo XIX, Deolinda Correa emprendió un viaje por el desierto de San Juan con su hijo en brazos, en busca de su esposo reclutado a la fuerza. Agotada y sin agua, Deolinda murió en el camino. Días después, unos arrieros encontraron su cuerpo sin vida, pero su hijo seguía vivo, amamantándose de su madre. Este milagro dio origen a la veneración de la Difunta Correa, y su tumba en Vallecito, San Juan, se convirtió en un santuario visitado por miles de devotos que le atribuyen milagros y favores concedidos.",
+    "url_fuentes": [
+      "https://es.wikipedia.org/wiki/Difunta_Correa",
+      "https://www.culturagenial.com/es/mitos-leyendas-argentinas/"
+    ]
+  },
+  {
+    "id": "ar_02",
+    "nombre": "El Futre",
+    "pais": "Argentina",
+    "descripcion": "El Futre es un espíritu que, según la leyenda, aparece en las montañas de Mendoza, especialmente en las ruinas del antiguo ferrocarril que unía Mendoza con la ciudad de Los Andes. Se describe como un hombre elegantemente vestido que busca el dinero que le fue robado.",
+    "historia": "La leyenda narra que, en 1887, durante la construcción del ferrocarril en Mendoza, trabajaba un hombre apodado 'el Futre' por su forma elegante de vestir. Tras ser asesinado por sus compañeros para robarle el dinero que llevaba, su espíritu comenzó a aparecer en las noches, preguntando por el dinero que le robaron. Desde entonces, su figura fantasmal recorre las montañas mendocinas, especialmente en las noches oscuras, buscando justicia por su muerte.",
+    "url_fuentes": [
+      "https://www.culturagenial.com/es/mitos-leyendas-argentinas/"
+    ]
+  },
+  {
+    "id": "ar_03",
+    "nombre": "Leyenda del Cerro de los Siete Colores",
+    "pais": "Argentina",
+    "descripcion": "Esta leyenda explica el origen del Cerro de los Siete Colores, ubicado en Purmamarca, Jujuy. Según la tradición, los niños del pueblo pintaron el cerro durante la noche, dándole los colores que hoy lo caracterizan.",
+    "historia": "La leyenda cuenta que, hace mucho tiempo, el cerro que rodeaba el pueblo de Purmamarca era de un solo color y aburrido. Los niños del lugar, preocupados por la tristeza que esto causaba, decidieron pintarlo durante la noche mientras todos dormían. Al amanecer, los habitantes se sorprendieron al ver el cerro lleno de colores vibrantes. Desde entonces, el Cerro de los Siete Colores es un símbolo de alegría y belleza para el pueblo.",
+    "url_fuentes": [
+      "https://www.culturagenial.com/es/mitos-leyendas-argentinas/"
+    ]
+  },
+  {
+    "id": "ar_04",
+    "nombre": "El Lobisón",
+    "pais": "Argentina",
+    "descripcion": "El Lobisón es una criatura de la mitología guaraní, similar al hombre lobo europeo. Se cree que es el séptimo hijo varón de una familia, condenado a convertirse en una bestia durante las noches de luna llena.",
+    "historia": "Según la leyenda, el séptimo hijo varón de una familia está destinado a convertirse en el Lobisón, una criatura mitad hombre, mitad lobo, que deambula por los campos durante las noches de luna llena. Este ser es temido por su ferocidad y por atacar al ganado y a las personas. Para evitar esta maldición, se instauró la tradición de que el presidente de la nación sea el padrino de todos los séptimos hijos varones, otorgándoles protección y evitando su transformación en Lobisón.",
+    "url_fuentes": [
+      "https://www.culturagenial.com/es/mitos-leyendas-argentinas/",
+      "https://rle1903.neocities.org/DyTM_TP1/"
+    ]
+  },
+  {
+    "id": "ar_05",
+    "nombre": "La Telesita",
+    "pais": "Argentina",
+    "descripcion": "La Telesita es una figura legendaria del folclore santiagueño. Se dice que era una joven que amaba bailar y que murió en un incendio mientras danzaba. Su espíritu continúa apareciendo en las noches de fiesta.",
+    "historia": "La leyenda de la Telesita narra la historia de una joven campesina de Santiago del Estero, apasionada por el baile. Una noche, mientras danzaba en una fiesta, su casa se incendió y ella murió en el fuego. Desde entonces, su espíritu aparece en las fiestas populares, especialmente en las noches de luna llena, bailando sola o acompañando a los músicos. Los lugareños le rinden homenaje con danzas y ofrendas, manteniendo viva su memoria en el folclore regional.",
+    "url_fuentes": [
+      "https://es.wikipedia.org/wiki/Telesita",
+      "https://www.culturagenial.com/es/mitos-leyendas-argentinas/"
+    ]
+  },
+  {
+    "id": "ar_06",
+    "nombre": "La Luz Mala",
+    "pais": "Argentina",
+    "descripcion": "La Luz Mala es una de las leyendas más famosas del folclore argentino. Consiste en la aparición nocturna de una luz brillante que flota a poca altura del suelo. Se cree que es el espíritu de un difunto que no recibió sepultura cristiana.",
+    "historia": "Estas manifestaciones son muy temidas, ya que se identifica comúnmente a la luz mala como un 'alma en pena', el espíritu de un difunto que no recibió sepultura cristiana. Ante un encuentro, se recomienda popularmente decir una oración y luego morder la vaina del cuchillo; como último recurso, se las debía enfrentar con un arma blanca, ya que las armas de fuego resultaban inefectivas. En el noroeste argentino también se le da el nombre de luz mala al 'farol de Mandinga', fosforescencia que suele verse en cerros y quebradas durante los meses más secos, después de ponerse el Sol. Se asegura que el farol de Mandinga aparece en lugares en los que hay enterrados tesoros de oro y plata, y que la luz es el espíritu del antiguo dueño tratando de alejar del lugar a los extraños.",
+    "url_fuentes": [
+      "https://es.wikipedia.org/wiki/Luz_mala",
+      "https://www.culturagenial.com/es/mitos-leyendas-argentinas/"
+    ]
+  },
+  {
+    "id": "ar_07",
+    "nombre": "Nahuelito",
+    "pais": "Argentina",
+    "descripcion": "Nahuelito es una criatura legendaria que, según relatos populares, habita las profundidades del lago Nahuel Huapi, en la Patagonia argentina. Se describe como un ser de gran tamaño, similar a un plesiosaurio, y su existencia ha sido objeto de avistamientos y especulaciones durante décadas.",
+    "historia": "La leyenda de Nahuelito se remonta a tiempos ancestrales, con relatos de los pueblos originarios que hablaban de una criatura misteriosa en el lago. En el siglo XX, comenzaron a surgir testimonios de lugareños y turistas que afirmaban haber visto una figura enorme desplazándose por las aguas. Estos avistamientos, junto con fotografías y reportes periodísticos, alimentaron la creencia en la existencia de Nahuelito. Aunque no hay pruebas científicas concluyentes, la leyenda persiste y forma parte del folclore de la región.",
+    "url_fuentes": [
+      "https://www.culturagenial.com/es/mitos-leyendas-argentinas/",
+      "https://www.lifeder.com/leyendas-argentinas-cortas/"
+    ]
+  },
+  {
+    "id": "ar_08",
+    "nombre": "La Dama de la Vela",
+    "pais": "Argentina",
+    "descripcion": "La Dama de la Vela es una aparición fantasmal que, según la leyenda, se manifiesta en ciertas calles de Buenos Aires. Se describe como una mujer vestida de blanco que sostiene una vela encendida, y su presencia está asociada a eventos trágicos del pasado.",
+    "historia": "La historia cuenta que, en el siglo XIX, una joven de familia adinerada fue obligada a casarse con un hombre al que no amaba. Desesperada, la noche antes de la boda, salió a caminar por las calles con una vela, esperando encontrar una solución a su dilema. Al día siguiente, fue encontrada muerta en circunstancias misteriosas. Desde entonces, hay quienes afirman haber visto su figura errante, con la vela en mano, buscando paz para su alma.",
+    "url_fuentes": [
+      "https://www.lifeder.com/leyendas-argentinas-cortas/",
+      "https://www.todomenosleer.com/post/leyendas-argentinas-cortas-las-10-leyendas-argentinas-m%C3%A1s-famosas"
+    ]
+  },
+  {
+    "id": "ar_09",
+    "nombre": "El Pombero",
+    "pais": "Argentina",
+    "descripcion": "El Pombero es una criatura mítica del folclore guaraní, presente en las provincias del norte de Argentina. Se le describe como un ser pequeño, de aspecto humanoide, que habita en los montes y protege la naturaleza. Es conocido por su capacidad para volverse invisible y por jugarle bromas a quienes no respetan el entorno natural.",
+    "historia": "Según la tradición, el Pombero cuida los bosques y castiga a quienes dañan la flora y fauna. Se dice que puede imitar sonidos de animales y que se desplaza sin ser visto. Los lugareños suelen dejarle ofrendas, como tabaco o caña, para ganarse su favor y evitar sus travesuras. A pesar de su naturaleza traviesa, también es considerado un protector de los niños y los animales.",
+    "url_fuentes": [
+      "https://www.culturagenial.com/es/mitos-leyendas-argentinas/",
+      "https://www.lifeder.com/leyendas-argentinas-cortas/"
+    ]
+  },
+  {
+    "id": "ar_10",
+    "nombre": "El Familiar",
+    "pais": "Argentina",
+    "descripcion": "El Familiar es una figura legendaria del noroeste argentino, especialmente en las provincias de Tucumán y Salta. Se le representa como un perro negro de gran tamaño, asociado con pactos demoníacos y prácticas ocultas.",
+    "historia": "La leyenda del Familiar surge en el contexto de las plantaciones de azúcar del siglo XIX. Se decía que algunos capataces hacían pactos con el diablo, obteniendo a cambio un perro negro que les ayudaba a mantener el control sobre los trabajadores. Este perro, el Familiar, se alimentaba de la sangre de los obreros y era temido por todos. La historia refleja las condiciones de explotación laboral de la época y el miedo que generaban ciertos personajes de poder.",
+    "url_fuentes": [
+      "https://www.lifeder.com/leyendas-argentinas-cortas/",
+      "https://www.culturagenial.com/es/mitos-leyendas-argentinas/"
+    ]
+  },
+  {
+    "id": "ar_11",
+    "nombre": "La Leyenda de la Nativa Mariana",
+    "pais": "Argentina",
+    "descripcion": "La leyenda de la Nativa Mariana es originaria de la provincia de San Juan. Cuenta la historia de una mujer indígena que poseía piedras de oro y que, al ser interrogada sobre su origen, siempre respondía que las obtenía de un 'pocito'. Esta historia está vinculada al origen del nombre del departamento de Pocito.",
+    "historia": "En el siglo XVII, en la región que hoy se conoce como Pocito, vivía una mujer indígena llamada Mariana. Ella solía pagar sus compras con pequeñas piedras de oro. Cuando los pobladores le preguntaban de dónde las sacaba, ella respondía que las conseguía de un 'pocito'. Este hecho misterioso dio origen a la leyenda y, según se cree, al nombre del lugar. En honor a Mariana, existe una escultura en una de las plazas de Pocito.",
+    "url_fuentes": [
+      "https://www.culturagenial.com/es/mitos-leyendas-argentinas/"
+    ]
+  },
+  {
+    "id": "ar_12",
+    "nombre": "El Curupí",
+    "pais": "Argentina",
+    "descripcion": "Ser mitológico del folclore guaraní, representado como un duende travieso con pelo largo y miembros grandes, protector de la naturaleza.",
+    "historia": "El Curupí es un personaje del folclore guaraní, presente en las provincias del noreste argentino. Es descrito como un ser pequeño, con pene muy largo y cabello enmarañado, que protege los bosques y juega bromas a los humanos. Se le atribuyen historias de travesuras y castigos para quienes dañan la naturaleza.",
+    "url_fuentes": [
+      "https://es.wikipedia.org/wiki/Curup%C3%AD",
+      "https://www.culturagenial.com/es/curupi/",
+      "https://www.argentina.gob.ar/cultura/mitos-y-leyendas"
+    ]
+  },
+  {
+    "id": "ar_13",
+    "nombre": "La Tunda",
+    "pais": "Argentina",
+    "descripcion": "Monstruo femenino del folclore del litoral argentino y Uruguay, que atrae a las personas para devorarlas o mantenerlas cautivas.",
+    "historia": "La Tunda es una figura terrorífica que habita en los bosques y ríos del litoral. Se dice que puede adoptar la apariencia de una persona cercana para atraer a sus víctimas. Luego las mantiene hipnotizadas o las devora. Es una leyenda usada para advertir a los niños sobre los peligros de los bosques.",
+    "url_fuentes": [
+      "https://es.wikipedia.org/wiki/La_Tunda",
+      "https://www.culturagenial.com/es/la-tunda/",
+      "https://www.argentina.gob.ar/cultura/mitos-y-leyendas"
+    ]
+  }
+]

@@ -1,5 +1,6 @@
 [
   {
+    "id": "ec_01",
     "nombre": "Umiña",
     "pais": "Ecuador",
     "descripcion": "Diosa de la sanación venerada por los Mantas, representada por una esmeralda de gran tamaño con supuestos poderes curativos.",
@@ -9,6 +10,7 @@
     ]
   },
   {
+    "id": "ec_02",
     "nombre": "El Riviel",
     "pais": "Ecuador",
     "descripcion": "Espíritu nocturno de la mitología afroecuatoriana que navega por los ríos en una canoa con forma de ataúd, asustando y ahogando a los viajeros.",
@@ -18,6 +20,7 @@
     ]
   },
   {
+    "id": "ec_03",
     "nombre": "Salun",
     "pais": "Ecuador",
     "descripcion": "Héroe mitológico de la cultura Tsáchila, asociado tanto con la creación del sol como con espíritus del río.",
@@ -27,6 +30,7 @@
     ]
   },
   {
+    "id": "ec_04",
     "nombre": "Chuzalongo",
     "pais": "Ecuador",
     "descripcion": "Criatura fantástica de los Andes ecuatorianos, descrita como un ser pequeño con cabello largo y rubio, conocido por su comportamiento lascivo.",
@@ -36,6 +40,7 @@
     ]
   },
   {
+    "id": "ec_05",
     "nombre": "Guayas y Quil",
     "pais": "Ecuador",
     "descripcion": "Pareja de aborígenes huancavilcas que prefirieron la muerte antes que rendirse a los conquistadores españoles.",
@@ -45,6 +50,7 @@
     ]
   },
   {
+    "id": "ec_06",
     "nombre": "La Dama Tapada",
     "pais": "Ecuador",
     "descripcion": "Espíritu de una mujer que aparece en las noches de luna nueva en Guayaquil, buscando a su esposo perdido.",
@@ -54,6 +60,7 @@
     ]
   },
   {
+    "id": "ec_07",
     "nombre": "El Atrio de Cantuña",
     "pais": "Ecuador",
     "descripcion": "Leyenda colonial sobre un indígena que pactó con el diablo para construir el atrio de la Iglesia de San Francisco en Quito.",
@@ -63,6 +70,7 @@
     ]
   },
   {
+    "id": "ec_08",
     "nombre": "Aya Uma",
     "pais": "Ecuador",
     "descripcion": "Espíritu protector de la cosecha en la cultura kichwa, representado con dos rostros y una máscara colorida, símbolo de dualidad y equilibrio.",
@@ -72,6 +80,7 @@
     ]
   },
   {
+    "id": "ec_09",
     "nombre": "Nunkui",
     "pais": "Ecuador",
     "descripcion": "Deidad femenina de la cultura shuar, protectora de la agricultura y los cultivos, especialmente de la yuca.",
@@ -81,6 +90,7 @@
     ]
   },
   {
+    "id": "ec_10",
     "nombre": "Tintín",
     "pais": "Ecuador",
     "descripcion": "Duende travieso de la región costera, conocido por enamorar a mujeres y desaparecer en la selva.",
@@ -90,6 +100,7 @@
     ]
   },
   {
+    "id": "ec_11",
     "nombre": "La Doncella de Pumapungo",
     "pais": "Ecuador",
     "descripcion": "Espíritu de una joven inca que murió de pena en Pumapungo, Cuenca, tras la muerte de su amado.",
@@ -99,6 +110,7 @@
     ]
   },
   {
+    "id": "ec_12",
     "nombre": "El Demonio del Barranco",
     "pais": "Ecuador",
     "descripcion": "Entidad maligna que habita en los barrancos, intentando arrastrar casas y personas hacia el río.",
@@ -108,6 +120,7 @@
     ]
   },
   {
+    "id": "ec_13",
     "nombre": "La Princesa Triste de Santa Ana",
     "pais": "Ecuador",
     "descripcion": "Espíritu de una princesa que llora eternamente por su amor perdido en Santa Ana, Manabí.",
@@ -117,6 +130,7 @@
     ]
   },
   {
+    "id": "ec_14",
     "nombre": "La Canoíta Fantasmática",
     "pais": "Ecuador",
     "descripcion": "Espectro de una mujer que rema eternamente en una canoa por los ríos de Guayaquil.",
@@ -126,6 +140,7 @@
     ]
   },
   {
+    "id": "ec_15",
     "nombre": "La Posorja",
     "pais": "Ecuador",
     "descripcion": "Espíritu de una niña vidente que apareció en Posorja, prediciendo la llegada de los conquistadores.",
@@ -135,6 +150,7 @@
     ]
   },
   {
+    "id": "ec_16",
     "nombre": "Atsil-Yaya y Sami-Mama",
     "pais": "Ecuador",
     "descripcion": "Deidades primigenias de la cosmogonía kichwa; Atsil-Yaya representa el espíritu vital masculino y Sami-Mama el femenino, cuya unión dio origen al universo.",
@@ -144,6 +160,7 @@
     ]
   },
   {
+    "id": "ec_17",
     "nombre": "Nunkui",
     "pais": "Ecuador",
     "descripcion": "Deidad femenina de la cultura shuar, protectora de la agricultura y los cultivos, especialmente de la yuca.",
@@ -153,6 +170,7 @@
     ]
   },
   {
+    "id": "ec_18",
     "nombre": "Kuartam",
     "pais": "Ecuador",
     "descripcion": "Espíritu en forma de sapo de la mitología shuar, asociado a advertencias y presagios en la selva.",
@@ -162,6 +180,7 @@
     ]
   },
   {
+    "id": "ec_19",
     "nombre": "Yacuruna",
     "pais": "Ecuador",
     "descripcion": "Espíritu acuático de la Amazonía ecuatoriana, conocido por su capacidad de transformarse y controlar a los animales del agua.",
@@ -171,6 +190,7 @@
     ]
   },
   {
+    "id": "ec_20",
     "nombre": "Amaru",
     "pais": "Ecuador",
     "descripcion": "Ser mitológico andino con cuerpo de serpiente, alas de águila y cabeza de llama, asociado a la fertilidad y al agua.",

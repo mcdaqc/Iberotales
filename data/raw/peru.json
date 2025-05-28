@@ -1,580 +1,634 @@
 [
-    {
-      "nombre": "El Chullachaqui",
-      "pais": "Perú",
-      "descripcion": "El Chullachaqui es un ser mítico de la Amazonía peruana, conocido por su habilidad para adoptar la apariencia de personas conocidas y engañar a los viajeros.",
-      "historia": "Según la leyenda, el Chullachaqui habita en las profundidades de la selva y posee la capacidad de transformarse en cualquier persona o animal. Sin embargo, siempre deja una pista: uno de sus pies es más pequeño o está torcido. Se dice que atrae a los viajeros haciéndose pasar por seres queridos, llevándolos a perderse en la selva. Algunos creen que es el espíritu guardián de la selva, castigando a quienes la dañan.",
-      "url_fuentes": [
-        "https://www.peru.travel/es/masperu/5-personajes-miticos-y-leyendas-populares-del-peru"
-      ]
-    },
-    {
-      "nombre": "La Casa Matusita",
-      "pais": "Perú",
-      "descripcion": "La Casa Matusita es una de las edificaciones más famosas de Lima, conocida por las historias de fenómenos paranormales que la rodean.",
-      "historia": "Ubicada en el centro de Lima, la Casa Matusita ha sido objeto de múltiples relatos sobre apariciones, ruidos extraños y sucesos inexplicables. Se dice que en el pasado ocurrieron tragedias en su interior, como asesinatos y prácticas de brujería, lo que habría dejado una carga energética negativa. Aunque muchos de estos relatos son considerados leyendas urbanas, la casa sigue siendo un punto de interés para los amantes de lo paranormal.",
-      "url_fuentes": [
-        "https://www.culturagenial.com/es/leyendas-peruanas/"
-      ]
-    },
-    {
-      "nombre": "El Muki o Duende Minero",
-      "pais": "Perú",
-      "descripcion": "El Muki es una criatura mítica que habita en las minas de los Andes peruanos, conocida por su aspecto pequeño y su comportamiento travieso.",
-      "historia": "La leyenda del Muki es común entre los mineros de la sierra peruana. Se describe como un ser de baja estatura, con barba y ojos brillantes, que vive en las profundidades de las minas. Se dice que puede ayudar a los mineros, guiándolos hacia vetas ricas, pero también puede ser peligroso si se le falta el respeto. Algunos mineros dejan ofrendas para apaciguarlo y evitar su ira.",
-      "url_fuentes": [
-        "https://www.peru.travel/es/masperu/cuales-son-las-leyendas-mas-conocidas-de-los-andes-peruanos"
-      ]
-    },
-    {
-      "nombre": "El Sapo de Piedra",
-      "pais": "Perú",
-      "descripcion": "El Sapo de Piedra es una leyenda de la región de Pasco, que habla de una anciana y un sapo gigante que causó estragos en su cosecha.",
-      "historia": "Según la narración, una anciana vivía en un pequeño pueblo y era envidiada por su abundante cosecha. Un día, un enorme sapo apareció y destruyó sus cultivos. La anciana, enojada, lanzó un hechizo que hizo que el sapo y parte del pueblo quedaran petrificados. Se dice que aún hoy se pueden ver las formaciones rocosas que representan al sapo y a la anciana.",
-      "url_fuentes": [
-        "https://www.culturagenial.com/es/leyendas-peruanas/"
-      ]
-    },
-    {
-      "nombre": "Naylamp",
-      "pais": "Perú",
-      "descripcion": "Naylamp es un personaje mítico considerado el fundador de la civilización Lambayeque en la costa norte del Perú.",
-      "historia": "La leyenda cuenta que Naylamp llegó por mar en una gran flota de balsas, trayendo consigo conocimientos avanzados en agricultura, arquitectura y tecnología. Fundó la ciudad de Lambayeque y gobernó sabiamente. Tras su desaparición misteriosa, sus descendientes continuaron su legado. Naylamp es visto como un símbolo de civilización y progreso en la región.",
-      "url_fuentes": [
-        "https://www.cooperatingvolunteers.com/america/leyendas-peruanas/"
-      ]
-    },
-    {
-      "nombre": "La Mazorca de Oro",
-      "pais": "Perú",
-      "descripcion": "La Mazorca de Oro es una leyenda que habla de una mujer que, tras una jornada difícil, encuentra una mazorca dorada que cambia su vida.",
-      "historia": "Una mujer trabajadora, agotada y sin recursos, se lamentaba por su suerte cuando, de repente, encontró una mazorca de maíz que brillaba intensamente. Al recogerla, su vida cambió para mejor, obteniendo prosperidad y felicidad. La historia enseña sobre la recompensa al esfuerzo y la esperanza en tiempos difíciles.",
-      "url_fuentes": [
-        "https://www.culturagenial.com/es/leyendas-peruanas/"
-      ]
-    },
-    {
-      "nombre": "El Niño Encantado",
-      "pais": "Perú",
-      "descripcion": "El Niño Encantado es una leyenda de Lima que narra la desaparición misteriosa de un niño en una laguna.",
-      "historia": "Un niño de 12 años, tras perder su ración de comida, se acercó a una laguna llorando. Una mujer emergió del agua y le ofreció comida, llevándolo consigo a las profundidades. Nunca más se le vio. Días después, sus padres encontraron una cueva donde vieron al niño y a la mujer, pero al intentar rescatarlo, ambos desaparecieron. Se cree que el niño fue encantado por un espíritu del agua.",
-      "url_fuentes": [
-        "https://psicologiaymente.com/cultura/leyendas-peruanas"
-      ]
-    },
-    {
-        "nombre": "El Toro Encantado de Razuhuillca",
-        "pais": "Perú",
-        "descripcion": "Una leyenda de Ayacucho que narra la historia de un toro negro encadenado en una laguna, cuya liberación provocó una gran inundación.",
-        "historia": "En la provincia de Huanta, Ayacucho, se encuentra la laguna Razuhuillca. La leyenda cuenta que en sus profundidades habita un hermoso toro negro, sujeto por una cadena de oro sostenida por una anciana de cabello blanco. Un día, el toro logró liberarse y emergió a la superficie, causando una inundación que arrasó con el pueblo de Huanta. Desde entonces, se dice que la anciana mantiene al toro encadenado para evitar futuras catástrofes.",
-        "url_fuentes": [
-          "https://psicologiaymente.com/cultura/leyendas-peruanas"
-        ]
-      },
-      {
-        "nombre": "La Huega",
-        "pais": "Perú",
-        "descripcion": "Una leyenda de Ica que relata la historia de una mujer convertida en sirena, que atrae a los hombres hacia su perdición.",
-        "historia": "En la región de Ica, se cuenta la historia de una mujer que fue transformada en sirena como castigo por su vanidad y crueldad. Desde entonces, habita en las aguas, donde con su canto melodioso atrae a los hombres, quienes al seguirla, desaparecen sin dejar rastro. La leyenda sirve como advertencia sobre los peligros de la vanidad y la seducción.",
-        "url_fuentes": [
-          "https://psicologiaymente.com/cultura/leyendas-peruanas"
-        ]
-      },
-      {
-        "nombre": "El Tunche",
-        "pais": "Perú",
-        "descripcion": "Un espíritu vengativo de la Amazonía peruana que emite un silbido aterrador y castiga a quienes dañan la selva.",
-        "historia": "El Tunche es un alma en pena que vaga por la selva, emitiendo un silbido agudo que hiela la sangre. Se cree que es el espíritu de una persona que murió violentamente o que cometió actos atroces. El Tunche castiga a quienes dañan la selva o faltan al respeto a sus habitantes. Si alguien escucha su silbido, debe permanecer en silencio y rezar, pues responder al llamado puede ser fatal.",
-        "url_fuentes": [
-          "https://www.machupicchuterra.com/es/guia/leyendas-mitos-populares-peru/"
-        ]
-      },
-      {
-        "nombre": "El Jarjacha",
-        "pais": "Perú",
-        "descripcion": "Una criatura híbrida de la sierra peruana, resultado de incesto, que castiga a los pecadores con su presencia aterradora.",
-        "historia": "El Jarjacha es una criatura con cuerpo de alpaca y cabeza humana, que aparece en las noches en los Andes peruanos. Se dice que es el castigo para quienes cometen incesto, transformándose en este ser monstruoso. El Jarjacha emite un sonido espeluznante y persigue a los pecadores, causando terror en las comunidades andinas.",
-        "url_fuentes": [
-          "https://es.scribd.com/document/581656992/MITOS-PERUANOS"
-        ]
-      },
-      {
-        "nombre": "El Kharisiri",
-        "pais": "Perú",
-        "descripcion": "Un personaje mítico que extrae la grasa y sangre de sus víctimas para realizar rituales oscuros.",
-        "historia": "El Kharisiri, también conocido como 'sacamantecas', es un ser que ataca a las personas para extraer su grasa y sangre, que luego utiliza en rituales o vende a brujos. Se dice que actúa en la noche y que sus víctimas suelen enfermar gravemente o morir. La leyenda refleja el temor a lo desconocido y a las prácticas ocultas.",
-        "url_fuentes": [
-          "https://es.scribd.com/document/581656992/MITOS-PERUANOS"
-        ]
-      },
-      {
-        "nombre": "Los Hermanos Ayar",
-        "pais": "Perú",
-        "descripcion": "Una leyenda que explica el origen mítico de los incas a través de la historia de cuatro hermanos y sus esposas.",
-        "historia": "Tras un gran diluvio, emergieron de las cuevas de Pacaritambo cuatro hermanos: Ayar Manco, Ayar Cachi, Ayar Uchu y Ayar Auca, junto a sus esposas. Emprendieron un viaje en busca de tierras fértiles. Durante el trayecto, enfrentaron desafíos y traiciones. Finalmente, Ayar Manco, también conocido como Manco Cápac, fundó la ciudad del Cusco, estableciendo así la civilización inca.",
-        "url_fuentes": [
-          "https://www.machupicchuterra.com/es/guia/leyendas-mitos-populares-peru/"
-        ]
-      },
-      {
-        "nombre": "El Huascarán y Huandoy",
-        "pais": "Perú",
-        "descripcion": "Una historia de amor y tragedia que explica la formación de dos montañas en la Cordillera Blanca.",
-        "historia": "Huascarán y Huandoy eran dos hermanos que se enamoraron de la misma mujer. Los celos y la rivalidad llevaron a una confrontación que terminó con la muerte de ambos. Los dioses, conmovidos por la tragedia, transformaron sus cuerpos en montañas, que hoy se alzan en la Cordillera Blanca, como testimonio eterno de su historia.",
-        "url_fuentes": [
-          "https://www.machupicchuterra.com/es/guia/leyendas-mitos-populares-peru/"
-        ]
-      },
-      {
-        "nombre": "El Ayaymama",
-        "pais": "Perú",
-        "descripcion": "Un ave de la Amazonía peruana cuyo canto lastimero está ligado a una leyenda de castigo y transformación.",
-        "historia": "La leyenda cuenta que dos niños desobedecieron a su madre y se internaron en la selva, donde fueron transformados en aves por los espíritus de la naturaleza. Desde entonces, el Ayaymama emite un canto triste que resuena en la selva, recordando la importancia de la obediencia y el respeto a los mayores.",
-        "url_fuentes": [
-          "https://www.machupicchuterra.com/es/guia/leyendas-mitos-populares-peru/"
-        ]
-      },
-      
-
-
-      {
-        "nombre": "La Huacachina",
-        "pais": "Perú",
-        "descripcion": "Una historia de amor y tristeza que explica el origen del oasis de Huacachina en Ica.",
-        "historia": "Cuenta la leyenda que una joven princesa lloraba desconsoladamente por la muerte de su amado. Sus lágrimas formaron una laguna, y mientras se bañaba en ella, fue sorprendida por un cazador. Al huir, dejó caer su espejo, que se convirtió en las dunas que rodean el oasis. Desde entonces, se dice que la princesa habita en la laguna como una sirena.",
-        "url_fuentes": [
-          "https://blog.machupicchuperutours.com/cultura/leyendas-del-peru/"
-        ]
-      },
-      {
-        "nombre": "La Leyenda del Cóndor y la Muchacha",
-        "pais": "Perú",
-        "descripcion": "Una leyenda andina que narra la historia de una joven secuestrada por un cóndor.",
-        "historia": "Según la tradición, un cóndor se enamoró de una joven pastora y, disfrazado de apuesto joven, la llevó a su nido en lo alto de las montañas. La muchacha, al descubrir la verdad, pidió ayuda a los dioses, quienes la transformaron en una estrella para liberarla. El cóndor, al perderla, quedó condenado a volar solo por los cielos.",
-        "url_fuentes": [
-          "https://blog.machupicchuperutours.com/cultura/leyendas-del-peru/"
-        ]
-      },
-      {
-        "nombre": "La Piedra que Cura el Mal de Amores",
-        "pais": "Perú",
-        "descripcion": "Una historia sobre una piedra mágica que alivia las penas del corazón.",
-        "historia": "En un rincón de los Andes, existe una piedra conocida por su capacidad de sanar el mal de amores. Se dice que quienes sufren por un amor no correspondido deben tocarla y contarle sus penas. La piedra absorbe el dolor, permitiendo que la persona siga adelante con su vida.",
-        "url_fuentes": [
-          "https://blog.machupicchuperutours.com/cultura/leyendas-del-peru/"
-        ]
-      },
-      {
-        "nombre": "La Leyenda del Pájaro Maligno",
-        "pais": "Perú",
-        "descripcion": "Una historia amazónica sobre un ave que trae desgracias a quienes la escuchan cantar.",
-        "historia": "En la selva peruana, se habla de un pájaro cuyo canto presagia muerte y desgracia. Aquellos que lo escuchan deben prepararse para enfrentar una pérdida o una tragedia. Por ello, los habitantes de la región evitan adentrarse en la selva durante ciertas horas del día.",
-        "url_fuentes": [
-          "https://blog.machupicchuperutours.com/cultura/leyendas-del-peru/"
-        ]
-      },
-      {
-        "nombre": "La Quena de Oro",
-        "pais": "Perú",
-        "descripcion": "Una historia que resalta la importancia de la humildad y la generosidad.",
-        "historia": "Durante una gran fiesta en un pueblo andino, un mendigo se acercó al banquete, pero fue rechazado por el anfitrión. Un joven músico, conmovido, le ofreció su comida. Como recompensa, el mendigo le entregó una quena de oro que, al ser tocada, producía melodías celestiales. El joven se convirtió en un músico famoso, recordando siempre la importancia de la bondad.",
-        "url_fuentes": [
-          "https://www.pampers.com.pe/rincon-de-mamas/vida-en-familia/3-leyendas-peruanas-que-les-encantaran-a-tus-peques"
-        ]
-      },
-      {
-        "nombre": "La Leyenda del Río Hablador",
-        "pais": "Perú",
-        "descripcion": "Una historia que explica el origen del nombre del río Rímac.",
-        "historia": "Se cuenta que el río Rímac era habitado por un espíritu que hablaba con los habitantes de la zona, aconsejándolos y guiándolos. Con el tiempo, las personas dejaron de escucharlo, y el espíritu se retiró. Desde entonces, el río sigue murmurando, esperando que alguien vuelva a prestarle atención.",
-        "url_fuentes": [
-          "https://www.cooperatingvolunteers.com/america/leyendas-peruanas/"
-        ]
-      },
-      {
-        "nombre": "La Leyenda del Cuy Mágico",
-        "pais": "Perú",
-        "descripcion": "Una historia sobre un cuy que ayuda a una familia necesitada.",
-        "historia": "Una familia pobre recibió un cuy como regalo. Pronto descubrieron que el animal tenía poderes mágicos, trayéndoles prosperidad y felicidad. Sin embargo, al intentar aprovecharse de sus habilidades, el cuy desapareció, enseñándoles una lección sobre la avaricia y la gratitud.",
-        "url_fuentes": [
-          "https://www.cooperatingvolunteers.com/america/leyendas-peruanas/"
-        ]
-      },
-      {
-        "nombre": "La Leyenda de Inkarri",
-        "pais": "Perú",
-        "descripcion": "Un mito que representa la resistencia y esperanza del pueblo inca.",
-        "historia": "Inkarri, el último emperador inca, fue capturado y decapitado por los conquistadores. Se dice que su cabeza fue enterrada en Cusco y su cuerpo en Lima. Sin embargo, su espíritu sigue vivo, y cuando su cuerpo se reúna, Inkarri resucitará para restaurar el Tahuantinsuyo y traer justicia a su pueblo.",
-        "url_fuentes": [
-          "https://www.machupicchuterra.com/es/guia/leyendas-mitos-populares-peru/"
-        ]
-      },
-    {
-        "nombre": "Wiracocha",
-        "pais": "Perú",
-        "descripcion": "Wiracocha es el dios creador supremo en la mitología andina, considerado el artífice del mundo y de todas las cosas vivas.",
-        "historia": "Wiracocha, también llamado Viracocha, es la deidad principal de la mitología incaica. Según la leyenda, creó el cielo, la tierra, el sol, la luna y a los primeros seres humanos. Después de crear el mundo, caminó por la tierra enseñando civilización y cultura a las gentes, y desapareció en el mar, prometiendo regresar algún día. Su imagen suele representarse con barba y vestiduras blancas, lo que ha llevado a interpretaciones de contacto con visitantes extranjeros. Wiracocha también es considerado el dios del agua y la lluvia, elementos vitales para la agricultura andina.",
-        "url_fuentes": [
-        "https://es.wikipedia.org/wiki/Viracocha",
-        "https://www.britannica.com/topic/Viracocha",
-        "https://www.machupicchu.org/blog/viracocha-el-dios-creador-de-los-incas/"
-        ]
-    },
-    {
-        "nombre": "Inti",
-        "pais": "Perú",
-        "descripcion": "Inti es el dios del sol y protector del pueblo inca, considerado la fuente de luz, vida y energía.",
-        "historia": "Inti es una de las deidades más veneradas en la mitología incaica. Se cree que es el padre del Inca, el gobernante terrenal, y que su luz es esencial para el crecimiento de los cultivos. Cada año se celebra el Inti Raymi, la fiesta del sol, en honor a Inti para asegurar la fertilidad y prosperidad. Inti también es un símbolo de poder político y espiritual, un vínculo sagrado entre el cielo y la tierra. La importancia de Inti se refleja en la arquitectura inca, como en el Templo del Sol en Cusco, que está dedicado a su culto.",
-        "url_fuentes": [
-        "https://es.wikipedia.org/wiki/Inti",
-        "https://www.britannica.com/topic/Inti",
-        "https://www.peru.travel/es-pe/que-hacer/fiestas-y-tradiciones/inti-raymi"
-        ]
-    },
-    {
-        "nombre": "Mama Quilla",
-        "pais": "Perú",
-        "descripcion": "Mama Quilla es la diosa de la luna y la esposa de Inti en la mitología inca, protectora de las mujeres y las cosechas.",
-        "historia": "Mama Quilla es la diosa lunar venerada en la cosmovisión andina. Según la leyenda, ella regula el calendario lunar y es responsable de las mareas. Es considerada la protectora de las mujeres, las festividades y los nacimientos. Mama Quilla es representada como una figura femenina que guía y protege a la comunidad, además de ser esencial para la agricultura, ya que las fases lunares influyen en las siembras y cosechas. Durante las ceremonias se le rendía homenaje para mantener el equilibrio y la armonía del cosmos.",
-        "url_fuentes": [
-        "https://es.wikipedia.org/wiki/Mama_Quilla",
-        "https://www.britannica.com/topic/Mama-Quilla",
-        "https://www.ancient.eu/Mama_Quilla/"
-        ]
-    },
-    {
-        "nombre": "Illapa",
-        "pais": "Perú",
-        "descripcion": "Illapa es el dios del trueno, el rayo y la guerra en la mitología inca, asociado con el poder y la fuerza.",
-        "historia": "Illapa, también conocido como Inti Illapa, es la deidad que controla el clima, especialmente las tormentas y la lluvia, que son vitales para la agricultura andina. Además de ser un dios del clima, Illapa es protector en la guerra y se le atribuye el poder de castigar a los enemigos con rayos y truenos. Su culto incluía rituales con sacrificios para garantizar lluvias adecuadas y proteger las cosechas. Se lo representa como un hombre que lleva un hacha de piedra o un mazo, simbolizando su poder sobre los elementos y la batalla.",
-        "url_fuentes": [
-        "https://es.wikipedia.org/wiki/Illapa",
-        "https://www.britannica.com/topic/Illapa",
-        "https://www.machupicchu.org/blog/illapa-dios-del-trueno-y-la-guerra/"
-        ]
-    },
-    {
-        "nombre": "Chaska",
-        "pais": "Perú",
-        "descripcion": "Chaska es la diosa del amanecer y de la estrella de la mañana (Venus) en la mitología inca.",
-        "historia": "Chaska, también conocida como la estrella de la mañana, es la deidad que anuncia el amanecer y simboliza la belleza y la juventud. En la mitología inca, Chaska es hija de Inti y Mama Quilla y hermana de Paucara. Se la asocia con la fertilidad y el amor, y sus apariciones en el cielo eran interpretadas como señales auspiciosas para las cosechas y la vida comunitaria. Los incas le dedicaban oraciones y ofrendas para asegurar la prosperidad y el buen inicio del día.",
-        "url_fuentes": [
-        "https://es.wikipedia.org/wiki/Chasca",
-        "https://www.ancient.eu/Chasca/",
-        "https://www.machupicchu.org/blog/chasca-diosa-del-amanecer/"
-        ]
-    },
-    {
-        "nombre": "Punchao",
-        "pais": "Perú",
-        "descripcion": "Punchao es la personificación del sol en la mitología andina, especialmente en relación con los ciclos solares y la agricultura.",
-        "historia": "Punchao, considerado el dios del sol naciente, representa la renovación diaria del sol. En la cosmovisión andina, el ciclo del sol era fundamental para la agricultura y el orden natural. Punchao es celebrado en diversas festividades, en especial el Inti Raymi, que marca el solsticio de invierno y el inicio del nuevo ciclo agrícola. El respeto y adoración a Punchao garantizaban el equilibrio entre la naturaleza y las comunidades humanas, asegurando así la continuidad de la vida.",
-        "url_fuentes": [
-        "https://es.wikipedia.org/wiki/Punchao",
-        "https://www.machupicchu.org/blog/punchao-el-sol-naciente/",
-        "https://www.peru.travel/es-pe/que-hacer/fiestas-y-tradiciones/inti-raymi"
-        ]
-    },
-    {
-        "nombre": "Chuichu",
-        "pais": "Perú",
-        "descripcion": "Chuichu es una deidad menor asociada con el viento y el aire en la mitología andina.",
-        "historia": "Chuichu es una figura mítica vinculada a los elementos del viento y el aire, que tienen un rol importante en la fertilidad de la tierra y el bienestar de las personas. En las leyendas andinas, se cree que Chuichu ayuda a dispersar las nubes para traer lluvia y que su presencia es fundamental para el equilibrio natural. Sus mitos no son tan extensos como los de las deidades mayores, pero su influencia se considera vital en la cosmología local, especialmente para los agricultores que dependen del clima.",
-        "url_fuentes": [
-        "https://www.mitosyleyendasdelperu.com/chuichu-mito-del-viento/",
-        "https://es.wikipedia.org/wiki/Cosmolog%C3%ADa_anda",
-        "https://www.peru.travel/es-pe/cultura-y-tradiciones"
-        ]
-    },
-    {
-        "nombre": "Talumaya",
-        "pais": "Perú",
-        "descripcion": "Talumaya es un ser mitológico asociado con las aguas subterráneas y la fertilidad en las leyendas andinas.",
-        "historia": "Talumaya es un personaje mitológico que representa las fuerzas ocultas de la naturaleza, especialmente las relacionadas con el agua subterránea, vital para la agricultura y la vida. Se cree que este ser protege las fuentes y manantiales, asegurando la pureza y la abundancia del recurso hídrico. En algunas comunidades, Talumaya es invocado para evitar sequías o para pedir buenas cosechas, destacando su importancia en la relación entre el hombre y la naturaleza.",
-        "url_fuentes": [
-        "https://www.mitosyleyendasdelperu.com/talumaya-mito-del-agua/",
-        "https://es.wikipedia.org/wiki/Cosmolog%C3%ADa_anda",
-        "https://www.peru.travel/es-pe/cultura-y-tradiciones"
-        ]
-    },
-    {
-        "nombre": "Catequil",
-        "pais": "Perú",
-        "descripcion": "Catequil es el dios del rayo y el trueno en la mitología inca, asociado con la guerra y la justicia.",
-        "historia": "Catequil es una deidad guerrera que controla los fenómenos atmosféricos violentos como el rayo y el trueno, vistos como manifestaciones de su poder. Era invocado por los incas para proteger sus tierras y castigar a los enemigos, y también para asegurar el orden y la justicia en la sociedad. En los relatos míticos, Catequil utiliza su rayo para defender a su pueblo y es símbolo de fuerza y autoridad. Su culto estuvo muy extendido en la región andina, y se le rendían ofrendas para obtener su favor.",
-        "url_fuentes": [
-        "https://es.wikipedia.org/wiki/Catequil",
-        "https://www.britannica.com/topic/Catequil",
-        "https://www.machupicchu.org/blog/catequil-dios-del-rayo-y-la-guerra/"
-        ]
-    },
-    {
-        "nombre": "Piguerao",
-        "pais": "Perú",
-        "descripcion": "Piguerao es un ser mítico que aparece en la mitología andina como un espíritu asociado con la protección y la justicia.",
-        "historia": "Piguerao es un personaje de leyendas andinas que actúa como protector de la comunidad y ejecutor de la justicia divina. Su figura aparece en relatos orales que hablan de su capacidad para castigar a quienes rompen las normas sociales o dañan la naturaleza. Aunque no es una deidad principal, Piguerao tiene un lugar especial en la cultura popular y es mencionado en cantos y tradiciones como guardián espiritual que vela por el bienestar de su pueblo.",
-        "url_fuentes": [
-        "https://www.mitosyleyendasdelperu.com/piguerao-espiritu-andeano/",
-        "https://es.wikipedia.org/wiki/Mitos_del_Per%C3%BA",
-        "https://www.peru.travel/es-pe/cultura-y-tradiciones"
-        ]
-    },
-    {
-        "nombre": "Kon",
-        "pais": "Perú",
-        "descripcion": "Kon es el dios de la lluvia y la fertilidad en la mitología preincaica, especialmente en la cultura chimú.",
-        "historia": "Kon es una deidad ancestral que predice la llegada de la lluvia y favorece la fertilidad de la tierra. En la mitología preincaica, especialmente entre las culturas de la costa norte peruana, Kon es venerado como un dios benefactor que ayuda a la agricultura y al sustento de las comunidades. Se le atribuye el poder de controlar las tormentas y es un símbolo de esperanza y prosperidad. Su culto fue absorbido posteriormente por la cultura inca, aunque con modificaciones.",
-        "url_fuentes": [
-        "https://es.wikipedia.org/wiki/Kon",
-        "https://www.britannica.com/topic/Chimu",
-        "https://www.machupicchu.org/blog/mitologia-preincaica-del-peru/"
-        ]
-    },
-    {
-        "nombre": "Pacha Mama",
-        "pais": "Perú",
-        "descripcion": "Pacha Mama es la diosa de la tierra y la fertilidad en la cosmovisión andina, madre de toda vida.",
-        "historia": "Pacha Mama representa la tierra que nutre y da vida a todos los seres. Es adorada como la madre universal que cuida las cosechas, los animales y a las personas. Los agricultores le hacen ofrendas para agradecer y pedir buenas cosechas, especialmente en ceremonias llamadas 'Pago a la Tierra'. Pacha Mama también simboliza el equilibrio y la armonía entre los humanos y la naturaleza, fundamental en la cosmovisión andina.",
-        "url_fuentes": [
-          "https://es.wikipedia.org/wiki/Pachamama",
-          "https://www.britannica.com/topic/Pachamama",
-          "https://www.peru.travel/es-pe/cultura-y-tradiciones/pachamama"
-        ]
-      },
-      {
-        "nombre": "Mama Sara",
-        "pais": "Perú",
-        "descripcion": "Mama Sara es la diosa de la cosecha y el maíz, símbolo de abundancia en la agricultura andina.",
-        "historia": "Mama Sara es venerada como la protectora del maíz y de las plantas cultivadas. Se cree que ayuda a que las semillas crezcan fuertes y saludables, garantizando la alimentación de las comunidades. Su culto se expresa en festivales agrícolas donde se agradece la abundancia de la tierra y se pide prosperidad. Mama Sara representa la conexión espiritual entre el hombre y la naturaleza a través de la agricultura.",
-        "url_fuentes": [
-          "https://www.mitosyleyendasdelperu.com/mama-sara-diosa-del-maiz/",
-          "https://es.wikipedia.org/wiki/Pachamama",
-          "https://www.peru.travel/es-pe/cultura-y-tradiciones"
-        ]
-      },
-      {
-        "nombre": "Huari",
-        "pais": "Perú",
-        "descripcion": "Huari es un dios guerrero y protector en la mitología andina, también relacionado con una cultura preincaica.",
-        "historia": "Huari representa la fuerza, la protección y el orden social en las comunidades andinas. Además de ser un dios, Huari da nombre a una cultura preincaica famosa por su arte y arquitectura. Se le atribuye el papel de guardián en batallas y en la protección del territorio, siendo un símbolo de poder y resistencia. En algunas tradiciones, Huari también tiene un rol espiritual en mantener la armonía entre los humanos y los dioses.",
-        "url_fuentes": [
-          "https://es.wikipedia.org/wiki/Cultura_Huari",
-          "https://www.machupicchu.org/blog/huari-cultura-preincaica/",
-          "https://www.britannica.com/topic/Huari-culture"
-        ]
-      },
-      {
-        "nombre": "Vichama, la muerte",
-        "pais": "Perú",
-        "descripcion": "Vichama es la deidad asociada con la muerte y la transformación en la mitología andina.",
-        "historia": "Vichama es la personificación de la muerte y el renacimiento, encargada de guiar las almas al más allá. Su papel es esencial en el ciclo de la vida y la muerte, representando la transformación necesaria para el equilibrio del mundo. En algunas tradiciones, Vichama es vista como una fuerza respetada y temida que no solo trae el final, sino también el inicio de nuevas etapas. Es una figura espiritual que recuerda la importancia de la continuidad y el respeto por los ancestros.",
-        "url_fuentes": [
-          "https://www.mitosyleyendasdelperu.com/vichama-diosa-de-la-muerte/",
-          "https://es.wikipedia.org/wiki/Mitolog%C3%ADa_anda",
-          "https://www.peru.travel/es-pe/cultura-y-tradiciones"
-        ]
-      },
-      {
-        "nombre": "Urcuchilay, protector de los animales",
-        "pais": "Perú",
-        "descripcion": "Urcuchilay es el dios protector de los animales domésticos, especialmente las llamas y alpacas.",
-        "historia": "Urcuchilay es venerado como el guardián de los animales de carga y pastoreo que son vitales para la economía andina. Se cree que protege a estos animales de enfermedades y peligros, asegurando la prosperidad de las familias que dependen de ellos. Los pastores realizan rituales en su honor para mantener la salud y fortaleza de sus rebaños, y para pedir buen clima y pastos abundantes. Urcuchilay simboliza la armonía entre la naturaleza y el hombre.",
-        "url_fuentes": [
-          "https://es.wikipedia.org/wiki/Urcuchillay",
-          "https://www.machupicchu.org/blog/urcuchillay-dios-protector-de-animales/",
-          "https://www.peru.travel/es-pe/cultura-y-tradiciones"
-        ]
-      },
-      {
-        "nombre": "Apu, la montaña",
-        "pais": "Perú",
-        "descripcion": "Apu es el espíritu sagrado de las montañas, protector de la tierra y de las comunidades andinas.",
-        "historia": "En la cosmovisión andina, los Apus son considerados dioses o espíritus que habitan en las montañas más altas. Se les venera como protectores del territorio y guardianes de la naturaleza. Los Apus influyen en el clima y la fertilidad de la tierra, y las comunidades realizan ceremonias para pedir su bendición y protección. Cada montaña tiene su Apu particular, y su culto sigue vivo en muchas regiones de los Andes, manteniendo un vínculo espiritual entre la tierra y el hombre.",
-        "url_fuentes": [
-          "https://es.wikipedia.org/wiki/Apu",
-          "https://www.britannica.com/topic/Apu-Andean-mountain-spirit",
-          "https://www.peru.travel/es-pe/cultura-y-tradiciones"
-        ]
-      },
-      {
-        "nombre": "Coco Mama",
-        "pais": "Perú",
-        "descripcion": "Coco Mama es una deidad femenina vinculada a la agricultura y la protección de las semillas.",
-        "historia": "Coco Mama es reconocida en las tradiciones andinas como la protectora de las semillas y la fertilidad de la tierra. Se la invoca para asegurar la buena germinación y la abundancia de las cosechas. Su culto incluye rituales donde se agradece por la tierra fértil y se piden bendiciones para las próximas siembras. Coco Mama simboliza la vida y el renacer, aspectos fundamentales en las culturas agrícolas del Perú.",
-        "url_fuentes": [
-          "https://www.mitosyleyendasdelperu.com/coco-mama-diosa-de-la-tierra/",
-          "https://es.wikipedia.org/wiki/Pachamama",
-          "https://www.peru.travel/es-pe/cultura-y-tradiciones"
-        ]
-      },
-      {
-        "nombre": "Pariacaca",
-        "pais": "Perú",
-        "descripcion": "Pariacaca es un dios de la lluvia y el agua en la mitología andina, fundamental para la agricultura.",
-        "historia": "Pariacaca es venerado como una de las principales deidades relacionadas con el agua y las lluvias. Según las leyendas, controla las lluvias y las tormentas, vitales para la supervivencia de los pueblos agrícolas. Su poder está asociado a la fertilidad y la abundancia, y se le ofrece culto para evitar sequías y garantizar buenas cosechas. Pariacaca es representado como un dios justo y poderoso que mantiene el equilibrio entre el cielo y la tierra.",
-        "url_fuentes": [
-          "https://es.wikipedia.org/wiki/Pariacaca",
-          "https://www.machupicchu.org/blog/pariacaca-dios-de-la-lluvia/",
-          "https://www.peru.travel/es-pe/cultura-y-tradiciones"
-        ]
-      },
-      {
-        "nombre": "Huallallo Carhuancho",
-        "pais": "Perú",
-        "descripcion": "Huallallo Carhuancho es un espíritu protector en la mitología andina, relacionado con la justicia y el orden.",
-        "historia": "Este personaje mitológico actúa como guardián del equilibrio social y natural. Se cree que Huallallo Carhuancho protege a las comunidades y castiga a quienes quebrantan las normas. Su presencia es invocada en rituales para mantener la armonía entre humanos y dioses, así como para garantizar el respeto a las leyes ancestrales. Aunque es menos conocido, su rol es importante en las tradiciones orales andinas.",
-        "url_fuentes": [
-          "https://www.mitosyleyendasdelperu.com/huallallo-carhuancho-espiritu-protector/",
-          "https://es.wikipedia.org/wiki/Mitolog%C3%ADa_anda",
-          "https://www.peru.travel/es-pe/cultura-y-tradiciones"
-        ]
-      },
-      {
-        "nombre": "Copacati",
-        "pais": "Perú",
-        "descripcion": "Copacati es una deidad andina vinculada al agua, lagunas y la protección de las fuentes naturales.",
-        "historia": "Copacati es considerado un espíritu guardián de las lagunas y ríos, protector de los cuerpos de agua dulce. Se le rinde culto para mantener limpias y puras las fuentes naturales, esenciales para la vida y la agricultura. Las comunidades hacen ofrendas para pedir que las aguas no se sequen ni contaminen. Copacati representa la importancia del agua como elemento sagrado y vital en la cosmovisión andina.",
-        "url_fuentes": [
-          "https://es.wikipedia.org/wiki/Copacati",
-          "https://www.machupicchu.org/blog/copacati-dios-del-agua/",
-          "https://www.peru.travel/es-pe/cultura-y-tradiciones"
-        ]
-      },
-      {
-        "nombre": "Paricia",
-        "pais": "Perú",
-        "descripcion": "Paricia es un dios o espíritu menor en la mitología andina, relacionado con aspectos específicos de la naturaleza.",
-        "historia": "Aunque no tan conocido como otros dioses andinos, Paricia cumple funciones de protección y equilibrio en la naturaleza. Puede estar asociado con elementos particulares como plantas o animales, cumpliendo un rol dentro del sistema espiritual de los Andes que busca la armonía entre todos los seres. Su culto es más local y menos difundido, pero igualmente respetado por ciertas comunidades.",
-        "url_fuentes": [
-          "https://www.mitosyleyendasdelperu.com/paricia-espiritu-de-la-naturaleza/",
-          "https://es.wikipedia.org/wiki/Mitolog%C3%ADa_anda"
-        ]
-      },
-      {
-        "nombre": "Urcaguary, el tesorero",
-        "pais": "Perú",
-        "descripcion": "Urcaguary es un dios encargado de custodiar los tesoros y bienes en la mitología andina.",
-        "historia": "Urcaguary es considerado el guardián de los recursos y riquezas, tanto materiales como espirituales. Protege los bienes de las comunidades y se le invoca para preservar la prosperidad y la abundancia. Su figura es simbólica en las tradiciones que valoran la conservación y el uso responsable de los recursos naturales y económicos. Aunque no es muy conocido, su papel es importante en el equilibrio social y espiritual.",
-        "url_fuentes": [
-          "https://www.mitosyleyendasdelperu.com/urcaguary-dios-del-tesoro/",
-          "https://es.wikipedia.org/wiki/Mitolog%C3%ADa_anda"
-        ]
-      },
-      {
-        "nombre": "Amaru (Serpiente)",
-        "pais": "Perú",
-        "descripcion": "Amaru es una serpiente mítica que simboliza el agua, el poder y la conexión entre el mundo terrenal y el espiritual.",
-        "historia": "En la mitología andina, Amaru es una serpiente poderosa que habita en ríos, lagunas y en las profundidades de la tierra. Se la considera un ser sagrado que conecta el mundo humano con el mundo espiritual. Amaru es símbolo de sabiduría, transformación y poder. Muchas leyendas hablan de su capacidad para controlar el agua y la fertilidad, así como de su rol en la protección de tesoros ocultos.",
-        "url_fuentes": [
-          "https://es.wikipedia.org/wiki/Amaru",
-          "https://www.mitosyleyendasdelperu.com/amaru-serpiente-mistica/",
-          "https://www.peru.travel/es-pe/cultura-y-tradiciones"
-        ]
-      },
-      {
-        "nombre": "Mallku (Cóndor)",
-        "pais": "Perú",
-        "descripcion": "Mallku es el espíritu del cóndor, símbolo de poder, libertad y conexión entre el cielo y la tierra.",
-        "historia": "Mallku representa al cóndor, ave sagrada en los Andes, considerado mensajero de los dioses y símbolo de la soberanía. El cóndor vuela alto y se le asocia con la visión, la fuerza y la protección. En la mitología, Mallku es un ser que une el mundo terrenal con el espiritual, vigilando y guiando a los pueblos andinos. Su figura es central en ceremonias y rituales que buscan protección y bendición desde el cielo.",
-        "url_fuentes": [
-          "https://es.wikipedia.org/wiki/Mallku",
-          "https://www.machupicchu.org/blog/mallku-condor-sagrado/",
-          "https://www.peru.travel/es-pe/cultura-y-tradiciones"
-        ]
-      },
-      {
-        "nombre": "Yataöamca y Tutaöamca",
-        "pais": "Perú",
-        "descripcion": "Dioses gemelos que representan el día (Yataöamca) y la noche (Tutaöamca) en algunas mitologías andinas.",
-        "historia": "Estos dos hermanos simbolizan la dualidad y el equilibrio entre la luz y la oscuridad, muy presente en la cosmovisión andina. Su mito refleja la importancia del ciclo día-noche y la armonía entre ambos polos en el universo andino.",
-        "url_fuentes": [
-          "https://mitosandinos.org/yataoamca-tutaoamca/",
-          "https://es.wikipedia.org/wiki/Cosmolog%C3%ADa_andina"
-        ]
-      },
-      {
-        "nombre": "Pachacamac",
-        "pais": "Perú",
-        "descripcion": "Dios creador y dios del terremoto, venerado principalmente en la costa central peruana.",
-        "historia": "Pachacamac es considerado el creador del mundo y un dios poderoso que controla la tierra, el movimiento y los cambios. Su santuario principal se ubicaba en la actual ciudad de Pachacamac. Era consultado para prever desastres naturales como terremotos y para pedir protección y fertilidad. Pachacamac era una deidad central para varias culturas preincaicas y fue asimilado por los incas.",
-        "url_fuentes": [
-          "https://es.wikipedia.org/wiki/Pachacamac_(dios)",
-          "https://www.britannica.com/topic/Pachacamac",
-          "https://www.peru.travel/es-pe/cultura-y-tradiciones/pachacamac"
-        ]
-      },
-      {
-        "nombre": "Mama Cocha",
-        "pais": "Perú",
-        "descripcion": "Diosa del mar y de las aguas en la mitología andina.",
-        "historia": "Mama Cocha es la protectora de los mares, ríos y lagos, y es responsable de la pesca y la abundancia de los recursos acuáticos. Se le hacían ofrendas para garantizar la seguridad de los pescadores y la riqueza del mar. Su culto es fundamental para las comunidades costeras y aquellas que dependen del agua para su subsistencia.",
-        "url_fuentes": [
-          "https://es.wikipedia.org/wiki/Mama_Qocha",
-          "https://www.mitosyleyendasdelperu.com/mama-cocha-diosa-del-mar/"
-        ]
-      },
-      {
-        "nombre": "Supay",
-        "pais": "Perú",
-        "descripcion": "Dios de los muertos y del inframundo, también relacionado con el diablo en la tradición andina.",
-        "historia": "Supay es la deidad que gobierna el mundo subterráneo y se le asocia con la muerte y los espíritus. A menudo es considerado una figura temida y a la vez respetada, pues controla el equilibrio entre la vida y la muerte. En la cultura popular, Supay se ha sincretizado con la figura del diablo, aunque originalmente tenía un papel espiritual importante en la cosmovisión andina.",
-        "url_fuentes": [
-          "https://es.wikipedia.org/wiki/Supay",
-          "https://www.mitosyleyendasdelperu.com/supay-dios-del-inframundo/"
-        ]
-      },
-      {
-        "nombre": "El Yastay",
-        "pais": "Perú",
-        "descripcion": "Un espíritu o ente protector de la naturaleza, especialmente de los cerros y montañas en la región andina.",
-        "historia": "El Yastay es considerado un guardián invisible de los cerros y montañas en los Andes peruanos. Según la tradición, protege la fauna y la flora de la zona, así como a las comunidades que dependen de esos ecosistemas. Se dice que el Yastay aparece como un ser misterioso que ahuyenta a quienes quieran causar daño o saquear la naturaleza. Su presencia se percibe como una señal para respetar el entorno natural y vivir en armonía con él. Los habitantes de las regiones andinas realizan ofrendas y rituales para honrar al Yastay y pedir su protección.",
-        "url_fuentes": [
-          "https://mitosyleyendasdeperu.blogspot.com/2014/08/el-yastay.html",
-          "https://es.wikipedia.org/wiki/Mitos_andinos"
-        ]
-      },
-      {
-        "nombre": "La Luz Mala",
-        "pais": "Perú",
-        "descripcion": "Fenómeno luminoso misterioso que aparece en zonas rurales y montañosas, asociado con espíritus o almas en pena.",
-        "historia": "La Luz Mala es una leyenda extendida en varias regiones de Perú. Se trata de una luz errante, pequeña y brillante, que aparece en la oscuridad de los caminos rurales o en terrenos pantanosos. Los lugareños creen que esta luz representa el alma de personas que murieron de manera trágica o violenta y que aún no encuentran descanso. Se dice que la Luz Mala puede guiar a viajeros desprevenidos hacia peligros o perderlos en la oscuridad. Para evitar encontrarse con esta luz, las personas suelen llevar objetos de protección o invocar rezos. El fenómeno ha sido interpretado también como un fenómeno natural explicado por gases que se inflaman en el campo, pero la tradición oral le atribuye un significado espiritual.",
-        "url_fuentes": [
-          "https://www.mitosyleyendasdelperu.com/la-luz-mala/",
-          "https://es.wikipedia.org/wiki/Luz_mala",
-          "https://www.machupicchuterra.com/es/guia/leyendas-mitos-populares-peru/"
-        ]
-      },
-      {
-        "nombre": "Ekkeko, la riqueza",
-        "pais": "Perú",
-        "descripcion": "Figura tradicional andina que representa la abundancia, la prosperidad y la buena fortuna.",
-        "historia": "Ekkeko es una deidad o espíritu asociado con la riqueza y la prosperidad en las culturas andinas, especialmente en la región sur de Perú y Bolivia. Se le representa con una figura pequeña que carga objetos simbólicos como alimentos, dinero y herramientas. La leyenda cuenta que Ekkeko tiene el poder de conceder abundancia a quienes le hacen ofrendas y le piden favores durante festividades como la Alasita. En la tradición, se cree que al colocar miniaturas de objetos en la figura de Ekkeko, estos deseos se cumplirán en la realidad. Su culto ha sobrevivido al paso del tiempo y se mantiene vigente en muchas comunidades andinas.",
-        "url_fuentes": [
-          "https://es.wikipedia.org/wiki/Ekeko",
-          "https://www.mitosyleyendasdelperu.com/ekkeko-la-riqueza/",
-          "https://www.britannica.com/topic/Ekeko"
-        ]
-      },
-      {
-        "nombre": "El Yaravi",
-        "pais": "Perú",
-        "descripcion": "Una melodía y a la vez una leyenda que representa el dolor y la nostalgia en la cultura andina.",
-        "historia": "El Yaravi es una expresión musical tradicional andina que se caracteriza por su tono melancólico y nostálgico. La leyenda que acompaña al Yaravi narra la historia de un amor perdido o de una tragedia profunda que marcó a una comunidad o individuo. Se dice que esta melodía fue creada para expresar el sufrimiento y las penas del alma, y que escuchar un Yaravi puede conmover profundamente a quien lo oye. Aunque no es un mito con una historia única, el Yaravi es considerado parte fundamental de la identidad cultural peruana, simbolizando la conexión emocional con la tierra y la historia de sus pueblos.",
-        "url_fuentes": [
-          "https://es.wikipedia.org/wiki/Yaraví",
-          "https://culturaperuana.org/yaravi/",
-          "https://www.mitosyleyendasdelperu.com/leyendas-del-yeravi/"
-        ]
-      },
-      {
-        "nombre": "Huayrapuca",
-        "pais": "Perú",
-        "descripcion": "Dios del viento y la tormenta en la mitología andina, con gran poder sobre la naturaleza.",
-        "historia": "Huayrapuca, cuyo nombre significa 'puñal de viento' en quechua, es un dios venerado como el señor del viento y las tormentas. Se cree que controla las corrientes de aire, el clima y puede enviar tormentas violentas o vientos suaves según su voluntad. En la tradición andina, Huayrapuca es también un dios guerrero, invocado para proteger a los pueblos y sus cosechas contra fenómenos naturales adversos. Su culto se mantiene en varias comunidades andinas donde se le ofrecen rituales y sacrificios para calmar su ira y asegurar buen clima.",
-        "url_fuentes": [
-          "https://es.wikipedia.org/wiki/Huayrapuca",
-          "https://mitosandinos.org/huayrapuca-dios-del-viento/",
-          "https://www.britannica.com/topic/Andean-mythology"
-        ]
-      }
+  {
+    "id": "pe_01",
+    "nombre": "El Chullachaqui",
+    "pais": "Perú",
+    "descripcion": "El Chullachaqui es un ser mítico de la Amazonía peruana, conocido por su habilidad para adoptar la apariencia de personas conocidas y engañar a los viajeros.",
+    "historia": "Según la leyenda, el Chullachaqui habita en las profundidades de la selva y posee la capacidad de transformarse en cualquier persona o animal. Sin embargo, siempre deja una pista: uno de sus pies es más pequeño o está torcido. Se dice que atrae a los viajeros haciéndose pasar por seres queridos, llevándolos a perderse en la selva. Algunos creen que es el espíritu guardián de la selva, castigando a quienes la dañan.",
+    "url_fuentes": [
+      "https://www.peru.travel/es/masperu/5-personajes-miticos-y-leyendas-populares-del-peru"
+    ]
+  },
+  {
+    "id": "pe_02",
+    "nombre": "La Casa Matusita",
+    "pais": "Perú",
+    "descripcion": "La Casa Matusita es una de las edificaciones más famosas de Lima, conocida por las historias de fenómenos paranormales que la rodean.",
+    "historia": "Ubicada en el centro de Lima, la Casa Matusita ha sido objeto de múltiples relatos sobre apariciones, ruidos extraños y sucesos inexplicables. Se dice que en el pasado ocurrieron tragedias en su interior, como asesinatos y prácticas de brujería, lo que habría dejado una carga energética negativa. Aunque muchos de estos relatos son considerados leyendas urbanas, la casa sigue siendo un punto de interés para los amantes de lo paranormal.",
+    "url_fuentes": [
+      "https://www.culturagenial.com/es/leyendas-peruanas/"
+    ]
+  },
+  {
+    "id": "pe_03",
+    "nombre": "El Muki o Duende Minero",
+    "pais": "Perú",
+    "descripcion": "El Muki es una criatura mítica que habita en las minas de los Andes peruanos, conocida por su aspecto pequeño y su comportamiento travieso.",
+    "historia": "La leyenda del Muki es común entre los mineros de la sierra peruana. Se describe como un ser de baja estatura, con barba y ojos brillantes, que vive en las profundidades de las minas. Se dice que puede ayudar a los mineros, guiándolos hacia vetas ricas, pero también puede ser peligroso si se le falta el respeto. Algunos mineros dejan ofrendas para apaciguarlo y evitar su ira.",
+    "url_fuentes": [
+      "https://www.peru.travel/es/masperu/cuales-son-las-leyendas-mas-conocidas-de-los-andes-peruanos"
+    ]
+  },
+  {
+    "id": "pe_04",
+    "nombre": "El Sapo de Piedra",
+    "pais": "Perú",
+    "descripcion": "El Sapo de Piedra es una leyenda de la región de Pasco, que habla de una anciana y un sapo gigante que causó estragos en su cosecha.",
+    "historia": "Según la narración, una anciana vivía en un pequeño pueblo y era envidiada por su abundante cosecha. Un día, un enorme sapo apareció y destruyó sus cultivos. La anciana, enojada, lanzó un hechizo que hizo que el sapo y parte del pueblo quedaran petrificados. Se dice que aún hoy se pueden ver las formaciones rocosas que representan al sapo y a la anciana.",
+    "url_fuentes": [
+      "https://www.culturagenial.com/es/leyendas-peruanas/"
+    ]
+  },
+  {
+    "id": "pe_05",
+    "nombre": "Naylamp",
+    "pais": "Perú",
+    "descripcion": "Naylamp es un personaje mítico considerado el fundador de la civilización Lambayeque en la costa norte del Perú.",
+    "historia": "La leyenda cuenta que Naylamp llegó por mar en una gran flota de balsas, trayendo consigo conocimientos avanzados en agricultura, arquitectura y tecnología. Fundó la ciudad de Lambayeque y gobernó sabiamente. Tras su desaparición misteriosa, sus descendientes continuaron su legado. Naylamp es visto como un símbolo de civilización y progreso en la región.",
+    "url_fuentes": [
+      "https://www.cooperatingvolunteers.com/america/leyendas-peruanas/"
+    ]
+  },
+  {
+    "id": "pe_06",
+    "nombre": "La Mazorca de Oro",
+    "pais": "Perú",
+    "descripcion": "La Mazorca de Oro es una leyenda que habla de una mujer que, tras una jornada difícil, encuentra una mazorca dorada que cambia su vida.",
+    "historia": "Una mujer trabajadora, agotada y sin recursos, se lamentaba por su suerte cuando, de repente, encontró una mazorca de maíz que brillaba intensamente. Al recogerla, su vida cambió para mejor, obteniendo prosperidad y felicidad. La historia enseña sobre la recompensa al esfuerzo y la esperanza en tiempos difíciles.",
+    "url_fuentes": [
+      "https://www.culturagenial.com/es/leyendas-peruanas/"
+    ]
+  },
+  {
+    "id": "pe_07",
+    "nombre": "El Niño Encantado",
+    "pais": "Perú",
+    "descripcion": "El Niño Encantado es una leyenda de Lima que narra la desaparición misteriosa de un niño en una laguna.",
+    "historia": "Un niño de 12 años, tras perder su ración de comida, se acercó a una laguna llorando. Una mujer emergió del agua y le ofreció comida, llevándolo consigo a las profundidades. Nunca más se le vio. Días después, sus padres encontraron una cueva donde vieron al niño y a la mujer, pero al intentar rescatarlo, ambos desaparecieron. Se cree que el niño fue encantado por un espíritu del agua.",
+    "url_fuentes": [
+      "https://psicologiaymente.com/cultura/leyendas-peruanas"
+    ]
+  },
+  {
+    "id": "pe_08",
+    "nombre": "El Toro Encantado de Razuhuillca",
+    "pais": "Perú",
+    "descripcion": "Una leyenda de Ayacucho que narra la historia de un toro negro encadenado en una laguna, cuya liberación provocó una gran inundación.",
+    "historia": "En la provincia de Huanta, Ayacucho, se encuentra la laguna Razuhuillca. La leyenda cuenta que en sus profundidades habita un hermoso toro negro, sujeto por una cadena de oro sostenida por una anciana de cabello blanco. Un día, el toro logró liberarse y emergió a la superficie, causando una inundación que arrasó con el pueblo de Huanta. Desde entonces, se dice que la anciana mantiene al toro encadenado para evitar futuras catástrofes.",
+    "url_fuentes": [
+      "https://psicologiaymente.com/cultura/leyendas-peruanas"
+    ]
+  },
+  {
+    "id": "pe_09",
+    "nombre": "La Huega",
+    "pais": "Perú",
+    "descripcion": "Una leyenda de Ica que relata la historia de una mujer convertida en sirena, que atrae a los hombres hacia su perdición.",
+    "historia": "En la región de Ica, se cuenta la historia de una mujer que fue transformada en sirena como castigo por su vanidad y crueldad. Desde entonces, habita en las aguas, donde con su canto melodioso atrae a los hombres, quienes al seguirla, desaparecen sin dejar rastro. La leyenda sirve como advertencia sobre los peligros de la vanidad y la seducción.",
+    "url_fuentes": [
+      "https://psicologiaymente.com/cultura/leyendas-peruanas"
+    ]
+  },
+  {
+    "id": "pe_10",
+    "nombre": "El Tunche",
+    "pais": "Perú",
+    "descripcion": "Un espíritu vengativo de la Amazonía peruana que emite un silbido aterrador y castiga a quienes dañan la selva.",
+    "historia": "El Tunche es un alma en pena que vaga por la selva, emitiendo un silbido agudo que hiela la sangre. Se cree que es el espíritu de una persona que murió violentamente o que cometió actos atroces. El Tunche castiga a quienes dañan la selva o faltan al respeto a sus habitantes. Si alguien escucha su silbido, debe permanecer en silencio y rezar, pues responder al llamado puede ser fatal.",
+    "url_fuentes": [
+      "https://www.machupicchuterra.com/es/guia/leyendas-mitos-populares-peru/"
+    ]
+  },
+  {
+    "id": "pe_11",
+    "nombre": "El Jarjacha",
+    "pais": "Perú",
+    "descripcion": "Una criatura híbrida de la sierra peruana, resultado de incesto, que castiga a los pecadores con su presencia aterradora.",
+    "historia": "El Jarjacha es una criatura con cuerpo de alpaca y cabeza humana, que aparece en las noches en los Andes peruanos. Se dice que es el castigo para quienes cometen incesto, transformándose en este ser monstruoso. El Jarjacha emite un sonido espeluznante y persigue a los pecadores, causando terror en las comunidades andinas.",
+    "url_fuentes": [
+      "https://es.scribd.com/document/581656992/MITOS-PERUANOS"
+    ]
+  },
+  {
+    "id": "pe_12",
+    "nombre": "El Kharisiri",
+    "pais": "Perú",
+    "descripcion": "Un personaje mítico que extrae la grasa y sangre de sus víctimas para realizar rituales oscuros.",
+    "historia": "El Kharisiri, también conocido como 'sacamantecas', es un ser que ataca a las personas para extraer su grasa y sangre, que luego utiliza en rituales o vende a brujos. Se dice que actúa en la noche y que sus víctimas suelen enfermar gravemente o morir. La leyenda refleja el temor a lo desconocido y a las prácticas ocultas.",
+    "url_fuentes": [
+      "https://es.scribd.com/document/581656992/MITOS-PERUANOS"
+    ]
+  },
+  {
+    "id": "pe_13",
+    "nombre": "Los Hermanos Ayar",
+    "pais": "Perú",
+    "descripcion": "Una leyenda que explica el origen mítico de los incas a través de la historia de cuatro hermanos y sus esposas.",
+    "historia": "Tras un gran diluvio, emergieron de las cuevas de Pacaritambo cuatro hermanos: Ayar Manco, Ayar Cachi, Ayar Uchu y Ayar Auca, junto a sus esposas. Emprendieron un viaje en busca de tierras fértiles. Durante el trayecto, enfrentaron desafíos y traiciones. Finalmente, Ayar Manco, también conocido como Manco Cápac, fundó la ciudad del Cusco, estableciendo así la civilización inca.",
+    "url_fuentes": [
+      "https://www.machupicchuterra.com/es/guia/leyendas-mitos-populares-peru/"
+    ]
+  },
+  {
+    "id": "pe_14",
+    "nombre": "El Huascarán y Huandoy",
+    "pais": "Perú",
+    "descripcion": "Una historia de amor y tragedia que explica la formación de dos montañas en la Cordillera Blanca.",
+    "historia": "Huascarán y Huandoy eran dos hermanos que se enamoraron de la misma mujer. Los celos y la rivalidad llevaron a una confrontación que terminó con la muerte de ambos. Los dioses, conmovidos por la tragedia, transformaron sus cuerpos en montañas, que hoy se alzan en la Cordillera Blanca, como testimonio eterno de su historia.",
+    "url_fuentes": [
+      "https://www.machupicchuterra.com/es/guia/leyendas-mitos-populares-peru/"
+    ]
+  },
+  {
+    "id": "pe_15",
+    "nombre": "El Ayaymama",
+    "pais": "Perú",
+    "descripcion": "Un ave de la Amazonía peruana cuyo canto lastimero está ligado a una leyenda de castigo y transformación.",
+    "historia": "La leyenda cuenta que dos niños desobedecieron a su madre y se internaron en la selva, donde fueron transformados en aves por los espíritus de la naturaleza. Desde entonces, el Ayaymama emite un canto triste que resuena en la selva, recordando la importancia de la obediencia y el respeto a los mayores.",
+    "url_fuentes": [
+      "https://www.machupicchuterra.com/es/guia/leyendas-mitos-populares-peru/"
+    ]
+  },
+  {
+    "id": "pe_16",
+    "nombre": "La Huacachina",
+    "pais": "Perú",
+    "descripcion": "Una historia de amor y tristeza que explica el origen del oasis de Huacachina en Ica.",
+    "historia": "Cuenta la leyenda que una joven princesa lloraba desconsoladamente por la muerte de su amado. Sus lágrimas formaron una laguna, y mientras se bañaba en ella, fue sorprendida por un cazador. Al huir, dejó caer su espejo, que se convirtió en las dunas que rodean el oasis. Desde entonces, se dice que la princesa habita en la laguna como una sirena.",
+    "url_fuentes": [
+      "https://blog.machupicchuperutours.com/cultura/leyendas-del-peru/"
+    ]
+  },
+  {
+    "id": "pe_17",
+    "nombre": "La Leyenda del Cóndor y la Muchacha",
+    "pais": "Perú",
+    "descripcion": "Una leyenda andina que narra la historia de una joven secuestrada por un cóndor.",
+    "historia": "Según la tradición, un cóndor se enamoró de una joven pastora y, disfrazado de apuesto joven, la llevó a su nido en lo alto de las montañas. La muchacha, al descubrir la verdad, pidió ayuda a los dioses, quienes la transformaron en una estrella para liberarla. El cóndor, al perderla, quedó condenado a volar solo por los cielos.",
+    "url_fuentes": [
+      "https://blog.machupicchuperutours.com/cultura/leyendas-del-peru/"
+    ]
+  },
+  {
+    "id": "pe_18",
+    "nombre": "La Piedra que Cura el Mal de Amores",
+    "pais": "Perú",
+    "descripcion": "Una historia sobre una piedra mágica que alivia las penas del corazón.",
+    "historia": "En un rincón de los Andes, existe una piedra conocida por su capacidad de sanar el mal de amores. Se dice que quienes sufren por un amor no correspondido deben tocarla y contarle sus penas. La piedra absorbe el dolor, permitiendo que la persona siga adelante con su vida.",
+    "url_fuentes": [
+      "https://blog.machupicchuperutours.com/cultura/leyendas-del-peru/"
+    ]
+  },
+  {
+    "id": "pe_19",
+    "nombre": "La Leyenda del Pájaro Maligno",
+    "pais": "Perú",
+    "descripcion": "Una historia amazónica sobre un ave que trae desgracias a quienes la escuchan cantar.",
+    "historia": "En la selva peruana, se habla de un pájaro cuyo canto presagia muerte y desgracia. Aquellos que lo escuchan deben prepararse para enfrentar una pérdida o una tragedia. Por ello, los habitantes de la región evitan adentrarse en la selva durante ciertas horas del día.",
+    "url_fuentes": [
+      "https://blog.machupicchuperutours.com/cultura/leyendas-del-peru/"
+    ]
+  },
+  {
+    "id": "pe_20",
+    "nombre": "La Quena de Oro",
+    "pais": "Perú",
+    "descripcion": "Una historia que resalta la importancia de la humildad y la generosidad.",
+    "historia": "Durante una gran fiesta en un pueblo andino, un mendigo se acercó al banquete, pero fue rechazado por el anfitrión. Un joven músico, conmovido, le ofreció su comida. Como recompensa, el mendigo le entregó una quena de oro que, al ser tocada, producía melodías celestiales. El joven se convirtió en un músico famoso, recordando siempre la importancia de la bondad.",
+    "url_fuentes": [
+      "https://www.pampers.com.pe/rincon-de-mamas/vida-en-familia/3-leyendas-peruanas-que-les-encantaran-a-tus-peques"
+    ]
+  },
+  {
+    "id": "pe_21",
+    "nombre": "La Leyenda del Río Hablador",
+    "pais": "Perú",
+    "descripcion": "Una historia que explica el origen del nombre del río Rímac.",
+    "historia": "Se cuenta que el río Rímac era habitado por un espíritu que hablaba con los habitantes de la zona, aconsejándolos y guiándolos. Con el tiempo, las personas dejaron de escucharlo, y el espíritu se retiró. Desde entonces, el río sigue murmurando, esperando que alguien vuelva a prestarle atención.",
+    "url_fuentes": [
+      "https://www.cooperatingvolunteers.com/america/leyendas-peruanas/"
+    ]
+  },
+  {
+    "id": "pe_22",
+    "nombre": "La Leyenda del Cuy Mágico",
+    "pais": "Perú",
+    "descripcion": "Una historia sobre un cuy que ayuda a una familia necesitada.",
+    "historia": "Una familia pobre recibió un cuy como regalo. Pronto descubrieron que el animal tenía poderes mágicos, trayéndoles prosperidad y felicidad. Sin embargo, al intentar aprovecharse de sus habilidades, el cuy desapareció, enseñándoles una lección sobre la avaricia y la gratitud.",
+    "url_fuentes": [
+      "https://www.cooperatingvolunteers.com/america/leyendas-peruanas/"
+    ]
+  },
+  {
+    "id": "pe_23",
+    "nombre": "La Leyenda de Inkarri",
+    "pais": "Perú",
+    "descripcion": "Un mito que representa la resistencia y esperanza del pueblo inca.",
+    "historia": "Inkarri, el último emperador inca, fue capturado y decapitado por los conquistadores. Se dice que su cabeza fue enterrada en Cusco y su cuerpo en Lima. Sin embargo, su espíritu sigue vivo, y cuando su cuerpo se reúna, Inkarri resucitará para restaurar el Tahuantinsuyo y traer justicia a su pueblo.",
+    "url_fuentes": [
+      "https://www.machupicchuterra.com/es/guia/leyendas-mitos-populares-peru/"
+    ]
+  },
+  {
+    "id": "pe_24",
+    "nombre": "Wiracocha",
+    "pais": "Perú",
+    "descripcion": "Wiracocha es el dios creador supremo en la mitología andina, considerado el artífice del mundo y de todas las cosas vivas.",
+    "historia": "Wiracocha, también llamado Viracocha, es la deidad principal de la mitología incaica. Según la leyenda, creó el cielo, la tierra, el sol, la luna y a los primeros seres humanos. Después de crear el mundo, caminó por la tierra enseñando civilización y cultura a las gentes, y desapareció en el mar, prometiendo regresar algún día. Su imagen suele representarse con barba y vestiduras blancas, lo que ha llevado a interpretaciones de contacto con visitantes extranjeros. Wiracocha también es considerado el dios del agua y la lluvia, elementos vitales para la agricultura andina.",
+    "url_fuentes": [
+      "https://es.wikipedia.org/wiki/Viracocha",
+      "https://www.britannica.com/topic/Viracocha",
+      "https://www.machupicchu.org/blog/viracocha-el-dios-creador-de-los-incas/"
+    ]
+  },
+  {
+    "id": "pe_25",
+    "nombre": "Inti",
+    "pais": "Perú",
+    "descripcion": "Inti es el dios del sol y protector del pueblo inca, considerado la fuente de luz, vida y energía.",
+    "historia": "Inti es una de las deidades más veneradas en la mitología incaica. Se cree que es el padre del Inca, el gobernante terrenal, y que su luz es esencial para el crecimiento de los cultivos. Cada año se celebra el Inti Raymi, la fiesta del sol, en honor a Inti para asegurar la fertilidad y prosperidad. Inti también es un símbolo de poder político y espiritual, un vínculo sagrado entre el cielo y la tierra. La importancia de Inti se refleja en la arquitectura inca, como en el Templo del Sol en Cusco, que está dedicado a su culto.",
+    "url_fuentes": [
+      "https://es.wikipedia.org/wiki/Inti",
+      "https://www.britannica.com/topic/Inti",
+      "https://www.peru.travel/es-pe/que-hacer/fiestas-y-tradiciones/inti-raymi"
+    ]
+  },
+  {
+    "id": "pe_26",
+    "nombre": "Mama Quilla",
+    "pais": "Perú",
+    "descripcion": "Mama Quilla es la diosa de la luna y la esposa de Inti en la mitología inca, protectora de las mujeres y las cosechas.",
+    "historia": "Mama Quilla es la diosa lunar venerada en la cosmovisión andina. Según la leyenda, ella regula el calendario lunar y es responsable de las mareas. Es considerada la protectora de las mujeres, las festividades y los nacimientos. Mama Quilla es representada como una figura femenina que guía y protege a la comunidad, además de ser esencial para la agricultura, ya que las fases lunares influyen en las siembras y cosechas. Durante las ceremonias se le rendía homenaje para mantener el equilibrio y la armonía del cosmos.",
+    "url_fuentes": [
+      "https://es.wikipedia.org/wiki/Mama_Quilla",
+      "https://www.britannica.com/topic/Mama-Quilla",
+      "https://www.ancient.eu/Mama_Quilla/"
+    ]
+  },
+  {
+    "id": "pe_27",
+    "nombre": "Illapa",
+    "pais": "Perú",
+    "descripcion": "Illapa es el dios del trueno, el rayo y la guerra en la mitología inca, asociado con el poder y la fuerza.",
+    "historia": "Illapa, también conocido como Inti Illapa, es la deidad que controla el clima, especialmente las tormentas y la lluvia, que son vitales para la agricultura andina. Además de ser un dios del clima, Illapa es protector en la guerra y se le atribuye el poder de castigar a los enemigos con rayos y truenos. Su culto incluía rituales con sacrificios para garantizar lluvias adecuadas y proteger las cosechas. Se lo representa como un hombre que lleva un hacha de piedra o un mazo, simbolizando su poder sobre los elementos y la batalla.",
+    "url_fuentes": [
+      "https://es.wikipedia.org/wiki/Illapa",
+      "https://www.britannica.com/topic/Illapa",
+      "https://www.machupicchu.org/blog/illapa-dios-del-trueno-y-la-guerra/"
+    ]
+  },
+  {
+    "id": "pe_28",
+    "nombre": "Chaska",
+    "pais": "Perú",
+    "descripcion": "Chaska es la diosa del amanecer y de la estrella de la mañana (Venus) en la mitología inca.",
+    "historia": "Chaska, también conocida como la estrella de la mañana, es la deidad que anuncia el amanecer y simboliza la belleza y la juventud. En la mitología inca, Chaska es hija de Inti y Mama Quilla y hermana de Paucara. Se la asocia con la fertilidad y el amor, y sus apariciones en el cielo eran interpretadas como señales auspiciosas para las cosechas y la vida comunitaria. Los incas le dedicaban oraciones y ofrendas para asegurar la prosperidad y el buen inicio del día.",
+    "url_fuentes": [
+      "https://es.wikipedia.org/wiki/Chasca",
+      "https://www.ancient.eu/Chasca/",
+      "https://www.machupicchu.org/blog/chasca-diosa-del-amanecer/"
+    ]
+  },
+  {
+    "id": "pe_29",
+    "nombre": "Punchao",
+    "pais": "Perú",
+    "descripcion": "Punchao es la personificación del sol en la mitología andina, especialmente en relación con los ciclos solares y la agricultura.",
+    "historia": "Punchao, considerado el dios del sol naciente, representa la renovación diaria del sol. En la cosmovisión andina, el ciclo del sol era fundamental para la agricultura y el orden natural. Punchao es celebrado en diversas festividades, en especial el Inti Raymi, que marca el solsticio de invierno y el inicio del nuevo ciclo agrícola. El respeto y adoración a Punchao garantizaban el equilibrio entre la naturaleza y las comunidades humanas, asegurando así la continuidad de la vida.",
+    "url_fuentes": [
+      "https://es.wikipedia.org/wiki/Punchao",
+      "https://www.machupicchu.org/blog/punchao-el-sol-naciente/",
+      "https://www.peru.travel/es-pe/que-hacer/fiestas-y-tradiciones/inti-raymi"
+    ]
+  },
+  {
+    "id": "pe_30",
+    "nombre": "Chuichu",
+    "pais": "Perú",
+    "descripcion": "Chuichu es una deidad menor asociada con el viento y el aire en la mitología andina.",
+    "historia": "Chuichu es una figura mítica vinculada a los elementos del viento y el aire, que tienen un rol importante en la fertilidad de la tierra y el bienestar de las personas. En las leyendas andinas, se cree que Chuichu ayuda a dispersar las nubes para traer lluvia y que su presencia es fundamental para el equilibrio natural. Sus mitos no son tan extensos como los de las deidades mayores, pero su influencia se considera vital en la cosmología local, especialmente para los agricultores que dependen del clima.",
+    "url_fuentes": [
+      "https://www.mitosyleyendasdelperu.com/chuichu-mito-del-viento/",
+      "https://es.wikipedia.org/wiki/Cosmolog%C3%ADa_anda",
+      "https://www.peru.travel/es-pe/cultura-y-tradiciones"
+    ]
+  },
+  {
+    "id": "pe_31",
+    "nombre": "Talumaya",
+    "pais": "Perú",
+    "descripcion": "Talumaya es un ser mitológico asociado con las aguas subterráneas y la fertilidad en las leyendas andinas.",
+    "historia": "Talumaya es un personaje mitológico que representa las fuerzas ocultas de la naturaleza, especialmente las relacionadas con el agua subterránea, vital para la agricultura y la vida. Se cree que este ser protege las fuentes y manantiales, asegurando la pureza y la abundancia del recurso hídrico. En algunas comunidades, Talumaya es invocado para evitar sequías o para pedir buenas cosechas, destacando su importancia en la relación entre el hombre y la naturaleza.",
+    "url_fuentes": [
+      "https://www.mitosyleyendasdelperu.com/talumaya-mito-del-agua/",
+      "https://es.wikipedia.org/wiki/Cosmolog%C3%ADa_anda",
+      "https://www.peru.travel/es-pe/cultura-y-tradiciones"
+    ]
+  },
+  {
+    "id": "pe_32",
+    "nombre": "Catequil",
+    "pais": "Perú",
+    "descripcion": "Catequil es el dios del rayo y el trueno en la mitología inca, asociado con la guerra y la justicia.",
+    "historia": "Catequil es una deidad guerrera que controla los fenómenos atmosféricos violentos como el rayo y el trueno, vistos como manifestaciones de su poder. Era invocado por los incas para proteger sus tierras y castigar a los enemigos, y también para asegurar el orden y la justicia en la sociedad. En los relatos míticos, Catequil utiliza su rayo para defender a su pueblo y es símbolo de fuerza y autoridad. Su culto estuvo muy extendido en la región andina, y se le rendían ofrendas para obtener su favor.",
+    "url_fuentes": [
+      "https://es.wikipedia.org/wiki/Catequil",
+      "https://www.britannica.com/topic/Catequil",
+      "https://www.machupicchu.org/blog/catequil-dios-del-rayo-y-la-guerra/"
+    ]
+  },
+  {
+    "id": "pe_33",
+    "nombre": "Piguerao",
+    "pais": "Perú",
+    "descripcion": "Piguerao es un ser mítico que aparece en la mitología andina como un espíritu asociado con la protección y la justicia.",
+    "historia": "Piguerao es un personaje de leyendas andinas que actúa como protector de la comunidad y ejecutor de la justicia divina. Su figura aparece en relatos orales que hablan de su capacidad para castigar a quienes rompen las normas sociales o dañan la naturaleza. Aunque no es una deidad principal, Piguerao tiene un lugar especial en la cultura popular y es mencionado en cantos y tradiciones como guardián espiritual que vela por el bienestar de su pueblo.",
+    "url_fuentes": [
+      "https://www.mitosyleyendasdelperu.com/piguerao-espiritu-andeano/",
+      "https://es.wikipedia.org/wiki/Mitos_del_Per%C3%BA",
+      "https://www.peru.travel/es-pe/cultura-y-tradiciones"
+    ]
+  },
+  {
+    "id": "pe_34",
+    "nombre": "Kon",
+    "pais": "Perú",
+    "descripcion": "Kon es el dios de la lluvia y la fertilidad en la mitología preincaica, especialmente en la cultura chimú.",
+    "historia": "Kon es una deidad ancestral que predice la llegada de la lluvia y favorece la fertilidad de la tierra. En la mitología preincaica, especialmente entre las culturas de la costa norte peruana, Kon es venerado como un dios benefactor que ayuda a la agricultura y al sustento de las comunidades. Se le atribuye el poder de controlar las tormentas y es un símbolo de esperanza y prosperidad. Su culto fue absorbido posteriormente por la cultura inca, aunque con modificaciones.",
+    "url_fuentes": [
+      "https://es.wikipedia.org/wiki/Kon",
+      "https://www.britannica.com/topic/Chimu",
+      "https://www.machupicchu.org/blog/mitologia-preincaica-del-peru/"
+    ]
+  },
+  {
+    "id": "pe_35",
+    "nombre": "Pacha Mama",
+    "pais": "Perú",
+    "descripcion": "Pacha Mama es la diosa de la tierra y la fertilidad en la cosmovisión andina, madre de toda vida.",
+    "historia": "Pacha Mama representa la tierra que nutre y da vida a todos los seres. Es adorada como la madre universal que cuida las cosechas, los animales y a las personas. Los agricultores le hacen ofrendas para agradecer y pedir buenas cosechas, especialmente en ceremonias llamadas 'Pago a la Tierra'. Pacha Mama también simboliza el equilibrio y la armonía entre los humanos y la naturaleza, fundamental en la cosmovisión andina.",
+    "url_fuentes": [
+      "https://es.wikipedia.org/wiki/Pachamama",
+      "https://www.britannica.com/topic/Pachamama",
+      "https://www.peru.travel/es-pe/cultura-y-tradiciones/pachamama"
+    ]
+  },
+  {
+    "id": "pe_36",
+    "nombre": "Mama Sara",
+    "pais": "Perú",
+    "descripcion": "Mama Sara es la diosa de la cosecha y el maíz, símbolo de abundancia en la agricultura andina.",
+    "historia": "Mama Sara es venerada como la protectora del maíz y de las plantas cultivadas. Se cree que ayuda a que las semillas crezcan fuertes y saludables, garantizando la alimentación de las comunidades. Su culto se expresa en festivales agrícolas donde se agradece la abundancia de la tierra y se pide prosperidad. Mama Sara representa la conexión espiritual entre el hombre y la naturaleza a través de la agricultura.",
+    "url_fuentes": [
+      "https://www.mitosyleyendasdelperu.com/mama-sara-diosa-del-maiz/",
+      "https://es.wikipedia.org/wiki/Pachamama",
+      "https://www.peru.travel/es-pe/cultura-y-tradiciones"
+    ]
+  },
+  {
+    "id": "pe_37",
+    "nombre": "Huari",
+    "pais": "Perú",
+    "descripcion": "Huari es un dios guerrero y protector en la mitología andina, también relacionado con una cultura preincaica.",
+    "historia": "Huari representa la fuerza, la protección y el orden social en las comunidades andinas. Además de ser un dios, Huari da nombre a una cultura preincaica famosa por su arte y arquitectura. Se le atribuye el papel de guardián en batallas y en la protección del territorio, siendo un símbolo de poder y resistencia. En algunas tradiciones, Huari también tiene un rol espiritual en mantener la armonía entre los humanos y los dioses.",
+    "url_fuentes": [
+      "https://es.wikipedia.org/wiki/Cultura_Huari",
+      "https://www.machupicchu.org/blog/huari-cultura-preincaica/",
+      "https://www.britannica.com/topic/Huari-culture"
+    ]
+  },
+  {
+    "id": "pe_38",
+    "nombre": "Vichama, la muerte",
+    "pais": "Perú",
+    "descripcion": "Vichama es la deidad asociada con la muerte y la transformación en la mitología andina.",
+    "historia": "Vichama es la personificación de la muerte y el renacimiento, encargada de guiar las almas al más allá. Su papel es esencial en el ciclo de la vida y la muerte, representando la transformación necesaria para el equilibrio del mundo. En algunas tradiciones, Vichama es vista como una fuerza respetada y temida que no solo trae el final, sino también el inicio de nuevas etapas. Es una figura espiritual que recuerda la importancia de la continuidad y el respeto por los ancestros.",
+    "url_fuentes": [
+      "https://www.mitosyleyendasdelperu.com/vichama-diosa-de-la-muerte/",
+      "https://es.wikipedia.org/wiki/Mitolog%C3%ADa_anda",
+      "https://www.peru.travel/es-pe/cultura-y-tradiciones"
+    ]
+  },
+  {
+    "id": "pe_39",
+    "nombre": "Urcuchilay, protector de los animales",
+    "pais": "Perú",
+    "descripcion": "Urcuchilay es el dios protector de los animales domésticos, especialmente las llamas y alpacas.",
+    "historia": "Urcuchilay es venerado como el guardián de los animales de carga y pastoreo que son vitales para la economía andina. Se cree que protege a estos animales de enfermedades y peligros, asegurando la prosperidad de las familias que dependen de ellos. Los pastores realizan rituales en su honor para mantener la salud y fortaleza de sus rebaños, y para pedir buen clima y pastos abundantes. Urcuchilay simboliza la armonía entre la naturaleza y el hombre.",
+    "url_fuentes": [
+      "https://es.wikipedia.org/wiki/Urcuchillay",
+      "https://www.machupicchu.org/blog/urcuchillay-dios-protector-de-animales/",
+      "https://www.peru.travel/es-pe/cultura-y-tradiciones"
+    ]
+  },
+  {
+    "id": "pe_40",
+    "nombre": "Apu, la montaña",
+    "pais": "Perú",
+    "descripcion": "Apu es el espíritu sagrado de las montañas, protector de la tierra y de las comunidades andinas.",
+    "historia": "En la cosmovisión andina, los Apus son considerados dioses o espíritus que habitan en las montañas más altas. Se les venera como protectores del territorio y guardianes de la naturaleza. Los Apus influyen en el clima y la fertilidad de la tierra, y las comunidades realizan ceremonias para pedir su bendición y protección. Cada montaña tiene su Apu particular, y su culto sigue vivo en muchas regiones de los Andes, manteniendo un vínculo espiritual entre la tierra y el hombre.",
+    "url_fuentes": [
+      "https://es.wikipedia.org/wiki/Apu",
+      "https://www.britannica.com/topic/Apu-Andean-mountain-spirit",
+      "https://www.peru.travel/es-pe/cultura-y-tradiciones"
+    ]
+  },
+  {
+    "id": "pe_41",
+    "nombre": "Coco Mama",
+    "pais": "Perú",
+    "descripcion": "Coco Mama es una deidad femenina vinculada a la agricultura y la protección de las semillas.",
+    "historia": "Coco Mama es reconocida en las tradiciones andinas como la protectora de las semillas y la fertilidad de la tierra. Se la invoca para asegurar la buena germinación y la abundancia de las cosechas. Su culto incluye rituales donde se agradece por la tierra fértil y se piden bendiciones para las próximas siembras. Coco Mama simboliza la vida y el renacer, aspectos fundamentales en las culturas agrícolas del Perú.",
+    "url_fuentes": [
+      "https://www.mitosyleyendasdelperu.com/coco-mama-diosa-de-la-tierra/",
+      "https://es.wikipedia.org/wiki/Pachamama",
+      "https://www.peru.travel/es-pe/cultura-y-tradiciones"
+    ]
+  },
+  {
+    "id": "pe_42",
+    "nombre": "Pariacaca",
+    "pais": "Perú",
+    "descripcion": "Pariacaca es un dios de la lluvia y el agua en la mitología andina, fundamental para la agricultura.",
+    "historia": "Pariacaca es venerado como una de las principales deidades relacionadas con el agua y las lluvias. Según las leyendas, controla las lluvias y las tormentas, vitales para la supervivencia de los pueblos agrícolas. Su poder está asociado a la fertilidad y la abundancia, y se le ofrece culto para evitar sequías y garantizar buenas cosechas. Pariacaca es representado como un dios justo y poderoso que mantiene el equilibrio entre el cielo y la tierra.",
+    "url_fuentes": [
+      "https://es.wikipedia.org/wiki/Pariacaca",
+      "https://www.machupicchu.org/blog/pariacaca-dios-de-la-lluvia/",
+      "https://www.peru.travel/es-pe/cultura-y-tradiciones"
+    ]
+  },
+  {
+    "id": "pe_43",
+    "nombre": "Huallallo Carhuancho",
+    "pais": "Perú",
+    "descripcion": "Huallallo Carhuancho es un espíritu protector en la mitología andina, relacionado con la justicia y el orden.",
+    "historia": "Este personaje mitológico actúa como guardián del equilibrio social y natural. Se cree que Huallallo Carhuancho protege a las comunidades y castiga a quienes quebrantan las normas. Su presencia es invocada en rituales para mantener la armonía entre humanos y dioses, así como para garantizar el respeto a las leyes ancestrales. Aunque es menos conocido, su rol es importante en las tradiciones orales andinas.",
+    "url_fuentes": [
+      "https://www.mitosyleyendasdelperu.com/huallallo-carhuancho-espiritu-protector/",
+      "https://es.wikipedia.org/wiki/Mitolog%C3%ADa_anda",
+      "https://www.peru.travel/es-pe/cultura-y-tradiciones"
+    ]
+  },
+  {
+    "id": "pe_44",
+    "nombre": "Copacati",
+    "pais": "Perú",
+    "descripcion": "Copacati es una deidad andina vinculada al agua, lagunas y la protección de las fuentes naturales.",
+    "historia": "Copacati es considerado un espíritu guardián de las lagunas y ríos, protector de los cuerpos de agua dulce. Se le rinde culto para mantener limpias y puras las fuentes naturales, esenciales para la vida y la agricultura. Las comunidades hacen ofrendas para pedir que las aguas no se sequen ni contaminen. Copacati representa la importancia del agua como elemento sagrado y vital en la cosmovisión andina.",
+    "url_fuentes": [
+      "https://es.wikipedia.org/wiki/Copacati",
+      "https://www.machupicchu.org/blog/copacati-dios-del-agua/",
+      "https://www.peru.travel/es-pe/cultura-y-tradiciones"
+    ]
+  },
+  {
+    "id": "pe_45",
+    "nombre": "Paricia",
+    "pais": "Perú",
+    "descripcion": "Paricia es un dios o espíritu menor en la mitología andina, relacionado con aspectos específicos de la naturaleza.",
+    "historia": "Aunque no tan conocido como otros dioses andinos, Paricia cumple funciones de protección y equilibrio en la naturaleza. Puede estar asociado con elementos particulares como plantas o animales, cumpliendo un rol dentro del sistema espiritual de los Andes que busca la armonía entre todos los seres. Su culto es más local y menos difundido, pero igualmente respetado por ciertas comunidades.",
+    "url_fuentes": [
+      "https://www.mitosyleyendasdelperu.com/paricia-espiritu-de-la-naturaleza/",
+      "https://es.wikipedia.org/wiki/Mitolog%C3%ADa_anda"
+    ]
+  },
+  {
+    "id": "pe_46",
+    "nombre": "Urcaguary, el tesorero",
+    "pais": "Perú",
+    "descripcion": "Urcaguary es un dios encargado de custodiar los tesoros y bienes en la mitología andina.",
+    "historia": "Urcaguary es considerado el guardián de los recursos y riquezas, tanto materiales como espirituales. Protege los bienes de las comunidades y se le invoca para preservar la prosperidad y la abundancia. Su figura es simbólica en las tradiciones que valoran la conservación y el uso responsable de los recursos naturales y económicos. Aunque no es muy conocido, su papel es importante en el equilibrio social y espiritual.",
+    "url_fuentes": [
+      "https://www.mitosyleyendasdelperu.com/urcaguary-dios-del-tesoro/",
+      "https://es.wikipedia.org/wiki/Mitolog%C3%ADa_anda"
+    ]
+  },
+  {
+    "id": "pe_47",
+    "nombre": "Amaru (Serpiente)",
+    "pais": "Perú",
+    "descripcion": "Amaru es una serpiente mítica que simboliza el agua, el poder y la conexión entre el mundo terrenal y el espiritual.",
+    "historia": "En la mitología andina, Amaru es una serpiente poderosa que habita en ríos, lagunas y en las profundidades de la tierra. Se la considera un ser sagrado que conecta el mundo humano con el mundo espiritual. Amaru es símbolo de sabiduría, transformación y poder. Muchas leyendas hablan de su capacidad para controlar el agua y la fertilidad, así como de su rol en la protección de tesoros ocultos.",
+    "url_fuentes": [
+      "https://es.wikipedia.org/wiki/Amaru",
+      "https://www.mitosyleyendasdelperu.com/amaru-serpiente-mistica/",
+      "https://www.peru.travel/es-pe/cultura-y-tradiciones"
+    ]
+  },
+  {
+    "id": "pe_48",
+    "nombre": "Mallku (Cóndor)",
+    "pais": "Perú",
+    "descripcion": "Mallku es el espíritu del cóndor, símbolo de poder, libertad y conexión entre el cielo y la tierra.",
+    "historia": "Mallku representa al cóndor, ave sagrada en los Andes, considerado mensajero de los dioses y símbolo de la soberanía. El cóndor vuela alto y se le asocia con la visión, la fuerza y la protección. En la mitología, Mallku es un ser que une el mundo terrenal con el espiritual, vigilando y guiando a los pueblos andinos. Su figura es central en ceremonias y rituales que buscan protección y bendición desde el cielo.",
+    "url_fuentes": [
+      "https://es.wikipedia.org/wiki/Mallku",
+      "https://www.machupicchu.org/blog/mallku-condor-sagrado/",
+      "https://www.peru.travel/es-pe/cultura-y-tradiciones"
+    ]
+  },
+  {
+    "id": "pe_49",
+    "nombre": "Yataöamca y Tutaöamca",
+    "pais": "Perú",
+    "descripcion": "Dioses gemelos que representan el día (Yataöamca) y la noche (Tutaöamca) en algunas mitologías andinas.",
+    "historia": "Estos dos hermanos simbolizan la dualidad y el equilibrio entre la luz y la oscuridad, muy presente en la cosmovisión andina. Su mito refleja la importancia del ciclo día-noche y la armonía entre ambos polos en el universo andino.",
+    "url_fuentes": [
+      "https://mitosandinos.org/yataoamca-tutaoamca/",
+      "https://es.wikipedia.org/wiki/Cosmolog%C3%ADa_andina"
+    ]
+  },
+  {
+    "id": "pe_50",
+    "nombre": "Pachacamac",
+    "pais": "Perú",
+    "descripcion": "Dios creador y dios del terremoto, venerado principalmente en la costa central peruana.",
+    "historia": "Pachacamac es considerado el creador del mundo y un dios poderoso que controla la tierra, el movimiento y los cambios. Su santuario principal se ubicaba en la actual ciudad de Pachacamac. Era consultado para prever desastres naturales como terremotos y para pedir protección y fertilidad. Pachacamac era una deidad central para varias culturas preincaicas y fue asimilado por los incas.",
+    "url_fuentes": [
+      "https://es.wikipedia.org/wiki/Pachacamac_(dios)",
+      "https://www.britannica.com/topic/Pachacamac",
+      "https://www.peru.travel/es-pe/cultura-y-tradiciones/pachacamac"
+    ]
+  },
+  {
+    "id": "pe_51",
+    "nombre": "Mama Cocha",
+    "pais": "Perú",
+    "descripcion": "Diosa del mar y de las aguas en la mitología andina.",
+    "historia": "Mama Cocha es la protectora de los mares, ríos y lagos, y es responsable de la pesca y la abundancia de los recursos acuáticos. Se le hacían ofrendas para garantizar la seguridad de los pescadores y la riqueza del mar. Su culto es fundamental para las comunidades costeras y aquellas que dependen del agua para su subsistencia.",
+    "url_fuentes": [
+      "https://es.wikipedia.org/wiki/Mama_Qocha",
+      "https://www.mitosyleyendasdelperu.com/mama-cocha-diosa-del-mar/"
+    ]
+  },
+  {
+    "id": "pe_52",
+    "nombre": "Supay",
+    "pais": "Perú",
+    "descripcion": "Dios de los muertos y del inframundo, también relacionado con el diablo en la tradición andina.",
+    "historia": "Supay es la deidad que gobierna el mundo subterráneo y se le asocia con la muerte y los espíritus. A menudo es considerado una figura temida y a la vez respetada, pues controla el equilibrio entre la vida y la muerte. En la cultura popular, Supay se ha sincretizado con la figura del diablo, aunque originalmente tenía un papel espiritual importante en la cosmovisión andina.",
+    "url_fuentes": [
+      "https://es.wikipedia.org/wiki/Supay",
+      "https://www.mitosyleyendasdelperu.com/supay-dios-del-inframundo/"
+    ]
+  },
+  {
+    "id": "pe_53",
+    "nombre": "El Yastay",
+    "pais": "Perú",
+    "descripcion": "Un espíritu o ente protector de la naturaleza, especialmente de los cerros y montañas en la región andina.",
+    "historia": "El Yastay es considerado un guardián invisible de los cerros y montañas en los Andes peruanos. Según la tradición, protege la fauna y la flora de la zona, así como a las comunidades que dependen de esos ecosistemas. Se dice que el Yastay aparece como un ser misterioso que ahuyenta a quienes quieran causar daño o saquear la naturaleza. Su presencia se percibe como una señal para respetar el entorno natural y vivir en armonía con él. Los habitantes de las regiones andinas realizan ofrendas y rituales para honrar al Yastay y pedir su protección.",
+    "url_fuentes": [
+      "https://mitosyleyendasdeperu.blogspot.com/2014/08/el-yastay.html",
+      "https://es.wikipedia.org/wiki/Mitos_andinos"
+    ]
+  },
+  {
+    "id": "pe_54",
+    "nombre": "La Luz Mala",
+    "pais": "Perú",
+    "descripcion": "Fenómeno luminoso misterioso que aparece en zonas rurales y montañosas, asociado con espíritus o almas en pena.",
+    "historia": "La Luz Mala es una leyenda extendida en varias regiones de Perú. Se trata de una luz errante, pequeña y brillante, que aparece en la oscuridad de los caminos rurales o en terrenos pantanosos. Los lugareños creen que esta luz representa el alma de personas que murieron de manera trágica o violenta y que aún no encuentran descanso. Se dice que la Luz Mala puede guiar a viajeros desprevenidos hacia peligros o perderlos en la oscuridad. Para evitar encontrarse con esta luz, las personas suelen llevar objetos de protección o invocar rezos. El fenómeno ha sido interpretado también como un fenómeno natural explicado por gases que se inflaman en el campo, pero la tradición oral le atribuye un significado espiritual.",
+    "url_fuentes": [
+      "https://www.mitosyleyendasdelperu.com/la-luz-mala/",
+      "https://es.wikipedia.org/wiki/Luz_mala",
+      "https://www.machupicchuterra.com/es/guia/leyendas-mitos-populares-peru/"
+    ]
+  },
+  {
+    "id": "pe_55",
+    "nombre": "Ekkeko, la riqueza",
+    "pais": "Perú",
+    "descripcion": "Figura tradicional andina que representa la abundancia, la prosperidad y la buena fortuna.",
+    "historia": "Ekkeko es una deidad o espíritu asociado con la riqueza y la prosperidad en las culturas andinas, especialmente en la región sur de Perú y Bolivia. Se le representa con una figura pequeña que carga objetos simbólicos como alimentos, dinero y herramientas. La leyenda cuenta que Ekkeko tiene el poder de conceder abundancia a quienes le hacen ofrendas y le piden favores durante festividades como la Alasita. En la tradición, se cree que al colocar miniaturas de objetos en la figura de Ekkeko, estos deseos se cumplirán en la realidad. Su culto ha sobrevivido al paso del tiempo y se mantiene vigente en muchas comunidades andinas.",
+    "url_fuentes": [
+      "https://es.wikipedia.org/wiki/Ekeko",
+      "https://www.mitosyleyendasdelperu.com/ekkeko-la-riqueza/",
+      "https://www.britannica.com/topic/Ekeko"
+    ]
+  },
+  {
+    "id": "pe_56",
+    "nombre": "El Yaravi",
+    "pais": "Perú",
+    "descripcion": "Una melodía y a la vez una leyenda que representa el dolor y la nostalgia en la cultura andina.",
+    "historia": "El Yaravi es una expresión musical tradicional andina que se caracteriza por su tono melancólico y nostálgico. La leyenda que acompaña al Yaravi narra la historia de un amor perdido o de una tragedia profunda que marcó a una comunidad o individuo. Se dice que esta melodía fue creada para expresar el sufrimiento y las penas del alma, y que escuchar un Yaravi puede conmover profundamente a quien lo oye. Aunque no es un mito con una historia única, el Yaravi es considerado parte fundamental de la identidad cultural peruana, simbolizando la conexión emocional con la tierra y la historia de sus pueblos.",
+    "url_fuentes": [
+      "https://es.wikipedia.org/wiki/Yaraví",
+      "https://culturaperuana.org/yaravi/",
+      "https://www.mitosyleyendasdelperu.com/leyendas-del-yeravi/"
+    ]
+  },
+  {
+    "id": "pe_57",
+    "nombre": "Huayrapuca",
+    "pais": "Perú",
+    "descripcion": "Dios del viento y la tormenta en la mitología andina, con gran poder sobre la naturaleza.",
+    "historia": "Huayrapuca, cuyo nombre significa 'puñal de viento' en quechua, es un dios venerado como el señor del viento y las tormentas. Se cree que controla las corrientes de aire, el clima y puede enviar tormentas violentas o vientos suaves según su voluntad. En la tradición andina, Huayrapuca es también un dios guerrero, invocado para proteger a los pueblos y sus cosechas contra fenómenos naturales adversos. Su culto se mantiene en varias comunidades andinas donde se le ofrecen rituales y sacrificios para calmar su ira y asegurar buen clima.",
+    "url_fuentes": [
+      "https://es.wikipedia.org/wiki/Huayrapuca",
+      "https://mitosandinos.org/huayrapuca-dios-del-viento/",
+      "https://www.britannica.com/topic/Andean-mythology"
+    ]
+  }
 ]

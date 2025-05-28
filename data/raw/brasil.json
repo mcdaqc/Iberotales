@@ -1,193 +1,237 @@
 [
-    {
-      "nombre": "Saci-Pererê",
-      "pais": "Brasil",
-      "descripcion": "Trickster del folclore brasileño, representado como un joven de una sola pierna con gorro rojo y pipa.",
-      "historia": "El Saci-Pererê es una figura popular en el folclore brasileño, especialmente en el sur del país. Se le describe como un joven negro o mulato con una sola pierna, que fuma una pipa y lleva una gorra roja mágica que le permite aparecer y desaparecer a voluntad. Es conocido por sus travesuras, como ocultar objetos, asustar a los animales y causar pequeños desastres domésticos. Aunque generalmente inofensivo, puede ser molesto. Se dice que si alguien logra quitarle su gorra, puede pedirle deseos.",
-      "url_fuentes": [
-        "https://es.wikipedia.org/wiki/Sac%C3%AD",
-        "https://www.carpe-diem.today/blog/2015/saci-perer"
-      ]
-    },
-    {
-      "nombre": "Iara",
-      "pais": "Brasil",
-      "descripcion": "Sirena amazónica que seduce a los hombres con su canto y los lleva al fondo del río.",
-      "historia": "La Iara es una figura mitológica de la región amazónica de Brasil. Se la describe como una hermosa mujer con largos cabellos que vive en los ríos. Con su canto melodioso, atrae a los hombres, quienes, hipnotizados, se lanzan al agua y desaparecen. Algunas versiones dicen que los hombres se ahogan, mientras que otras afirman que viven con ella bajo el agua. La leyenda sirve como advertencia sobre los peligros de los ríos y la seducción.",
-      "url_fuentes": [
-        "https://rioandlearn.com/es/leyendas-de-brasil/",
-        "https://psicologiaymente.com/cultura/leyendas-brasilenas"
-      ]
-    },
-    {
-      "nombre": "Curupira",
-      "pais": "Brasil",
-      "descripcion": "Guardían de los bosques con pies al revés que confunde a los cazadores y protege la fauna.",
-      "historia": "El Curupira es una criatura del folclore brasileño que protege los bosques y los animales. Se le representa como un ser de cabello rojo brillante y pies al revés, lo que dificulta seguir sus huellas. Castiga a quienes cazan por deporte o dañan la selva, confundiéndolos y llevándolos a perderse. Es una figura que simboliza la protección de la naturaleza y la importancia de respetar el medio ambiente.",
-      "url_fuentes": [
-        "https://rioandlearn.com/es/leyendas-de-brasil/",
-        "https://psicologiaymente.com/cultura/leyendas-brasilenas"
-      ]
-    },
-    {
-      "nombre": "Boitatá",
-      "pais": "Brasil",
-      "descripcion": "Serpiente de fuego que protege los bosques y castiga a quienes los destruyen.",
-      "historia": "Boitatá es una serpiente de fuego que habita en los bosques brasileños. Según la leyenda, protege la selva de quienes la dañan, especialmente de los incendios provocados. Se dice que castiga a los incendiarios y a quienes dañan la naturaleza. La figura de Boitatá también se asocia con la explicación de las luces que se ven en los campos por la noche, conocidas como fuegos fatuos.",
-      "url_fuentes": [
-        "https://psicologiaymente.com/cultura/leyendas-brasilenas",
-        "https://www.carpe-diem.today/blog/2015/boitata"
-      ]
-    },
-    {
-      "nombre": "Boto Cor-de-Rosa",
-      "pais": "Brasil",
-      "descripcion": "Delfín amazónico que se transforma en un apuesto hombre para seducir a las mujeres.",
-      "historia": "El Boto Cor-de-Rosa es un delfín del Amazonas que, según la leyenda, se transforma en un hombre guapo durante las fiestas locales. Vestido de blanco y con un sombrero para ocultar su respiradero, seduce a las mujeres y las lleva al río, donde desaparecen. Muchas veces, las mujeres que quedan embarazadas sin explicación atribuyen su estado al Boto. La leyenda sirve como advertencia sobre los peligros del río y las relaciones ilícitas.",
-      "url_fuentes": [
-        "https://cebusal.es/podcast/biobrasil-algunas-de-las-mas-hermosas-leyendas-del-folclore-brasileno/",
-        "https://psicologiaymente.com/cultura/leyendas-brasilenas"
-      ]
-    },
-    {
-      "nombre": "Cuca",
-      "pais": "Brasil",
-      "descripcion": "Bruja con forma de caimán que roba a los niños que no duermen.",
-      "historia": "La Cuca es una figura temida en el folclore brasileño, especialmente entre los niños. Se la describe como una bruja con cuerpo de caimán que se lleva a los niños que no quieren dormir. Es utilizada por los padres como una forma de asustar a los niños para que se comporten y se acuesten temprano. La Cuca aparece en canciones de cuna y cuentos infantiles.",
-      "url_fuentes": [
-        "https://psicologiaymente.com/cultura/leyendas-brasilenas",
-        "https://www.carpe-diem.today/blog/2015/cuca"
-      ]
-    },
-    {
-      "nombre": "Mapinguari",
-      "pais": "Brasil",
-      "descripcion": "Criatura gigante del Amazonas con un solo ojo y boca en el estómago.",
-      "historia": "El Mapinguari es una criatura legendaria de la selva amazónica. Se le describe como un ser gigante, cubierto de pelo, con un solo ojo en la frente y una gran boca en el estómago. Se dice que emite un olor fétido y que es muy agresivo. Algunos creen que es un protector de la selva, mientras que otros lo consideran una amenaza. La leyenda podría tener origen en avistamientos de animales desconocidos o extintos.",
-      "url_fuentes": [
-        "https://psicologiaymente.com/cultura/leyendas-brasilenas",
-        "https://www.carpe-diem.today/blog/2015/mapinguari"
-      ]
-    },
-    {
-        "nombre": "Caipora",
-        "pais": "Brasil",
-        "descripcion": "Espíritu protector de los bosques en la mitología tupi-guaraní, conocido por confundir a los cazadores y proteger la fauna.",
-        "historia": "La Caipora es una entidad del folclore brasileño que actúa como guardiana de los animales y los bosques. Se le describe comúnmente como un pequeño indígena de piel oscura, ágil y desnudo, cubierto de pelo, que habita en los bosques y monta un cerdo salvaje. Su misión es proteger a los animales de los cazadores y castigar a aquellos que cazan más de lo necesario o sin permiso. Para confundir a los cazadores, la Caipora puede invertir las huellas en el suelo y emitir silbidos que desorientan. Se dice que acepta ofrendas de tabaco y alcohol para permitir la caza. La leyenda de la Caipora es una advertencia sobre la importancia de respetar la naturaleza y sus criaturas.",
-        "url_fuentes": [
-          "https://en.wikipedia.org/wiki/Caipora",
-          "https://www.ecured.cu/Caipora",
-          "https://legendquest.fandom.com/es/wiki/Caipora"
-        ]
-    },
-    {
-        "nombre": "Anhangá",
-        "pais": "Brasil",
-        "descripcion": "Espíritu protector de los animales en la mitología tupi-guaraní, que aparece como un ciervo blanco con ojos rojos.",
-        "historia": "Anhangá es un espíritu del folclore brasileño que protege a los animales del bosque. Se manifiesta como un ciervo blanco con ojos rojos brillantes y aparece para advertir o castigar a los cazadores que matan por deporte o sin necesidad. Su presencia es un mal presagio y se cree que puede causar enfermedades o mala suerte a quienes desobedecen las leyes de la naturaleza. La leyenda de Anhangá enfatiza el respeto por la vida silvestre y la armonía con el entorno natural.",
-        "url_fuentes": [
-          "https://en.wikipedia.org/wiki/Anhang%C3%A1",
-          "https://www.ecured.cu/Anhang%C3%A1"
-        ]
-    },
-    {
+  {
+    "id": "br_01",
+    "nombre": "Saci-Pererê",
+    "pais": "Brasil",
+    "descripcion": "Trickster del folclore brasileño, representado como un joven de una sola pierna con gorro rojo y pipa.",
+    "historia": "El Saci-Pererê es una figura popular en el folclore brasileño, especialmente en el sur del país. Se le describe como un joven negro o mulato con una sola pierna, que fuma una pipa y lleva una gorra roja mágica que le permite aparecer y desaparecer a voluntad. Es conocido por sus travesuras, como ocultar objetos, asustar a los animales y causar pequeños desastres domésticos. Aunque generalmente inofensivo, puede ser molesto. Se dice que si alguien logra quitarle su gorra, puede pedirle deseos.",
+    "url_fuentes": [
+      "https://es.wikipedia.org/wiki/Sac%C3%AD",
+      "https://www.carpe-diem.today/blog/2015/saci-perer"
+    ]
+  },
+  {
+    "id": "br_02",
+    "nombre": "Iara",
+    "pais": "Brasil",
+    "descripcion": "Sirena amazónica que seduce a los hombres con su canto y los lleva al fondo del río.",
+    "historia": "La Iara es una figura mitológica de la región amazónica de Brasil. Se la describe como una hermosa mujer con largos cabellos que vive en los ríos. Con su canto melodioso, atrae a los hombres, quienes, hipnotizados, se lanzan al agua y desaparecen. Algunas versiones dicen que los hombres se ahogan, mientras que otras afirman que viven con ella bajo el agua. La leyenda sirve como advertencia sobre los peligros de los ríos y la seducción.",
+    "url_fuentes": [
+      "https://rioandlearn.com/es/leyendas-de-brasil/",
+      "https://psicologiaymente.com/cultura/leyendas-brasilenas"
+    ]
+  },
+  {
+    "id": "br_03",
+    "nombre": "Curupira",
+    "pais": "Brasil",
+    "descripcion": "Guardían de los bosques con pies al revés que confunde a los cazadores y protege la fauna.",
+    "historia": "El Curupira es una criatura del folclore brasileño que protege los bosques y los animales. Se le representa como un ser de cabello rojo brillante y pies al revés, lo que dificulta seguir sus huellas. Castiga a quienes cazan por deporte o dañan la selva, confundiéndolos y llevándolos a perderse. Es una figura que simboliza la protección de la naturaleza y la importancia de respetar el medio ambiente.",
+    "url_fuentes": [
+      "https://rioandlearn.com/es/leyendas-de-brasil/",
+      "https://psicologiaymente.com/cultura/leyendas-brasilenas"
+    ]
+  },
+  {
+    "id": "br_04",
+    "nombre": "Boitatá",
+    "pais": "Brasil",
+    "descripcion": "Serpiente de fuego que protege los bosques y castiga a quienes los destruyen.",
+    "historia": "Boitatá es una serpiente de fuego que habita en los bosques brasileños. Según la leyenda, protege la selva de quienes la dañan, especialmente de los incendios provocados. Se dice que castiga a los incendiarios y a quienes dañan la naturaleza. La figura de Boitatá también se asocia con la explicación de las luces que se ven en los campos por la noche, conocidas como fuegos fatuos.",
+    "url_fuentes": [
+      "https://psicologiaymente.com/cultura/leyendas-brasilenas",
+      "https://www.carpe-diem.today/blog/2015/boitata"
+    ]
+  },
+  {
+    "id": "br_05",
+    "nombre": "Boto Cor-de-Rosa",
+    "pais": "Brasil",
+    "descripcion": "Delfín amazónico que se transforma en un apuesto hombre para seducir a las mujeres.",
+    "historia": "El Boto Cor-de-Rosa es un delfín del Amazonas que, según la leyenda, se transforma en un hombre guapo durante las fiestas locales. Vestido de blanco y con un sombrero para ocultar su respiradero, seduce a las mujeres y las lleva al río, donde desaparecen. Muchas veces, las mujeres que quedan embarazadas sin explicación atribuyen su estado al Boto. La leyenda sirve como advertencia sobre los peligros del río y las relaciones ilícitas.",
+    "url_fuentes": [
+      "https://cebusal.es/podcast/biobrasil-algunas-de-las-mas-hermosas-leyendas-del-folclore-brasileno/",
+      "https://psicologiaymente.com/cultura/leyendas-brasilenas"
+    ]
+  },
+  {
+    "id": "br_06",
+    "nombre": "Cuca",
+    "pais": "Brasil",
+    "descripcion": "Bruja con forma de caimán que roba a los niños que no duermen.",
+    "historia": "La Cuca es una figura temida en el folclore brasileño, especialmente entre los niños. Se la describe como una bruja con cuerpo de caimán que se lleva a los niños que no quieren dormir. Es utilizada por los padres como una forma de asustar a los niños para que se comporten y se acuesten temprano. La Cuca aparece en canciones de cuna y cuentos infantiles.",
+    "url_fuentes": [
+      "https://psicologiaymente.com/cultura/leyendas-brasilenas",
+      "https://www.carpe-diem.today/blog/2015/cuca"
+    ]
+  },
+  {
+    "id": "br_07",
+    "nombre": "Mapinguari",
+    "pais": "Brasil",
+    "descripcion": "Criatura gigante del Amazonas con un solo ojo y boca en el estómago.",
+    "historia": "El Mapinguari es una criatura legendaria de la selva amazónica. Se le describe como un ser gigante, cubierto de pelo, con un solo ojo en la frente y una gran boca en el estómago. Se dice que emite un olor fétido y que es muy agresivo. Algunos creen que es un protector de la selva, mientras que otros lo consideran una amenaza. La leyenda podría tener origen en avistamientos de animales desconocidos o extintos.",
+    "url_fuentes": [
+      "https://psicologiaymente.com/cultura/leyendas-brasilenas",
+      "https://www.carpe-diem.today/blog/2015/mapinguari"
+    ]
+  },
+  {
+    "id": "br_08",
+    "nombre": "Caipora",
+    "pais": "Brasil",
+    "descripcion": "Espíritu protector de los bosques en la mitología tupi-guaraní, conocido por confundir a los cazadores y proteger la fauna.",
+    "historia": "La Caipora es una entidad del folclore brasileño que actúa como guardiana de los animales y los bosques. Se le describe comúnmente como un pequeño indígena de piel oscura, ágil y desnudo, cubierto de pelo, que habita en los bosques y monta un cerdo salvaje. Su misión es proteger a los animales de los cazadores y castigar a aquellos que cazan más de lo necesario o sin permiso. Para confundir a los cazadores, la Caipora puede invertir las huellas en el suelo y emitir silbidos que desorientan. Se dice que acepta ofrendas de tabaco y alcohol para permitir la caza. La leyenda de la Caipora es una advertencia sobre la importancia de respetar la naturaleza y sus criaturas.",
+    "url_fuentes": [
+      "https://en.wikipedia.org/wiki/Caipora",
+      "https://www.ecured.cu/Caipora",
+      "https://legendquest.fandom.com/es/wiki/Caipora"
+    ]
+  },
+  {
+    "id": "br_09",
+    "nombre": "Anhangá",
+    "pais": "Brasil",
+    "descripcion": "Espíritu protector de los animales en la mitología tupi-guaraní, que aparece como un ciervo blanco con ojos rojos.",
+    "historia": "Anhangá es un espíritu del folclore brasileño que protege a los animales del bosque. Se manifiesta como un ciervo blanco con ojos rojos brillantes y aparece para advertir o castigar a los cazadores que matan por deporte o sin necesidad. Su presencia es un mal presagio y se cree que puede causar enfermedades o mala suerte a quienes desobedecen las leyes de la naturaleza. La leyenda de Anhangá enfatiza el respeto por la vida silvestre y la armonía con el entorno natural.",
+    "url_fuentes": [
+      "https://en.wikipedia.org/wiki/Anhang%C3%A1",
+      "https://www.ecured.cu/Anhang%C3%A1"
+    ]
+  },
+  {
+    "id": "br_10",
     "nombre": "Mula sem cabeça",
     "pais": "Brasil",
     "descripcion": "Leyenda de una mujer maldita que se transforma en una mula sin cabeza que lanza fuego por el cuello.",
     "historia": "La Mula sem cabeça es una figura del folclore brasileño que representa a una mujer que, como castigo por sus pecados, especialmente por relaciones prohibidas con sacerdotes, es condenada a transformarse en una mula sin cabeza que galopa por los campos durante la noche, lanzando fuego por el cuello. Su aparición es temida y se considera un presagio de desgracias. La leyenda sirve como advertencia moral sobre las consecuencias de los actos prohibidos.",
     "url_fuentes": [
-        "https://en.wikipedia.org/wiki/Headless_Mule",
-        "https://www.ecured.cu/Mula_sem_cabe%C3%A7a"
+      "https://en.wikipedia.org/wiki/Headless_Mule",
+      "https://www.ecured.cu/Mula_sem_cabe%C3%A7a"
     ]
-    },
-    {
+  },
+  {
+    "id": "br_11",
     "nombre": "Negrinho do Pastoreio",
     "pais": "Brasil",
     "descripcion": "Leyenda de un niño esclavo que, tras ser injustamente castigado, se convierte en un espíritu que ayuda a encontrar objetos perdidos.",
     "historia": "Negrinho do Pastoreio es una leyenda del sur de Brasil sobre un niño esclavo que fue injustamente castigado por perder el ganado que cuidaba. Abandonado y dejado morir, su espíritu fue acogido por la Virgen María. Desde entonces, se cree que ayuda a las personas a encontrar objetos perdidos, especialmente si se le encienden velas en su honor. La leyenda destaca temas de injusticia, redención y fe.",
     "url_fuentes": [
-        "https://en.wikipedia.org/wiki/Negrinho_do_Pastoreio",
-        "https://www.ecured.cu/Negrinho_do_Pastoreio"
+      "https://en.wikipedia.org/wiki/Negrinho_do_Pastoreio",
+      "https://www.ecured.cu/Negrinho_do_Pastoreio"
     ]
-    },
-    {
+  },
+  {
+    "id": "br_12",
     "nombre": "Lobisomem",
     "pais": "Brasil",
     "descripcion": "Versión brasileña del hombre lobo, un hombre que se transforma en lobo durante las noches de luna llena.",
     "historia": "El Lobisomem es una criatura del folclore brasileño que se transforma en lobo durante las noches de luna llena. Se cree que esta maldición recae sobre el séptimo hijo varón de una familia o sobre aquellos que cometen ciertos pecados. Durante su transformación, el Lobisomem vaga por los campos y bosques, causando temor entre las comunidades rurales. La leyenda es una adaptación local del mito europeo del hombre lobo, fusionado con creencias indígenas y africanas.",
     "url_fuentes": [
-        "https://en.wikipedia.org/wiki/Lobisomem",
-        "https://www.ecured.cu/Lobisomem"
+      "https://en.wikipedia.org/wiki/Lobisomem",
+      "https://www.ecured.cu/Lobisomem"
     ]
-    },
-    {
+  },
+  {
+    "id": "br_13",
     "nombre": "Tupã",
     "pais": "Brasil",
     "descripcion": "Dios supremo de la mitología tupí-guaraní, asociado con el trueno y la creación.",
     "historia": "Tupã es considerado el creador del universo, la humanidad y los espíritus del bien y del mal. Descendió a la Tierra con la diosa de la luna, Arasy, y desde un monte en la región de Areguá creó todo lo que existe.",
-    "url_fuentes": ["https://pt.wikipedia.org/wiki/Tup%C3%A3", "https://es.wikipedia.org/wiki/Mitolog%C3%ADa_guaran%C3%AD"]
-    },
-    {
+    "url_fuentes": [
+      "https://pt.wikipedia.org/wiki/Tup%C3%A3",
+      "https://es.wikipedia.org/wiki/Mitolog%C3%ADa_guaran%C3%AD"
+    ]
+  },
+  {
+    "id": "br_14",
     "nombre": "Jaci",
     "pais": "Brasil",
     "descripcion": "Diosa de la luna en la mitología tupí-guaraní, protectora de las plantas, los amantes y la reproducción.",
     "historia": "Jaci, también conocida como Ya-cy o Ia-cy, fue creada por Tupã para iluminar la noche cuando Guaraci descansaba. Es considerada madre de los vegetales y símbolo de la feminidad.",
-    "url_fuentes": ["https://www.sonsofgodsrpg.com/jaci?lang=es"]
-    },
-    {
+    "url_fuentes": [
+      "https://www.sonsofgodsrpg.com/jaci?lang=es"
+    ]
+  },
+  {
+    "id": "br_15",
     "nombre": "Guaraci",
     "pais": "Brasil",
     "descripcion": "Dios del sol en la mitología tupí-guaraní, asociado con la vida y la creación.",
     "historia": "Guaraci, también llamado Quaraci o Coaraci, es la representación del sol y la luz. Es hermano de Jaci y, junto con Tupã, participó en la creación de los seres vivos.",
-    "url_fuentes": ["https://www.sonsofgodsrpg.com/guaraci?lang=es"]
-    },
-    {
+    "url_fuentes": [
+      "https://www.sonsofgodsrpg.com/guaraci?lang=es"
+    ]
+  },
+  {
+    "id": "br_16",
     "nombre": "Yorixiriamori",
     "pais": "Brasil",
     "descripcion": "Figura mítica de la mitología yanomami, conocida por su canto encantador.",
     "historia": "Yorixiriamori es un personaje del mito de la 'árvore cantante'. Su canto atraía a las mujeres, lo que provocó la envidia de los hombres. Finalmente, se transformó en un pájaro y desapareció.",
-    "url_fuentes": ["https://pt.wikipedia.org/wiki/Yorixiriamori"]
-    },
-    {
+    "url_fuentes": [
+      "https://pt.wikipedia.org/wiki/Yorixiriamori"
+    ]
+  },
+  {
+    "id": "br_17",
     "nombre": "Anhangá",
     "pais": "Brasil",
     "descripcion": "Espíritu protector de los animales en la mitología tupí-guaraní.",
     "historia": "Anhangá aparece comúnmente como un ciervo blanco con ojos de fuego. Protege a los animales y castiga a los cazadores que matan sin necesidad.",
-    "url_fuentes": ["https://es.wikipedia.org/wiki/A%C3%B1ang%C3%A1"]
-    },
-    {
+    "url_fuentes": [
+      "https://es.wikipedia.org/wiki/A%C3%B1ang%C3%A1"
+    ]
+  },
+  {
+    "id": "br_18",
     "nombre": "Ceuci",
     "pais": "Brasil",
     "descripcion": "Diosa de la agricultura en la mitología tupí.",
     "historia": "Ceuci es considerada la 'Virgen María' de la teogonía tupí debido a su concepción milagrosa. Es la diosa de la agricultura, bendice la tierra y los alimentos.",
-    "url_fuentes": ["https://www.sonsofgodsrpg.com/ceuci?lang=es", "https://www.naterrafarms.com/es/get-involved-2"]
-    },
-    {
+    "url_fuentes": [
+      "https://www.sonsofgodsrpg.com/ceuci?lang=es",
+      "https://www.naterrafarms.com/es/get-involved-2"
+    ]
+  },
+  {
+    "id": "br_19",
     "nombre": "Akuanduba",
     "pais": "Brasil",
     "descripcion": "Deidad de la mitología del pueblo arara, mantenía el orden tocando su flauta.",
     "historia": "Akuanduba tocaba su flauta para traer orden al mundo. Debido a la desobediencia humana, fueron castigados y tuvieron que aprender a vivir de nuevo.",
-    "url_fuentes": ["https://mythus.fandom.com/wiki/Akuanduba"]
-    },
-    {
+    "url_fuentes": [
+      "https://mythus.fandom.com/wiki/Akuanduba"
+    ]
+  },
+  {
+    "id": "br_20",
     "nombre": "Wanadi",
     "pais": "Brasil",
     "descripcion": "Dios supremo en la mitología yekuana, creador del mundo.",
     "historia": "Wanadi, representado por el pájaro carpintero real, soñó con el mundo y al soñarlo, lo creó. Es una figura central en la cosmovisión yekuana.",
-    "url_fuentes": ["https://es.wikipedia.org/wiki/Pueblo_yekuana"]
-    },
-    {
+    "url_fuentes": [
+      "https://es.wikipedia.org/wiki/Pueblo_yekuana"
+    ]
+  },
+  {
+    "id": "br_21",
     "nombre": "Yebá Bëló",
     "pais": "Brasil",
     "descripcion": "Figura mítica femenina de la mitología yanomami, madre de los dioses.",
     "historia": "Yebá Bëló es considerada la madre de los dioses y creadora de la humanidad en la mitología yanomami.",
-    "url_fuentes": ["https://super.abril.com.br/mundo-estranho/quais-sao-os-principais-deuses-da-mitologia-indigena-brasileira/"]
-    },
-    {
+    "url_fuentes": [
+      "https://super.abril.com.br/mundo-estranho/quais-sao-os-principais-deuses-da-mitologia-indigena-brasileira/"
+    ]
+  },
+  {
+    "id": "br_22",
     "nombre": "Sumé",
     "pais": "Brasil",
     "descripcion": "Entidad de la mitología tupí, enseñó conocimientos a los indígenas.",
     "historia": "Sumé, también conocido como Zumé o Pay Sumé, transmitió conocimientos como la agricultura y normas sociales a los indígenas antes de la llegada de los portugueses.",
-    "url_fuentes": ["https://pt.wikipedia.org/wiki/Sum%C3%A9"]
-    }
+    "url_fuentes": [
+      "https://pt.wikipedia.org/wiki/Sum%C3%A9"
+    ]
+  }
 ]

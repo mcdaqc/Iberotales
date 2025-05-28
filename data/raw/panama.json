@@ -1,346 +1,386 @@
 [
-    {
-        "nombre": "Caragabí",
-        "pais": "Panamá",
-        "descripcion": "Deidad suprema de los Emberá-Wounaan, creador del mundo y de los seres humanos.",
-        "historia": "Caragabí es una figura central en la mitología de los Emberá-Wounaan. Según sus creencias, Caragabí creó el universo, los humanos y estableció el orden del mundo. Utilizó una roca sagrada llamada Mompahuará para moldear a los primeros seres humanos y les dio vida soplando en sus frentes, manos y pies. También creó el sol y la luna, y estableció las leyes y el respeto por la vida humana.",
-        "url_fuentes": [
-          "https://panama-tour.site123.me/an%C3%A9cdotas-de-panam%C3%A1/mitos-y-leyendas-de-los-ember%C3%A1-wounaan"
-        ]
-      },
-      {
-        "nombre": "Genzera",
-        "pais": "Panamá",
-        "descripcion": "Entidad femenina que custodiaba las aguas del mundo en una cueva.",
-        "historia": "En la mitología Emberá-Wounaan, Genzera era una mujer que guardaba las aguas del mundo en una cueva. Caragabí le pidió agua, pero ella se negó. Como castigo, Caragabí la cortó en dos, pero no murió; se transformó en una gran hormiga negra que lleva agua en su boca para depositarla en un árbol hueco llamado Genené, del cual se originan los mares, ríos y arroyos.",
-        "url_fuentes": [
-          "https://panama-tour.site123.me/an%C3%A9cdotas-de-panam%C3%A1/mitos-y-leyendas-de-los-ember%C3%A1-wounaan"
-        ]
-      },
-      {
-        "nombre": "Genené",
-        "pais": "Panamá",
-        "descripcion": "Árbol mítico del cual se originan todas las aguas del mundo.",
-        "historia": "Según la mitología Emberá-Wounaan, el árbol Genené es el recipiente donde Genzera, transformada en hormiga, deposita el agua que lleva en su boca. De este árbol brotan los mares, ríos, arroyos y pantanos, siendo esencial en la creación del mundo acuático.",
-        "url_fuentes": [
-          "https://panama-tour.site123.me/an%C3%A9cdotas-de-panam%C3%A1/mitos-y-leyendas-de-los-ember%C3%A1-wounaan"
-        ]
-      },
-      {
-        "nombre": "Tatzitzetze",
-        "pais": "Panamá",
-        "descripcion": "Deidad primordial de los Emberá-Wounaan, creador del universo y de Caragabí.",
-        "historia": "Tatzitzetze es considerado el ser supremo en la mitología Emberá-Wounaan. Él creó el universo y a Caragabí, quien luego se encargó de moldear el mundo y a los seres humanos. Tatzitzetze representa el origen de todo lo existente.",
-        "url_fuentes": [
-          "https://panama-tour.site123.me/an%C3%A9cdotas-de-panam%C3%A1/mitos-y-leyendas-de-los-ember%C3%A1-wounaan"
-        ]
-      },
-      {
-        "nombre": "Tutruica",
-        "pais": "Panamá",
-        "descripcion": "Dios del mundo Armucura que ayudó a Caragabí en la creación de los humanos.",
-        "historia": "En la mitología Emberá-Wounaan, Tutruica es el dios del mundo Armucura. Caragabí le pidió ayuda para crear a los seres humanos, y Tutruica le obsequió un pedazo de barro, con el cual Caragabí logró darles vida soplando en sus frentes, manos y pies.",
-        "url_fuentes": [
-          "https://panama-tour.site123.me/an%C3%A9cdotas-de-panam%C3%A1/mitos-y-leyendas-de-los-ember%C3%A1-wounaan"
-        ]
-      },
-      {
-        "nombre": "Humantahú",
-        "pais": "Panamá",
-        "descripcion": "Nombre dado al sol, creado a partir del primer hombre.",
-        "historia": "Según la mitología Emberá-Wounaan, después de crear al primer hombre y la primera mujer, Caragabí los transformó en cuerpos celestes. El hombre se convirtió en el sol, llamado Humantahú, para iluminar el mundo.",
-        "url_fuentes": [
-          "https://panama-tour.site123.me/an%C3%A9cdotas-de-panam%C3%A1/mitos-y-leyendas-de-los-ember%C3%A1-wounaan"
-        ]
-      },
-      {
-        "nombre": "Gedeco",
-        "pais": "Panamá",
-        "descripcion": "Nombre dado a la luna, creada a partir de la primera mujer.",
-        "historia": "En la mitología Emberá-Wounaan, la primera mujer creada por Caragabí fue transformada en la luna, llamada Gedeco, para acompañar al sol y brindar luz durante la noche.",
-        "url_fuentes": [
-          "https://panama-tour.site123.me/an%C3%A9cdotas-de-panam%C3%A1/mitos-y-leyendas-de-los-ember%C3%A1-wounaan"
-        ]
-      },
-      {
-        "nombre": "La Tepesa",
-        "pais": "Panamá",
-        "descripcion": "Espíritu femenino que vaga por los ríos llorando por su hijo perdido.",
-        "historia": "La Tepesa es una leyenda que se remonta a la época de la conquista. Una joven indígena de la comarca Ngöbe-Buglé quedó embarazada de un español y, para ocultar su falta, ahogó a su hijo en un río. Como castigo, fue maldecida a vagar eternamente llorando por su pecado, apareciendo en ríos y quebradas.",
-        "url_fuentes": [
-          "https://nuestropanama.weebly.com/leyendas-y-mitos.html"
-        ]
-      },
-      {
-        "nombre": "La Pavita de Tierra",
-        "pais": "Panamá",
-        "descripcion": "Espíritu de una joven que murió por su adicción al tabaco y ahora asusta en los campos.",
-        "historia": "Paula, apodada 'Pavita', era una joven adicta al tabaco. Su padre, al descubrir que seguía fumando a escondidas, la golpeó hasta matarla. Desde entonces, su espíritu vaga por los campos, emitiendo un zumbido molesto y asustando a quienes intentan encender fuego cerca de donde escondía sus colillas.",
-        "url_fuentes": [
-          "https://nuestropanama.weebly.com/leyendas-y-mitos.html"
-        ]
-      },
-      {
-        "nombre": "La Vieja",
-        "pais": "Panamá",
-        "descripcion": "Entidad femenina que seduce a los hombres para luego devorarlos.",
-        "historia": "La Vieja es una mujer de apariencia atractiva que aparece en los caminos durante la noche. Seduce a los hombres y, al abrazarlos, muestra su verdadera forma con una dentadura feroz con la que los devora. Se dice que persigue a jugadores empedernidos, infieles y alcohólicos.",
-        "url_fuentes": [
-          "https://resgaurdoindigenapananmitosyleyendas.blogspot.com/2009/08/mitos-y-leyendas-resguardo-indigena-de.html"
-        ]
-      },
-      {
-        "nombre": "La India Dormida",
-        "pais": "Panamá",
-        "descripcion": "Leyenda de una princesa indígena que, tras una desilusión amorosa, murió y su figura quedó plasmada en una montaña.",
-        "historia": "Flor del Aire, hija del cacique Urracá, se enamoró de un conquistador español, desechando el amor de Yaraví, un joven de su tribu. Yaraví, desesperado, se suicidó, y Flor del Aire, arrepentida, vagó hasta morir. Su figura quedó plasmada en la montaña conocida como 'La India Dormida' en El Valle de Antón.",
-        "url_fuentes": [
-          "https://www.scribd.com/document/515482302/GUIA-No-2-RELIGION-II-TRI"
-        ]
-      },
-      {
-        "nombre": "El Dueño del Monte",
-        "pais": "Panamá",
-        "descripcion": "Espíritu guardián de los bosques que protege a los animales de los cazadores.",
-        "historia": "El Dueño del Monte es descrito como un ser gigante cubierto de pelo, con un solo ojo brillante. Se dice que es el alma en pena de un cazador que, como castigo, fue devuelto al mundo para proteger a los animales de la montaña, espantando a los cazadores furtivos.",
-        "url_fuentes": [
-          "https://es.wikipedia.org/wiki/Due%C3%B1o_del_monte"
-        ]
-      },
-      {
-        "nombre": "La Silampa",
-        "pais": "Panamá",
-        "descripcion": "Espíritu femenino que aparece como una sábana blanca flotante, devorando a quienes se cruzan en su camino.",
-        "historia": "La Silampa es una criatura similar a un fantasma que sobrevuela caminos y campos, confundiéndose con la niebla. Se dice que puede crecer varios metros de altura y, si se encuentra hambrienta, envuelve a su presa y la devora hasta dejar solo los huesos.",
-        "url_fuentes": [
-          "https://es.wikipedia.org/wiki/Silampa"
-        ]
-      },
-    {
-      "nombre": "La Silampa",
-      "pais": "Panamá",
-      "descripcion": "Espíritu que se manifiesta como una sábana blanca flotante en la niebla.",
-      "historia": "La Silampa es un ser legendario que aparece como una figura blanca que flota en la niebla, especialmente en caminos solitarios y campos. Se dice que envuelve a los viajeros desprevenidos, llevándolos a perderse o incluso a la muerte. Algunos relatos la describen como el espíritu de una mujer que sufrió una tragedia y ahora vaga en busca de compañía.",
-      "url_fuentes": [
-        "https://es.wikipedia.org/wiki/Silampa"
-      ]
-    },
-    {
-      "nombre": "La Tulivieja",
-      "pais": "Panamá",
-      "descripcion": "Mujer transformada en monstruo por abandonar a su hijo.",
-      "historia": "Según la leyenda, una joven madre abandonó a su hijo para asistir a una fiesta. Como castigo, fue transformada en una criatura horrenda con alas y garras, condenada a buscar eternamente a su hijo perdido. Se dice que su lamento se escucha en las noches, especialmente cerca de ríos y quebradas.",
-      "url_fuentes": [
-        "https://es.slideshare.net/slideshow/26-leyendas-panameas/60417160"
-      ]
-    },
-    {
-      "nombre": "El Chivato",
-      "pais": "Panamá",
-      "descripcion": "Demonio con cuerpo de hombre y patas de chivo.",
-      "historia": "El Chivato es una criatura demoníaca con cuerpo humano y patas de cabra, que emite un fuerte olor a azufre. Se aparece en caminos solitarios, especialmente a aquellos que han cometido actos inmorales, como advertencia o castigo por sus acciones.",
-      "url_fuentes": [
-        "https://es.scribd.com/document/411283589/Mitos-y-Leyendas-Angely-2-de-Panama"
-      ]
-    },
-    {
-      "nombre": "La Mujer Empollerada",
-      "pais": "Panamá",
-      "descripcion": "Espíritu que engaña a los hombres con su belleza.",
-      "historia": "Se dice que una hermosa mujer vestida con la tradicional pollera panameña aparece en las fiestas y bailes, atrayendo a los hombres con su encanto. Sin embargo, aquellos que la siguen desaparecen sin dejar rastro, ya que en realidad es un espíritu vengativo que castiga la infidelidad y la lujuria.",
-      "url_fuentes": [
-        "https://es.scribd.com/document/604203537/Mitologia-Panamena"
-      ]
-    },
-    {
-      "nombre": "La Pavita de Tierra",
-      "pais": "Panamá",
-      "descripcion": "Espíritu de una niña que murió por fumar.",
-      "historia": "La leyenda cuenta que una niña desobedeció a sus padres y fumó a escondidas. Como castigo, murió y su espíritu quedó atrapado en la tierra. Se aparece a los niños que fuman o desobedecen, como advertencia para que no sigan su mal ejemplo.",
-      "url_fuentes": [
-        "https://es.scribd.com/document/604203537/Mitologia-Panamena"
-      ]
-    },
-    {
-      "nombre": "El Padre sin Cabeza",
-      "pais": "Panamá",
-      "descripcion": "Fantasma de un sacerdote decapitado que vaga por las noches.",
-      "historia": "En la Villa de Los Santos, se cuenta la historia de un sacerdote que fue decapitado y cuyo espíritu sin cabeza aparece a medianoche, especialmente en las cercanías de la iglesia. Su aparición es considerada un mal presagio.",
-      "url_fuentes": [
-        "https://www.monografias.com/docs/Mitos-y-Leyendas-Paname%C3%B1os-F3RZZ3YBZ"
-      ]
-    },
-    {
-      "nombre": "La Niña Encantada del Salto del Pilón",
-      "pais": "Panamá",
-      "descripcion": "Espíritu de una niña que se aparece en una cascada.",
-      "historia": "En el Salto del Pilón, en Perales, Guararé, se cuenta la historia de una niña que se peina con una trenza de oro en la cima de la cascada. Aquellos que intentan acercarse a ella desaparecen misteriosamente, y se dice que es un espíritu encantado que protege el lugar.",
-      "url_fuentes": [
-        "https://storymaps.arcgis.com/stories/9396d30950754a46b7ab9019e6aecf68"
-      ]
-    },
-    {
-      "nombre": "El Cerro Sapo",
-      "pais": "Panamá",
-      "descripcion": "Montaña encantada habitada por un demonio en forma de sapo.",
-      "historia": "La leyenda cuenta que el dios Acoré tenía un siervo llamado Jungurú, quien era envidiado por un demonio en forma de sapo. Este demonio habitaba en el Cerro Sapo y buscaba perjudicar a Jungurú. Se dice que el cerro está encantado y que aquellos que se aventuran en él pueden ser víctimas del demonio.",
-      "url_fuentes": [
-        "https://es.slideshare.net/slideshow/panama-tierra-de-mitos-y-leyendas3/5264192"
-      ]
-    },
-    {
-      "nombre": "La India Dormida",
-      "pais": "Panamá",
-      "descripcion": "Montaña con forma de mujer acostada, relacionada con una leyenda de amor.",
-      "historia": "La India Dormida es una formación montañosa que, vista desde cierta perspectiva, parece una mujer acostada. La leyenda cuenta que una princesa indígena se enamoró de un conquistador español, lo que causó la desaprobación de su pueblo. Desesperada, se lanzó desde la montaña y su cuerpo formó la silueta que se ve hoy.",
-      "url_fuentes": [
-        "https://es.slideshare.net/slideshow/26-leyendas-panameas/60417160"
-      ]
-    },
-    {
-      "nombre": "El Cristo Negro de Portobelo",
-      "pais": "Panamá",
-      "descripcion": "Imagen religiosa milagrosa venerada en Portobelo.",
-      "historia": "El Cristo Negro llegó a Portobelo en 1658 y desde entonces es objeto de gran devoción. Se le atribuyen numerosos milagros, especialmente durante una epidemia de viruela que cesó tras una procesión en su honor. Cada año, miles de peregrinos visitan la iglesia de San Felipe para rendirle homenaje.",
-      "url_fuentes": [
-        "https://www.prensa.com/politica/Leyendas-Cristo-Negro_0_2249775086.html"
-      ]
-    },
-    {
-      "nombre": "La Mujer Encantada",
-      "pais": "Panamá",
-      "descripcion": "Espíritu que aparece en las noches para atraer a los hombres.",
-      "historia": "Se dice que una mujer de belleza inigualable aparece en las noches, especialmente en caminos solitarios, para atraer a los hombres. Aquellos que la siguen desaparecen sin dejar rastro. Algunos creen que es el espíritu de una mujer que murió trágicamente y busca compañía en su soledad eterna.",
-      "url_fuentes": [
-        "https://es.slideshare.net/slideshow/26-leyendas-panameas/60417160"
-      ]
-    },
-    {
-      "nombre": "La Sirena del Risacua",
-      "pais": "Panamá",
-      "descripcion": "Criatura mitad mujer, mitad pez que habita en el río Risacua.",
-      "historia": "En el río Risacua, se cuenta la historia de una sirena que aparece en las noches, cantando melodías que atraen a los hombres. Aquellos que se acercan demasiado son arrastrados al fondo del río. Se dice que es el espíritu de una mujer que murió ahogada y ahora busca compañía.",
-      "url_fuentes": [
-        "https://es.slideshare.net/slideshow/26-leyendas-panameas/60417160"
-      ]
-    },
-    {
-      "nombre": "La Tepesa",
-      "pais": "Panamá",
-      "descripcion": "Espíritu de una mujer que se aparece en los caminos rurales.",
-      "historia": "La Tepesa es una mujer que aparece en los caminos rurales, especialmente en las noches. Se dice que aquellos que la ven quedan hechizados por su belleza y la siguen, perdiéndose en el monte. Algunos creen que es el espíritu de una mujer que murió trágicamente y busca compañía.",
-      "url_fuentes": [
-        "https://es.slideshare.net/slideshow/26-leyendas-panameas/60417160"
-      ]
-    },
-    {
-      "nombre": "El Penador",
-      "pais": "Panamá",
-      "descripcion": "Alma en pena que vaga por las noches lamentándose.",
-      "historia": "El Penador es un espíritu que vaga por las noches, emitiendo lamentos que hielan la sangre. Se dice que es el alma de un hombre que cometió un grave pecado y ahora busca redención. Su aparición es considerada un mal presagio.",
-      "url_fuentes": [
-        "https://es.slideshare.net/slideshow/26-leyendas-panameas/60417160"
-      ]
-    },
-    {
-      "nombre": "La Piedra del Diablo",
-      "pais": "Panamá",
-      "descripcion": "Roca que se dice fue lanzada por el diablo.",
-      "historia": "En ciertas regiones de Panamá, hay una piedra de gran tamaño que, según la leyenda, fue lanzada por el diablo en un intento de destruir una iglesia. Sin embargo, la piedra cayó lejos de su objetivo y quedó como testimonio de la lucha entre el bien y el mal.",
-      "url_fuentes": [
-        "https://es.slideshare.net/slideshow/26-leyendas-panameas/60417160"]
-    },
-    {
-      "nombre": "El Dientico",
-      "pais": "Panamá",
-      "descripcion": "Entidad con forma de niño que aterroriza mostrando sus dientes sobrenaturales.",
-      "historia": "El Dientico es un ser que se presenta como un niño común, pero al ser recogido por alguien, revela una dentadura aterradora, causando pánico a quien lo encuentra.",
-      "url_fuentes": [
-        "https://www.robertodelaguardia.com/publications/article_pages/de_la_guardia_descripcion_1968"
-      ]
-    },
-    {
-      "nombre": "Los Burlones",
-      "pais": "Panamá",
-      "descripcion": "Entes que emboscan a los viajeros, alargando partes de su cuerpo para asustarlos.",
-      "historia": "Los Burlones son seres que se dividen en grupos para emboscar a los viajeros, utilizando su capacidad de alargar partes de su cuerpo para causar terror de manera progresiva.",
-      "url_fuentes": [
-        "https://www.robertodelaguardia.com/publications/article_pages/de_la_guardia_descripcion_1968"
-      ]
-    },
-    {
-      "nombre": "Las Pantominas",
-      "pais": "Panamá",
-      "descripcion": "Sombras humanoides que castigan desviaciones religiosas.",
-      "historia": "Las Pantominas son entidades que aparecen como sombras humanoides con jirones de trapo, creciendo hasta caer sobre aquellos que se burlan de prácticas religiosas, especialmente durante fechas sagradas.",
-      "url_fuentes": [
-        "https://www.robertodelaguardia.com/books/mitologia_panamena/capitulo_6"
-      ]
-    },
-    {
-      "nombre": "La Ganga",
-      "pais": "Panamá",
-      "descripcion": "Espíritu en forma de mota blanca que sale del cementerio.",
-      "historia": "La Ganga es una aparición que se manifiesta como una mota blanca creciente, emergiendo de los cementerios y paseándose por las calles del poblado durante la noche.",
-      "url_fuentes": [
-        "https://www.robertodelaguardia.com/publications/article_pages/de_la_guardia_descripcion_1968"
-      ]
-    },
-    {
-      "nombre": "El Riviel",
-      "pais": "Panamá",
-      "descripcion": "Espíritu fluvial con múltiples formas.",
-      "historia": "El Riviel es un ente sobrenatural asociado a los ríos, que puede presentarse como ataúd, sombra o figura antropomorfa, causando temor entre quienes lo encuentran cerca del agua.",
-      "url_fuentes": [
-        "https://www.robertodelaguardia.com/publications/article_pages/de_la_guardia_descripcion_1968"
-      ]
-    },
-    {
-      "nombre": "La Mona de Tolé",
-      "pais": "Panamá",
-      "descripcion": "Criatura con forma de mono que roba niños.",
-      "historia": "La Mona es un ser de apariencia simiesca que aparece en las plazas de los pueblos, realizando piruetas antes de desaparecer. Se le atribuye la actividad de robar niños.",
-      "url_fuentes": [
-        "https://www.robertodelaguardia.com/books/mitologia_panamena/capitulo_7"
-      ]
-    },
-    {
-      "nombre": "El Diablo de Santa Fe",
-      "pais": "Panamá",
-      "descripcion": "Espíritu maligno con patas de cabra y ojos como brasas.",
-      "historia": "Este diablo es descrito como un ser mitad hombre, mitad animal, con patas de cabra, cuernos y ojos que parecen brasas encendidas. Se le considera el regente de toda la maldad existente.",
-      "url_fuentes": [
-        "https://www.robertodelaguardia.com/books/mitologia_panamena/capitulo_3"
-      ]
-    },
-    {
-      "nombre": "El Diablo de San Francisco de la Montaña",
-      "pais": "Panamá",
-      "descripcion": "Entidad que dirige a los malos espíritus y brujas.",
-      "historia": "Este diablo es conocido por reunir a las brujas en el cementerio y dirigir a los malos espíritus. Se aparece a quienes desean riquezas a cambio de su alma.",
-      "url_fuentes": [
-        "https://www.robertodelaguardia.com/books/mitologia_panamena/capitulo_3"
-      ]
-    },
-    {
-      "nombre": "La Luz que Camina de Santa Fe",
-      "pais": "Panamá",
-      "descripcion": "Luz que se levanta del suelo y camina durante las noches oscuras.",
-      "historia": "Esta luz, vista durante las noches oscuras, se eleva del suelo y se desplaza con movimientos sucesivos. Se le asocia con fuegos fatuos o espíritus.",
-      "url_fuentes": [
-        "https://www.robertodelaguardia.com/books/mitologia_panamena/capitulo_4"
-      ]
-    },
-    {
-      "nombre": "Las Luces de San Francisco de la Montaña",
-      "pais": "Panamá",
-      "descripcion": "Luces que indican la presencia de tesoros o ánimas en pena.",
-      "historia": "Estas luces aparecen en cementerios o lugares donde hay tesoros enterrados. Se cree que son ánimas en pena o señales de riquezas ocultas.",
-      "url_fuentes": [
-        "https://www.robertodelaguardia.com/books/mitologia_panamena/capitulo_4"
-      ]
-    },
   {
+    "id": "pa_01",
+    "nombre": "Caragabí",
+    "pais": "Panamá",
+    "descripcion": "Deidad suprema de los Emberá-Wounaan, creador del mundo y de los seres humanos.",
+    "historia": "Caragabí es una figura central en la mitología de los Emberá-Wounaan. Según sus creencias, Caragabí creó el universo, los humanos y estableció el orden del mundo. Utilizó una roca sagrada llamada Mompahuará para moldear a los primeros seres humanos y les dio vida soplando en sus frentes, manos y pies. También creó el sol y la luna, y estableció las leyes y el respeto por la vida humana.",
+    "url_fuentes": [
+      "https://panama-tour.site123.me/an%C3%A9cdotas-de-panam%C3%A1/mitos-y-leyendas-de-los-ember%C3%A1-wounaan"
+    ]
+  },
+  {
+    "id": "pa_02",
+    "nombre": "Genzera",
+    "pais": "Panamá",
+    "descripcion": "Entidad femenina que custodiaba las aguas del mundo en una cueva.",
+    "historia": "En la mitología Emberá-Wounaan, Genzera era una mujer que guardaba las aguas del mundo en una cueva. Caragabí le pidió agua, pero ella se negó. Como castigo, Caragabí la cortó en dos, pero no murió; se transformó en una gran hormiga negra que lleva agua en su boca para depositarla en un árbol hueco llamado Genené, del cual se originan los mares, ríos y arroyos.",
+    "url_fuentes": [
+      "https://panama-tour.site123.me/an%C3%A9cdotas-de-panam%C3%A1/mitos-y-leyendas-de-los-ember%C3%A1-wounaan"
+    ]
+  },
+  {
+    "id": "pa_03",
+    "nombre": "Genené",
+    "pais": "Panamá",
+    "descripcion": "Árbol mítico del cual se originan todas las aguas del mundo.",
+    "historia": "Según la mitología Emberá-Wounaan, el árbol Genené es el recipiente donde Genzera, transformada en hormiga, deposita el agua que lleva en su boca. De este árbol brotan los mares, ríos, arroyos y pantanos, siendo esencial en la creación del mundo acuático.",
+    "url_fuentes": [
+      "https://panama-tour.site123.me/an%C3%A9cdotas-de-panam%C3%A1/mitos-y-leyendas-de-los-ember%C3%A1-wounaan"
+    ]
+  },
+  {
+    "id": "pa_04",
+    "nombre": "Tatzitzetze",
+    "pais": "Panamá",
+    "descripcion": "Deidad primordial de los Emberá-Wounaan, creador del universo y de Caragabí.",
+    "historia": "Tatzitzetze es considerado el ser supremo en la mitología Emberá-Wounaan. Él creó el universo y a Caragabí, quien luego se encargó de moldear el mundo y a los seres humanos. Tatzitzetze representa el origen de todo lo existente.",
+    "url_fuentes": [
+      "https://panama-tour.site123.me/an%C3%A9cdotas-de-panam%C3%A1/mitos-y-leyendas-de-los-ember%C3%A1-wounaan"
+    ]
+  },
+  {
+    "id": "pa_05",
+    "nombre": "Tutruica",
+    "pais": "Panamá",
+    "descripcion": "Dios del mundo Armucura que ayudó a Caragabí en la creación de los humanos.",
+    "historia": "En la mitología Emberá-Wounaan, Tutruica es el dios del mundo Armucura. Caragabí le pidió ayuda para crear a los seres humanos, y Tutruica le obsequió un pedazo de barro, con el cual Caragabí logró darles vida soplando en sus frentes, manos y pies.",
+    "url_fuentes": [
+      "https://panama-tour.site123.me/an%C3%A9cdotas-de-panam%C3%A1/mitos-y-leyendas-de-los-ember%C3%A1-wounaan"
+    ]
+  },
+  {
+    "id": "pa_06",
+    "nombre": "Humantahú",
+    "pais": "Panamá",
+    "descripcion": "Nombre dado al sol, creado a partir del primer hombre.",
+    "historia": "Según la mitología Emberá-Wounaan, después de crear al primer hombre y la primera mujer, Caragabí los transformó en cuerpos celestes. El hombre se convirtió en el sol, llamado Humantahú, para iluminar el mundo.",
+    "url_fuentes": [
+      "https://panama-tour.site123.me/an%C3%A9cdotas-de-panam%C3%A1/mitos-y-leyendas-de-los-ember%C3%A1-wounaan"
+    ]
+  },
+  {
+    "id": "pa_07",
+    "nombre": "Gedeco",
+    "pais": "Panamá",
+    "descripcion": "Nombre dado a la luna, creada a partir de la primera mujer.",
+    "historia": "En la mitología Emberá-Wounaan, la primera mujer creada por Caragabí fue transformada en la luna, llamada Gedeco, para acompañar al sol y brindar luz durante la noche.",
+    "url_fuentes": [
+      "https://panama-tour.site123.me/an%C3%A9cdotas-de-panam%C3%A1/mitos-y-leyendas-de-los-ember%C3%A1-wounaan"
+    ]
+  },
+  {
+    "id": "pa_08",
+    "nombre": "La Tepesa",
+    "pais": "Panamá",
+    "descripcion": "Espíritu femenino que vaga por los ríos llorando por su hijo perdido.",
+    "historia": "La Tepesa es una leyenda que se remonta a la época de la conquista. Una joven indígena de la comarca Ngöbe-Buglé quedó embarazada de un español y, para ocultar su falta, ahogó a su hijo en un río. Como castigo, fue maldecida a vagar eternamente llorando por su pecado, apareciendo en ríos y quebradas.",
+    "url_fuentes": [
+      "https://nuestropanama.weebly.com/leyendas-y-mitos.html"
+    ]
+  },
+  {
+    "id": "pa_09",
+    "nombre": "La Pavita de Tierra",
+    "pais": "Panamá",
+    "descripcion": "Espíritu de una joven que murió por su adicción al tabaco y ahora asusta en los campos.",
+    "historia": "Paula, apodada 'Pavita', era una joven adicta al tabaco. Su padre, al descubrir que seguía fumando a escondidas, la golpeó hasta matarla. Desde entonces, su espíritu vaga por los campos, emitiendo un zumbido molesto y asustando a quienes intentan encender fuego cerca de donde escondía sus colillas.",
+    "url_fuentes": [
+      "https://nuestropanama.weebly.com/leyendas-y-mitos.html"
+    ]
+  },
+  {
+    "id": "pa_10",
+    "nombre": "La Vieja",
+    "pais": "Panamá",
+    "descripcion": "Entidad femenina que seduce a los hombres para luego devorarlos.",
+    "historia": "La Vieja es una mujer de apariencia atractiva que aparece en los caminos durante la noche. Seduce a los hombres y, al abrazarlos, muestra su verdadera forma con una dentadura feroz con la que los devora. Se dice que persigue a jugadores empedernidos, infieles y alcohólicos.",
+    "url_fuentes": [
+      "https://resgaurdoindigenapananmitosyleyendas.blogspot.com/2009/08/mitos-y-leyendas-resguardo-indigena-de.html"
+    ]
+  },
+  {
+    "id": "pa_11",
+    "nombre": "La India Dormida",
+    "pais": "Panamá",
+    "descripcion": "Leyenda de una princesa indígena que, tras una desilusión amorosa, murió y su figura quedó plasmada en una montaña.",
+    "historia": "Flor del Aire, hija del cacique Urracá, se enamoró de un conquistador español, desechando el amor de Yaraví, un joven de su tribu. Yaraví, desesperado, se suicidó, y Flor del Aire, arrepentida, vagó hasta morir. Su figura quedó plasmada en la montaña conocida como 'La India Dormida' en El Valle de Antón.",
+    "url_fuentes": [
+      "https://www.scribd.com/document/515482302/GUIA-No-2-RELIGION-II-TRI"
+    ]
+  },
+  {
+    "id": "pa_12",
+    "nombre": "El Dueño del Monte",
+    "pais": "Panamá",
+    "descripcion": "Espíritu guardián de los bosques que protege a los animales de los cazadores.",
+    "historia": "El Dueño del Monte es descrito como un ser gigante cubierto de pelo, con un solo ojo brillante. Se dice que es el alma en pena de un cazador que, como castigo, fue devuelto al mundo para proteger a los animales de la montaña, espantando a los cazadores furtivos.",
+    "url_fuentes": [
+      "https://es.wikipedia.org/wiki/Due%C3%B1o_del_monte"
+    ]
+  },
+  {
+    "id": "pa_13",
+    "nombre": "La Silampa",
+    "pais": "Panamá",
+    "descripcion": "Espíritu femenino que aparece como una sábana blanca flotante, devorando a quienes se cruzan en su camino.",
+    "historia": "La Silampa es una criatura similar a un fantasma que sobrevuela caminos y campos, confundiéndose con la niebla. Se dice que puede crecer varios metros de altura y, si se encuentra hambrienta, envuelve a su presa y la devora hasta dejar solo los huesos.",
+    "url_fuentes": [
+      "https://es.wikipedia.org/wiki/Silampa"
+    ]
+  },
+  {
+    "id": "pa_14",
+    "nombre": "La Silampa",
+    "pais": "Panamá",
+    "descripcion": "Espíritu que se manifiesta como una sábana blanca flotante en la niebla.",
+    "historia": "La Silampa es un ser legendario que aparece como una figura blanca que flota en la niebla, especialmente en caminos solitarios y campos. Se dice que envuelve a los viajeros desprevenidos, llevándolos a perderse o incluso a la muerte. Algunos relatos la describen como el espíritu de una mujer que sufrió una tragedia y ahora vaga en busca de compañía.",
+    "url_fuentes": [
+      "https://es.wikipedia.org/wiki/Silampa"
+    ]
+  },
+  {
+    "id": "pa_15",
+    "nombre": "La Tulivieja",
+    "pais": "Panamá",
+    "descripcion": "Mujer transformada en monstruo por abandonar a su hijo.",
+    "historia": "Según la leyenda, una joven madre abandonó a su hijo para asistir a una fiesta. Como castigo, fue transformada en una criatura horrenda con alas y garras, condenada a buscar eternamente a su hijo perdido. Se dice que su lamento se escucha en las noches, especialmente cerca de ríos y quebradas.",
+    "url_fuentes": [
+      "https://es.slideshare.net/slideshow/26-leyendas-panameas/60417160"
+    ]
+  },
+  {
+    "id": "pa_16",
+    "nombre": "El Chivato",
+    "pais": "Panamá",
+    "descripcion": "Demonio con cuerpo de hombre y patas de chivo.",
+    "historia": "El Chivato es una criatura demoníaca con cuerpo humano y patas de cabra, que emite un fuerte olor a azufre. Se aparece en caminos solitarios, especialmente a aquellos que han cometido actos inmorales, como advertencia o castigo por sus acciones.",
+    "url_fuentes": [
+      "https://es.scribd.com/document/411283589/Mitos-y-Leyendas-Angely-2-de-Panama"
+    ]
+  },
+  {
+    "id": "pa_17",
+    "nombre": "La Mujer Empollerada",
+    "pais": "Panamá",
+    "descripcion": "Espíritu que engaña a los hombres con su belleza.",
+    "historia": "Se dice que una hermosa mujer vestida con la tradicional pollera panameña aparece en las fiestas y bailes, atrayendo a los hombres con su encanto. Sin embargo, aquellos que la siguen desaparecen sin dejar rastro, ya que en realidad es un espíritu vengativo que castiga la infidelidad y la lujuria.",
+    "url_fuentes": [
+      "https://es.scribd.com/document/604203537/Mitologia-Panamena"
+    ]
+  },
+  {
+    "id": "pa_18",
+    "nombre": "La Pavita de Tierra",
+    "pais": "Panamá",
+    "descripcion": "Espíritu de una niña que murió por fumar.",
+    "historia": "La leyenda cuenta que una niña desobedeció a sus padres y fumó a escondidas. Como castigo, murió y su espíritu quedó atrapado en la tierra. Se aparece a los niños que fuman o desobedecen, como advertencia para que no sigan su mal ejemplo.",
+    "url_fuentes": [
+      "https://es.scribd.com/document/604203537/Mitologia-Panamena"
+    ]
+  },
+  {
+    "id": "pa_19",
+    "nombre": "El Padre sin Cabeza",
+    "pais": "Panamá",
+    "descripcion": "Fantasma de un sacerdote decapitado que vaga por las noches.",
+    "historia": "En la Villa de Los Santos, se cuenta la historia de un sacerdote que fue decapitado y cuyo espíritu sin cabeza aparece a medianoche, especialmente en las cercanías de la iglesia. Su aparición es considerada un mal presagio.",
+    "url_fuentes": [
+      "https://www.monografias.com/docs/Mitos-y-Leyendas-Paname%C3%B1os-F3RZZ3YBZ"
+    ]
+  },
+  {
+    "id": "pa_20",
+    "nombre": "La Niña Encantada del Salto del Pilón",
+    "pais": "Panamá",
+    "descripcion": "Espíritu de una niña que se aparece en una cascada.",
+    "historia": "En el Salto del Pilón, en Perales, Guararé, se cuenta la historia de una niña que se peina con una trenza de oro en la cima de la cascada. Aquellos que intentan acercarse a ella desaparecen misteriosamente, y se dice que es un espíritu encantado que protege el lugar.",
+    "url_fuentes": [
+      "https://storymaps.arcgis.com/stories/9396d30950754a46b7ab9019e6aecf68"
+    ]
+  },
+  {
+    "id": "pa_21",
+    "nombre": "El Cerro Sapo",
+    "pais": "Panamá",
+    "descripcion": "Montaña encantada habitada por un demonio en forma de sapo.",
+    "historia": "La leyenda cuenta que el dios Acoré tenía un siervo llamado Jungurú, quien era envidiado por un demonio en forma de sapo. Este demonio habitaba en el Cerro Sapo y buscaba perjudicar a Jungurú. Se dice que el cerro está encantado y que aquellos que se aventuran en él pueden ser víctimas del demonio.",
+    "url_fuentes": [
+      "https://es.slideshare.net/slideshow/panama-tierra-de-mitos-y-leyendas3/5264192"
+    ]
+  },
+  {
+    "id": "pa_22",
+    "nombre": "La India Dormida",
+    "pais": "Panamá",
+    "descripcion": "Montaña con forma de mujer acostada, relacionada con una leyenda de amor.",
+    "historia": "La India Dormida es una formación montañosa que, vista desde cierta perspectiva, parece una mujer acostada. La leyenda cuenta que una princesa indígena se enamoró de un conquistador español, lo que causó la desaprobación de su pueblo. Desesperada, se lanzó desde la montaña y su cuerpo formó la silueta que se ve hoy.",
+    "url_fuentes": [
+      "https://es.slideshare.net/slideshow/26-leyendas-panameas/60417160"
+    ]
+  },
+  {
+    "id": "pa_23",
+    "nombre": "El Cristo Negro de Portobelo",
+    "pais": "Panamá",
+    "descripcion": "Imagen religiosa milagrosa venerada en Portobelo.",
+    "historia": "El Cristo Negro llegó a Portobelo en 1658 y desde entonces es objeto de gran devoción. Se le atribuyen numerosos milagros, especialmente durante una epidemia de viruela que cesó tras una procesión en su honor. Cada año, miles de peregrinos visitan la iglesia de San Felipe para rendirle homenaje.",
+    "url_fuentes": [
+      "https://www.prensa.com/politica/Leyendas-Cristo-Negro_0_2249775086.html"
+    ]
+  },
+  {
+    "id": "pa_24",
+    "nombre": "La Mujer Encantada",
+    "pais": "Panamá",
+    "descripcion": "Espíritu que aparece en las noches para atraer a los hombres.",
+    "historia": "Se dice que una mujer de belleza inigualable aparece en las noches, especialmente en caminos solitarios, para atraer a los hombres. Aquellos que la siguen desaparecen sin dejar rastro. Algunos creen que es el espíritu de una mujer que murió trágicamente y busca compañía en su soledad eterna.",
+    "url_fuentes": [
+      "https://es.slideshare.net/slideshow/26-leyendas-panameas/60417160"
+    ]
+  },
+  {
+    "id": "pa_25",
+    "nombre": "La Sirena del Risacua",
+    "pais": "Panamá",
+    "descripcion": "Criatura mitad mujer, mitad pez que habita en el río Risacua.",
+    "historia": "En el río Risacua, se cuenta la historia de una sirena que aparece en las noches, cantando melodías que atraen a los hombres. Aquellos que se acercan demasiado son arrastrados al fondo del río. Se dice que es el espíritu de una mujer que murió ahogada y ahora busca compañía.",
+    "url_fuentes": [
+      "https://es.slideshare.net/slideshow/26-leyendas-panameas/60417160"
+    ]
+  },
+  {
+    "id": "pa_26",
+    "nombre": "La Tepesa",
+    "pais": "Panamá",
+    "descripcion": "Espíritu de una mujer que se aparece en los caminos rurales.",
+    "historia": "La Tepesa es una mujer que aparece en los caminos rurales, especialmente en las noches. Se dice que aquellos que la ven quedan hechizados por su belleza y la siguen, perdiéndose en el monte. Algunos creen que es el espíritu de una mujer que murió trágicamente y busca compañía.",
+    "url_fuentes": [
+      "https://es.slideshare.net/slideshow/26-leyendas-panameas/60417160"
+    ]
+  },
+  {
+    "id": "pa_27",
+    "nombre": "El Penador",
+    "pais": "Panamá",
+    "descripcion": "Alma en pena que vaga por las noches lamentándose.",
+    "historia": "El Penador es un espíritu que vaga por las noches, emitiendo lamentos que hielan la sangre. Se dice que es el alma de un hombre que cometió un grave pecado y ahora busca redención. Su aparición es considerada un mal presagio.",
+    "url_fuentes": [
+      "https://es.slideshare.net/slideshow/26-leyendas-panameas/60417160"
+    ]
+  },
+  {
+    "id": "pa_28",
+    "nombre": "La Piedra del Diablo",
+    "pais": "Panamá",
+    "descripcion": "Roca que se dice fue lanzada por el diablo.",
+    "historia": "En ciertas regiones de Panamá, hay una piedra de gran tamaño que, según la leyenda, fue lanzada por el diablo en un intento de destruir una iglesia. Sin embargo, la piedra cayó lejos de su objetivo y quedó como testimonio de la lucha entre el bien y el mal.",
+    "url_fuentes": [
+      "https://es.slideshare.net/slideshow/26-leyendas-panameas/60417160"
+    ]
+  },
+  {
+    "id": "pa_29",
+    "nombre": "El Dientico",
+    "pais": "Panamá",
+    "descripcion": "Entidad con forma de niño que aterroriza mostrando sus dientes sobrenaturales.",
+    "historia": "El Dientico es un ser que se presenta como un niño común, pero al ser recogido por alguien, revela una dentadura aterradora, causando pánico a quien lo encuentra.",
+    "url_fuentes": [
+      "https://www.robertodelaguardia.com/publications/article_pages/de_la_guardia_descripcion_1968"
+    ]
+  },
+  {
+    "id": "pa_30",
+    "nombre": "Los Burlones",
+    "pais": "Panamá",
+    "descripcion": "Entes que emboscan a los viajeros, alargando partes de su cuerpo para asustarlos.",
+    "historia": "Los Burlones son seres que se dividen en grupos para emboscar a los viajeros, utilizando su capacidad de alargar partes de su cuerpo para causar terror de manera progresiva.",
+    "url_fuentes": [
+      "https://www.robertodelaguardia.com/publications/article_pages/de_la_guardia_descripcion_1968"
+    ]
+  },
+  {
+    "id": "pa_31",
+    "nombre": "Las Pantominas",
+    "pais": "Panamá",
+    "descripcion": "Sombras humanoides que castigan desviaciones religiosas.",
+    "historia": "Las Pantominas son entidades que aparecen como sombras humanoides con jirones de trapo, creciendo hasta caer sobre aquellos que se burlan de prácticas religiosas, especialmente durante fechas sagradas.",
+    "url_fuentes": [
+      "https://www.robertodelaguardia.com/books/mitologia_panamena/capitulo_6"
+    ]
+  },
+  {
+    "id": "pa_32",
+    "nombre": "La Ganga",
+    "pais": "Panamá",
+    "descripcion": "Espíritu en forma de mota blanca que sale del cementerio.",
+    "historia": "La Ganga es una aparición que se manifiesta como una mota blanca creciente, emergiendo de los cementerios y paseándose por las calles del poblado durante la noche.",
+    "url_fuentes": [
+      "https://www.robertodelaguardia.com/publications/article_pages/de_la_guardia_descripcion_1968"
+    ]
+  },
+  {
+    "id": "pa_33",
+    "nombre": "El Riviel",
+    "pais": "Panamá",
+    "descripcion": "Espíritu fluvial con múltiples formas.",
+    "historia": "El Riviel es un ente sobrenatural asociado a los ríos, que puede presentarse como ataúd, sombra o figura antropomorfa, causando temor entre quienes lo encuentran cerca del agua.",
+    "url_fuentes": [
+      "https://www.robertodelaguardia.com/publications/article_pages/de_la_guardia_descripcion_1968"
+    ]
+  },
+  {
+    "id": "pa_34",
+    "nombre": "La Mona de Tolé",
+    "pais": "Panamá",
+    "descripcion": "Criatura con forma de mono que roba niños.",
+    "historia": "La Mona es un ser de apariencia simiesca que aparece en las plazas de los pueblos, realizando piruetas antes de desaparecer. Se le atribuye la actividad de robar niños.",
+    "url_fuentes": [
+      "https://www.robertodelaguardia.com/books/mitologia_panamena/capitulo_7"
+    ]
+  },
+  {
+    "id": "pa_35",
+    "nombre": "El Diablo de Santa Fe",
+    "pais": "Panamá",
+    "descripcion": "Espíritu maligno con patas de cabra y ojos como brasas.",
+    "historia": "Este diablo es descrito como un ser mitad hombre, mitad animal, con patas de cabra, cuernos y ojos que parecen brasas encendidas. Se le considera el regente de toda la maldad existente.",
+    "url_fuentes": [
+      "https://www.robertodelaguardia.com/books/mitologia_panamena/capitulo_3"
+    ]
+  },
+  {
+    "id": "pa_36",
+    "nombre": "El Diablo de San Francisco de la Montaña",
+    "pais": "Panamá",
+    "descripcion": "Entidad que dirige a los malos espíritus y brujas.",
+    "historia": "Este diablo es conocido por reunir a las brujas en el cementerio y dirigir a los malos espíritus. Se aparece a quienes desean riquezas a cambio de su alma.",
+    "url_fuentes": [
+      "https://www.robertodelaguardia.com/books/mitologia_panamena/capitulo_3"
+    ]
+  },
+  {
+    "id": "pa_37",
+    "nombre": "La Luz que Camina de Santa Fe",
+    "pais": "Panamá",
+    "descripcion": "Luz que se levanta del suelo y camina durante las noches oscuras.",
+    "historia": "Esta luz, vista durante las noches oscuras, se eleva del suelo y se desplaza con movimientos sucesivos. Se le asocia con fuegos fatuos o espíritus.",
+    "url_fuentes": [
+      "https://www.robertodelaguardia.com/books/mitologia_panamena/capitulo_4"
+    ]
+  },
+  {
+    "id": "pa_38",
+    "nombre": "Las Luces de San Francisco de la Montaña",
+    "pais": "Panamá",
+    "descripcion": "Luces que indican la presencia de tesoros o ánimas en pena.",
+    "historia": "Estas luces aparecen en cementerios o lugares donde hay tesoros enterrados. Se cree que son ánimas en pena o señales de riquezas ocultas.",
+    "url_fuentes": [
+      "https://www.robertodelaguardia.com/books/mitologia_panamena/capitulo_4"
+    ]
+  },
+  {
+    "id": "pa_39",
     "nombre": "Chubé",
     "pais": "Panamá",
     "descripcion": "Deidad creadora en la mitología buglé, responsable de la creación del mundo y sus habitantes.",
@@ -349,8 +389,8 @@
       "https://es.wikipedia.org/wiki/Chub%C3%A9"
     ]
   },
-
   {
+    "id": "pa_40",
     "nombre": "Ipelele Opa",
     "pais": "Panamá",
     "descripcion": "Figura mítica de la cultura Guna, asociada con la llegada a la tierra y la creación del mundo.",
@@ -360,6 +400,7 @@
     ]
   },
   {
+    "id": "pa_41",
     "nombre": "Dios y Diablo Awá",
     "pais": "Panamá",
     "descripcion": "Figuras míticas en la mitología Awá, representando el bien y el mal en la creación del mundo.",
@@ -369,6 +410,7 @@
     ]
   },
   {
+    "id": "pa_42",
     "nombre": "Nemur",
     "pais": "Panamá",
     "descripcion": "Último de los ahnapzöro, dioses poderosos y terribles de los chamacocos, que lanzó una maldición sobre los humanos.",
@@ -378,6 +420,7 @@
     ]
   },
   {
+    "id": "pa_43",
     "nombre": "Eschetewuarha",
     "pais": "Panamá",
     "descripcion": "Diosa celeste de los chamacocos, considerada la esposa del Gran Espíritu y regente del mundo.",
@@ -387,4 +430,3 @@
     ]
   }
 ]
-  
