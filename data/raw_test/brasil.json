@@ -1,0 +1,13 @@
+[
+  {
+    "id": "br_01",
+    "nombre": "Saci-Pererê",
+    "pais": "Brasil",
+    "descripcion": "Trickster del folclore brasileño, representado como un joven de una sola pierna con gorro rojo y pipa.",
+    "historia": "El Saci-Pererê es una figura popular en el folclore brasileño, especialmente en el sur del país. Se le describe como un joven negro o mulato con una sola pierna, que fuma una pipa y lleva una gorra roja mágica que le permite aparecer y desaparecer a voluntad. Es conocido por sus travesuras, como ocultar objetos, asustar a los animales y causar pequeños desastres domésticos. Aunque generalmente inofensivo, puede ser molesto. Se dice que si alguien logra quitarle su gorra, puede pedirle deseos.",
+    "url_fuentes": [
+      "https://es.wikipedia.org/wiki/Sac%C3%AD",
+      "https://www.carpe-diem.today/blog/2015/saci-perer"
+    ]
+  }
+]

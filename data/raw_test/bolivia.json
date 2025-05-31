@@ -1,0 +1,14 @@
+[
+  {
+    "id": "bo_01",
+    "nombre": "El Ekeko",
+    "pais": "Bolivia",
+    "descripcion": "El Ekeko es una figura tradicional boliviana, un dios de la abundancia y la prosperidad, representado como un hombre pequeño y regordete que lleva una canasta llena de objetos que simbolizan riqueza y buena fortuna.",
+    "historia": "El mito del Ekeko tiene raíces en la cultura aimara y se ha extendido por toda Bolivia y partes de Perú y Argentina. Según la tradición, el Ekeko es un espíritu benevolente que provee bienes materiales y prosperidad a quienes le ofrecen ofrendas, generalmente en forma de miniaturas de objetos deseados, como casas, dinero, comida o ropa. Durante la festividad del Alasita, que se celebra cada año en La Paz, la gente compra y regala pequeñas figuras en miniatura para pedir la bendición del Ekeko. Se dice que si se cuida bien la figura y se le hacen ofrendas, el Ekeko traerá buena suerte, trabajo y bienestar. Su imagen, con su sonrisa y sus bienes, representa la esperanza y la lucha diaria de las personas por mejorar su calidad de vida.",
+    "url_fuentes": [
+      "https://www.bolivianismo.com/cultura/mitologia/ekeko.html",
+      "https://es.wikipedia.org/wiki/Ekeko",
+      "https://www.bbc.com/mundo/noticias-america-latina-47136344"
+    ]
+  }
+]
