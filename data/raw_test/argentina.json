@@ -1,0 +1,23 @@
+[
+  {
+    "id": "ar_01",
+    "nombre": "La Difunta Correa",
+    "pais": "Argentina",
+    "descripcion": "La Difunta Correa es una figura semilegendaria venerada en Argentina, especialmente en la región de Cuyo. Se cree que fue una joven llamada Deolinda Correa que murió de sed en el desierto sanjuanino durante las guerras civiles del siglo XIX, mientras buscaba a su esposo. Su historia ha dado origen a un culto popular, con santuarios y ofrendas en su honor.",
+    "historia": "Durante las guerras civiles argentinas del siglo XIX, Deolinda Correa emprendió un viaje por el desierto de San Juan con su hijo en brazos, en busca de su esposo reclutado a la fuerza. Agotada y sin agua, Deolinda murió en el camino. Días después, unos arrieros encontraron su cuerpo sin vida, pero su hijo seguía vivo, amamantándose de su madre. Este milagro dio origen a la veneración de la Difunta Correa, y su tumba en Vallecito, San Juan, se convirtió en un santuario visitado por miles de devotos que le atribuyen milagros y favores concedidos.",
+    "url_fuentes": [
+      "https://es.wikipedia.org/wiki/Difunta_Correa",
+      "https://www.culturagenial.com/es/mitos-leyendas-argentinas/"
+    ]
+  },
+  {
+    "id": "ar_03",
+    "nombre": "Leyenda del Cerro de los Siete Colores",
+    "pais": "Argentina",
+    "descripcion": "Esta leyenda explica el origen del Cerro de los Siete Colores, ubicado en Purmamarca, Jujuy. Según la tradición, los niños del pueblo pintaron el cerro durante la noche, dándole los colores que hoy lo caracterizan.",
+    "historia": "La leyenda cuenta que, hace mucho tiempo, el cerro que rodeaba el pueblo de Purmamarca era de un solo color y aburrido. Los niños del lugar, preocupados por la tristeza que esto causaba, decidieron pintarlo durante la noche mientras todos dormían. Al amanecer, los habitantes se sorprendieron al ver el cerro lleno de colores vibrantes. Desde entonces, el Cerro de los Siete Colores es un símbolo de alegría y belleza para el pueblo.",
+    "url_fuentes": [
+      "https://www.culturagenial.com/es/mitos-leyendas-argentinas/"
+    ]
+  }
+]
