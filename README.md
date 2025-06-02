@@ -1,6 +1,7 @@
 <div align="center">
 
 # IberoTales
+<em>Alineando modelos de lenguaje con la narrativa de mitos y leyendas de Iberoamérica.</em><br>
 
 <img src="img/portrait.png" alt="Iberotales Banner" width="80%" />
 
