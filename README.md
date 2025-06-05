@@ -8,7 +8,7 @@
 [![Hugging Face Datasets - ibero-tales-es](https://img.shields.io/badge/HuggingFace-ibero--tales--es-yellow?logo=huggingface&logoColor=white)](https://huggingface.co/datasets/somosnlp-hackathon-2025/ibero-tales-es)
 [![Hugging Face Datasets - ibero-characters-es](https://img.shields.io/badge/HuggingFace-ibero--characters--es-yellow?logo=huggingface&logoColor=white)](https://huggingface.co/datasets/somosnlp-hackathon-2025/ibero-characters-es)
 [![Hugging Face Model - iberotales-gemma-3-1b-it-es](https://img.shields.io/badge/HuggingFace-Model-orange?logo=huggingface&logoColor=white)](https://huggingface.co/somosnlp-hackathon-2025/iberotales-gemma-3-1b-it-es)
-[![Hugging Face Demo - iberotales-gemma-3-1b-it-es](https://img.shields.io/badge/HuggingFace-Demo-blue?logo=huggingface&logoColor=white)](https://huggingface.co/spaces/somosnlp-hackathon-2025/IberoTales)
+[![Hugging Face Demo - iberotales-gemma-3-1b-it-es](https://img.shields.io/badge/HuggingFace-Demo-blue?logo=huggingface&logoColor=white)](https://huggingface.co/spaces/somosnlp-hackathon-2025/Iberotales-thinking-demo)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github)](https://github.com/mcdaqc/Iberotales)
 </div>
 
@@ -47,7 +47,7 @@ IberoTales es un proyecto que busca alinear el storytelling en modelos de lengua
 - [`iberotales-gemma-3-1b-it-es`](https://huggingface.co/somosnlp-hackathon-2025/iberotales-gemma-3-1b-it-es): Modelo de lenguaje alineado para generación de historias y narrativa iberoamericana, entrenado sobre los datasets anteriores.
 
 ## Demo
-- [Demo interactiva en Hugging Face Spaces](https://huggingface.co/spaces/somosnlp-hackathon-2025/IberoTales): Prueba el modelo directamente desde tu navegador y genera historias o explora personajes de Iberoamérica.
+- [Demo interactiva en Hugging Face Spaces](https://huggingface.co/spaces/somosnlp-hackathon-2025/Iberotales-thinking-demo): Prueba el modelo directamente desde tu navegador y genera historias o explora personajes de Iberoamérica.
 
 *Nota: Aunque el enfoque principal del proyecto está en la recopilación textual y el alineamiento de un LLM, no se descarta que pueda ampliarse a recursos multimodales (pares texto-imagen) para enriquecer la comprensión contextual y visual de estas tradiciones.*
 
